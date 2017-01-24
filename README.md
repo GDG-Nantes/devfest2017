@@ -1,13 +1,6 @@
-![preview-web](https://cloud.githubusercontent.com/assets/2954281/17777476/5dbbbe1c-6569-11e6-9cc4-77185ae9bf92.png)
+# Devfest Nantes 2017 Website
 
-# Project Hoverboard
-
-[![Join the chat at https://gitter.im/gdg-x/hoverboard](https://badges.gitter.im/gdg-x/hoverboard.svg)](https://gitter.im/gdg-x/hoverboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-> Project Hoverboard is the next generation conference website template after
-[Project Zeppelin](https://github.com/gdg-x/zeppelin) and more optimized
-version - [Project Zeppelin-Grunt](https://github.com/gdg-x/zeppelin-grunt).
-
+> Based on [!Hoverboard Project](https://github.com/gdg-x/hoverboard)
 > Template is brought by [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy)
 from [GDG Lviv](http://lviv.gdg.org.ua/).
 
@@ -68,6 +61,19 @@ Or you can serve Docker container:
 
 :book: Read more in [setup docs](/docs/tutorials/set-up.md).
 
+##### Docker based development env
+
+If you don't want to bother with the dependencies, you can develop in the docker container.
+
+Build:
+
+    docker build -t hoverboard .
+
+and run:
+
+    docker run -it -v "$PWD":/app -p 8080:8080 hoverboard
+
+:book: Read more in [docker docs](/docs/tutorials/docker.md).
 
 ### Build
 
@@ -82,7 +88,7 @@ Or you can build in Docker container:
 
     docker run -v "$PWD":/app hoverboard npm run build
 
-:book: Read more in [deploy docs](/docs/tutorials/deploy.md).   
+:book: Read more in [deploy docs](/docs/tutorials/deploy.md).
 
 ### Updating
 Here is a git workflow for updating your fork (or downloaded copy) to the latest version:
