@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Core Team",
+    "members": [
+      {
+        "name": "Julien Landuré",
+        "photoUrl": "/images/team/jlandure.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Président"
+      },
+      {
+        "name": "Jean-François Garreau",
+        "photoUrl": "/images/team/jgarreau.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Trésorier"
+      },
+      {
+        "name": "Benjamin Petetot",
+        "photoUrl": "/images/team/bpetetot.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Trésorier"
+      },
+      {
+        "name": "Xavier Marc",
+        "photoUrl": "/images/team/xmarc.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Vice-Président"
+      },
+      {
+        "name": "Aymeric Fouchault",
+        "photoUrl": "/images/team/afouchault.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Vice-Secrétaire"
+      },
+      {
+        "name": "Pierrick Guyard",
+        "photoUrl": "/images/team/pguyard.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/",
+            "name": "Google+"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Vice-Trésorier"
+      }
+    ]
+  }
+]

@@ -16,6 +16,7 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
+<<<<<<< HEAD
     "name": "hoverboard-experimental",
     "domain": "hoverboard-experimental.firebaseapp.com",
     "database": "https://hoverboard-experimental.firebaseio.com",
@@ -27,6 +28,65 @@
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+=======
+    "name": "devfestnantes2017-test",
+    "domain": "devfestnantes2017-test.firebaseapp.com",
+    "database": "https://devfestnantes2017-test.firebaseio.com",
+    "api": "AIzaSyBa07A_bclfoeK6_qoGcAFlfJG03dZ5-q0",
+    "userSessionsPath": "/userSessions"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/home2.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "DevFest Nantes 2016",
+          "youtubeId": "WucMDHXj-xQ",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero1.png",
+        "backgroundColor": "#66bb6a",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero2.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero3.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero4.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero5.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+>>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
   },
   "hashtag": "dfua",
   "disqusShortName": "hoverboard-gdg-x",
@@ -56,41 +116,197 @@
       "permalink": "/team/"
     }
   ],
+<<<<<<< HEAD
+=======
+  "url": "https://devfestnantes2017-test.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Français",
+      "key": "fr"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-12",
+          "url": "https://devfest2012.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "https://devfest2013.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "https://devfest2014.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "https://devfest2015.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-16",
+          "url": "https://devfest2016.gdgnantes.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "http://bit.ly/df16-sponsor",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "http://bit.ly/df16-media",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "bureau@gdgnantes.com",
+        "url": "mailto:bureau@gdgnantes.com"
+      }
+    ]
+  },
+  "tickets": {
+    "url": "http://2event.com/events/630032",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 30,
+        "currency": "€",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 50,
+        "currency": "€",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 70,
+        "currency": "€",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 1600,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 4,
+      "caption": "tracks"
+    },
+    {
+      "counter": 60,
+      "caption": "sessions"
+    },
+    {
+      "counter": 70,
+      "caption": "speakers"
+    }
+  ],
+  "hashtag": "DevFestNantes",
+>>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "devfestnantes",
+      "url": "https://twitter.com/devfestnantes"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "Gdgnantes",
+      "url": "https://plus.google.com/+Gdgnantes"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "gdgnantes",
+      "url": "https://www.facebook.com/gdgnantes"
     }
   ],
+<<<<<<< HEAD
   "location": {
     "apiKey": "",
     "name": "Pivdennyi Expo Center",
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "link": "https://www.facebook.com/expopivdennij",
+=======
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
+    "photos": {
+      "big": "/images/backgrounds/2016_1.jpg",
+      "small": [
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "",
+    "link": "http://www.lacite-nantes.fr/",
+>>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 47.2129658,
+      "longitude": -1.5425652,
+      "zoom": 7
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 46.9666849,
+      "longitude": -1.4848352
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -98,6 +314,7 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
+<<<<<<< HEAD
   "gallery": {
     "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
     "photos": {
@@ -165,5 +382,11 @@
         "tabBarColor": "#fff"
       }
     }
+=======
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiVZTEIxKLCsVWWGZBpPHwQy",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "WucMDHXj-xQ"
+>>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
   }
 }
