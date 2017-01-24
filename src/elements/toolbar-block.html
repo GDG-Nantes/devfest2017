@@ -157,38 +157,9 @@
           </paper-tabs>
         </template>
 
-        <paper-tab class="signin-tab" on-tap="signIn" hidden$="[[app.user]]">[[localize('sign-in')]]</paper-tab>
-
-        <paper-menu-button
-          class="auth-menu"
-          hidden$="[[!app.user]]"
-          vertical-align="top"
-          horizontal-align="right"
-          phoneSize$="[[app.isPhoneSize]]"
-          layout horizontal center-center
-        >
-          <div
-            class="profile-image dropdown-trigger"
-            style="background-image: url('[[app.user.photoURL]]')"
-          ></div>
-          <div class="signin-panel dropdown-content">
-            <div class="profile-details" layout horizontal>
-              <div
-                class="profile-image dropdown-trigger"
-                style="background-image: url('[[app.user.photoURL]]')"
-              ></div>
-              <div layout vertical center-justified>
-                <span class="profile-name">[[app.user.displayName]]</span>
-                <span class="profile-email">[[app.user.email]]</span>
-                <span class="profile-action" role="button" on-tap="signOut">[[localize('sign-out')]]</span>
-              </div>
-            </div>
-          </div>
-        </paper-menu-button>
-
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-            <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
+          <a href$="[[app.data.partnershipProposition]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+            <paper-button class="action-button">[[localize('become-a-partner')]]</paper-button>
           </a>
         </div>
       </div>
