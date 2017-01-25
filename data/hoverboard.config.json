@@ -68,10 +68,6 @@
       "permalink": "/blog/"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
       "route": "speakers",
       "permalink": "/speakers/"
     },
@@ -179,7 +175,7 @@
       },
       {
         "name": "early-ticket",
-        "price": 50,
+        "price": 70,
         "currency": "€",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
@@ -188,7 +184,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 70,
+        "price": 90,
         "currency": "€",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
@@ -238,7 +234,7 @@
       "url": "https://www.facebook.com/gdgnantes"
     }
   ],
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://tweetledee.petetot.fr/favoritesjson.php?c=10&cache_interval=8000",
   "gallery": {
     "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
     "photos": {
