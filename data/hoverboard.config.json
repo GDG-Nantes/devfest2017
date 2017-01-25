@@ -16,24 +16,13 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-<<<<<<< HEAD
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
-    "userSessionsPath": "/userSessions",
-    "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
-  },
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-=======
     "name": "devfestnantes2017-test",
     "domain": "devfestnantes2017-test.firebaseapp.com",
     "database": "https://devfestnantes2017-test.firebaseio.com",
     "api": "AIzaSyBa07A_bclfoeK6_qoGcAFlfJG03dZ5-q0",
-    "userSessionsPath": "/userSessions"
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
   },
   "pages": {
     "home": {
@@ -86,7 +75,6 @@
         "tabBarColor": "#fff"
       }
     }
->>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
   },
   "hashtag": "dfua",
   "disqusShortName": "hoverboard-gdg-x",
@@ -94,18 +82,13 @@
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
   "enableSessionsRating": true,
-  "navigation": [
-    {
+  "navigation": [{
       "route": "home",
       "permalink": "/"
     },
     {
       "route": "blog",
       "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
     },
     {
       "route": "speakers",
@@ -116,8 +99,6 @@
       "permalink": "/team/"
     }
   ],
-<<<<<<< HEAD
-=======
   "url": "https://devfestnantes2017-test.firebaseapp.com/",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
@@ -125,8 +106,7 @@
   },
   "partnershipProposition": "http://bit.ly/df16-sponsor",
   "disqusShortName": "hoverboard-gdg-x",
-  "languages": [
-    {
+  "languages": [{
       "name": "English",
       "key": "en"
     },
@@ -135,11 +115,9 @@
       "key": "fr"
     }
   ],
-  "footerBlocks": [
-    {
+  "footerBlocks": [{
       "title": "for-visitors",
-      "links": [
-        {
+      "links": [{
           "text": "team",
           "url": "/team/"
         },
@@ -181,8 +159,7 @@
     },
     {
       "title": "for-partners",
-      "links": [
-        {
+      "links": [{
           "text": "partnership-proposition",
           "url": "http://bit.ly/df16-sponsor",
           "newTab": true
@@ -196,17 +173,14 @@
     }
   ],
   "contactBlock": {
-    "links": [
-      {
-        "text": "bureau@gdgnantes.com",
-        "url": "mailto:bureau@gdgnantes.com"
-      }
-    ]
+    "links": [{
+      "text": "bureau@gdgnantes.com",
+      "url": "mailto:bureau@gdgnantes.com"
+    }]
   },
   "tickets": {
     "url": "http://2event.com/events/630032",
-    "elements": [
-      {
+    "elements": [{
         "name": "student-ticket",
         "price": 30,
         "currency": "€",
@@ -217,7 +191,7 @@
       },
       {
         "name": "early-ticket",
-        "price": 50,
+        "price": 70,
         "currency": "€",
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
@@ -226,7 +200,7 @@
       },
       {
         "name": "lazy-ticket",
-        "price": 70,
+        "price": 90,
         "currency": "€",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
@@ -236,8 +210,7 @@
   },
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
-  "statistics": [
-    {
+  "statistics": [{
       "counter": 1600,
       "caption": "attendees"
     },
@@ -259,9 +232,7 @@
     }
   ],
   "hashtag": "DevFestNantes",
->>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
-  "social": [
-    {
+  "social": [{
       "name": "twitter",
       "nickname": "devfestnantes",
       "url": "https://twitter.com/devfestnantes"
@@ -277,14 +248,7 @@
       "url": "https://www.facebook.com/gdgnantes"
     }
   ],
-<<<<<<< HEAD
-  "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
-=======
-  "tweetsSource": "/data/tweets.json",
+  "tweetsSource": "https://tweetledee.petetot.fr/favoritesjson.php?c=10&cache_interval=8000",
   "gallery": {
     "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
     "photos": {
@@ -298,7 +262,6 @@
   "location": {
     "apiKey": "",
     "link": "http://www.lacite-nantes.fr/",
->>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
     "pointer": {
       "latitude": 47.2129658,
       "longitude": -1.5425652,
@@ -314,79 +277,9 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
-<<<<<<< HEAD
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
-  },
-  "pages": {
-    "home": {
-      "title": "Home",
-      "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
-        "hideLogo": true,
-        "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "speakers": {
-      "title": "Speakers",
-      "headerSettings": {
-        "backgroundColor": "#3f51b5",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "schedule": {
-      "title": "Schedule",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "title": "Team",
-      "headerSettings": {
-        "backgroundColor": "#009688",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "cod": {
-      "title": "Cod of Conduct",
-      "headerSettings": {
-        "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    }
-=======
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiVZTEIxKLCsVWWGZBpPHwQy",
   "callToAction": {
     "videoTitle": "action-title",
     "videoId": "WucMDHXj-xQ"
->>>>>>> bd04c36... Devfest Nantes 2017 Initialization (#1)
   }
 }

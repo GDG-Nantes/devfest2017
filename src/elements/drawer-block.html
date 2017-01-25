@@ -17,7 +17,7 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+       :host {
         display: block;
         z-index: 9;
         --paper-toolbar-background: var(--default-primary-color);
@@ -74,12 +74,12 @@
       .selected {
         background: #eaeaea;
       }
+
     </style>
 
     <paper-toolbar class="tall">
       <div class="top">
-        <iron-image class="logo" src="/images/logo-white.svg" sizing="contain"
-                    alt="{$ title $}"></iron-image>
+        <iron-image class="logo" src="/images/logo-white.svg" sizing="contain" alt="{$ title $}"></iron-image>
       </div>
       <div class="bottom">
         <span class="dates">{$ dates $}</span>
@@ -87,17 +87,11 @@
       </div>
     </paper-toolbar>
     <nav>
-      <paper-menu
-        class="navigation list"
-        attr-for-selected="name"
-        selected="{{pageData.page}}"
-        selected-class="selected"
-      >
+      <paper-menu class="navigation list" attr-for-selected="name" selected="{{pageData.page}}" selected-class="selected">
         {% for nav in navigation %}
-          <a class="navigation-link" href="{$ nav.permalink $}" name="{$ nav.route $}" on-tap="closeDrawer">
-            {$ pages[nav.route].title $}
-          </a>
-        {% endfor %}
+        <a class="navigation-link" href="{$ nav.permalink $}" name="{$ nav.route $}" on-tap="closeDrawer">
+            {{localize(nav.route)}}
+          </a> {% endfor %}
         <a class="navigation-link" href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
           {$ buyTicket $}
           <iron-icon
@@ -130,6 +124,7 @@
       });
 
     }());
+
   </script>
 
 </dom-module>
