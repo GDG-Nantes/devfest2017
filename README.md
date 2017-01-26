@@ -1,6 +1,6 @@
 # Devfest Nantes 2017 Website
 
-![Codeship Status](https://codeship.com/projects/59273070-c606-0134-ef94-5e1bd76d6753/status?branch=ci)
+![Codeship Status](https://codeship.com/projects/59273070-c606-0134-ef94-5e1bd76d6753/status?branch=master)
 
 https://devfest2017-d7133.firebaseapp.com/
 
