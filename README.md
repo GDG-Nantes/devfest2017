@@ -2,6 +2,8 @@
 
 ![Codeship Status](https://codeship.com/projects/59273070-c606-0134-ef94-5e1bd76d6753/status?branch=ci)
 
+https://devfestnantes2017-test.firebaseapp.com/
+
 > Based on [Hoverboard Project](https://github.com/gdg-x/hoverboard)
 > Template is brought by [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy)
 from [GDG Lviv](http://lviv.gdg.org.ua/).
