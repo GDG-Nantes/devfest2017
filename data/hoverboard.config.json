@@ -16,10 +16,10 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "devfestnantes2017-test",
-    "domain": "devfestnantes2017-test.firebaseapp.com",
-    "database": "https://devfestnantes2017-test.firebaseio.com",
-    "api": "AIzaSyBa07A_bclfoeK6_qoGcAFlfJG03dZ5-q0",
+    "api": "AIzaSyAad7oGgdiHoLa2tEpBTY4jqzemIsOoikY",
+    "domain": "devfest2017-d7133.firebaseapp.com",
+    "database": "https://devfest2017-d7133.firebaseio.com",
+    "name": "devfest2017-d7133",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
