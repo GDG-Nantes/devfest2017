@@ -7,6 +7,7 @@
   "schedule": "Schedule",
   "team": "Team",
   "cod": "Code of Conduct",
+  "cod-path": "/data/en/code-of-conduct.markdown",
   "location-address-short": "Nantes, France",
   "motto": "Be a Coder. Be a Hero!",
   "play-icon": "See how it was in 2016",
