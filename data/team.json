@@ -8,13 +8,18 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://google.com/+JulienLandure"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/jlandure"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/jlandure"
           }
         ],
         "title": "Président"
@@ -25,13 +30,24 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://google.com/+JeanFrancoisGarreau"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/jefBinomed"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/jefBinomed"
+          },
+          {
+            "icon": "website",
+            "name": "Website",
+            "link": "http://jef.binomed.fr",
+            "name": "Website"
           }
         ],
         "title": "Trésorier"
@@ -42,13 +58,18 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://google.com/+BenjaminPetetot"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/bpetetot"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/bpetetot"
           }
         ],
         "title": "Secrétaire"
@@ -59,13 +80,23 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://plus.google.com/+XavierMarc"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/xavmrc"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/xavmarc"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/xaviermarc"
           }
         ],
         "title": "Vice-Président"
@@ -76,13 +107,13 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://google.com/+AymericFouchault"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/afouchault"
           }
         ],
         "title": "Vice-Secrétaire"
@@ -93,13 +124,18 @@
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/",
-            "name": "Google+"
+            "name": "Google+",
+            "link": "https://google.com/+PierrickGuyard"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/",
-            "name": "Twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/PierrickGuyard"
+          }, 
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "https://github.com/pguyard"
           }
         ],
         "title": "Vice-Trésorier"
