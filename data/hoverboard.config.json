@@ -208,6 +208,7 @@
       }
     ]
   },
+  "codPath" : "cod-path",
   "teamPageTitle": "team-page-title",
   "teamPageText": "team-page-text",
   "statistics": [{
