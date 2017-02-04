@@ -1,15 +1,21 @@
 [
   {
-    "youtubeId": "HLuJBOfRbkk",
-    "title": "Accessibilité, par où commencer ?",
-    "speakers": "Julie Moynat",
-    "thumbnail": "/images/sessions/accessibilite.jpg"
+    "youtubeId": "rBCCfnzisTI",
+    "title": "Le Web de demaintenant",
+    "speakers": "Jean-François Garreau & François Beaufort",
+    "thumbnail": "/images/sessions/jfgarreau.jpg"
   },
   {
-    "youtubeId": "r2uew8cGqz8",
-    "title": "Conversational power for Android apps",
-    "speakers": "Morresi Alfredo",
-    "thumbnail": "/images/sessions/alfresco.jpg"
+    "youtubeId": "wElXPEpZY60",
+    "title": "Keynote de fermeture : Qui veut gagner ma carrière ?",
+    "speakers": "Thomas Gx & Etienne Issartial",
+    "thumbnail": "/images/sessions/tguenouxeissartial.jpg"
+  },
+  {
+    "youtubeId": "rfzRbSEwnR8",
+    "title": "Ivre, il décida de commercialiser des apps tout seul",
+    "speakers": "Pierre Benayoun",
+    "thumbnail": "/images/sessions/pbenayoun.jpg"
   },
   {
     "youtubeId": "ca3OcJHeq4Y",
@@ -18,45 +24,39 @@
     "thumbnail": "/images/sessions/cgillet.jpg"
   },
   {
-    "youtubeId": "a_va_QxR4HY",
-    "title": "Flexbox : après l'ivresse, place à la gueule de bois !",
-    "speakers": "Raphael Goetter",
-    "thumbnail": "/images/sessions/cgoetter.jpg"
-  },
-  {
-    "youtubeId": "Jv5LmQOXmjU",
-    "title": "Cloud patterns",
-    "speakers": "Didier Girard & Julien Landuré",
-    "thumbnail": "/images/sessions/dgirard.jpg"
-  },
-  {
-    "youtubeId": "HJuOC2WFNDs",
-    "title": "GraphQL vs Falcor",
-    "speakers": "Hugo Wood & Antoine Cellier",
-    "thumbnail": "/images/sessions/falcor.jpg"
-  },
-  {
-    "youtubeId": "P-gPyRpLcu0",
-    "title": "MinuteJS - Les nouveautés Javascript à ne pas rater !",
-    "speakers": "Fabien Juif",
-    "thumbnail": "/images/sessions/fjuif.jpg"
-  },
-  {
-    "youtubeId": "B3eyhNBKx2U",
-    "title": "Mixité dans le monde des webcomponents",
-    "speakers": "Horacio Gonzalez",
-    "thumbnail": "/images/sessions/horacio.jpg"
-  },
-  {
-    "youtubeId": "rfzRbSEwnR8",
-    "title": "Ivre, il décida de commercialiser des apps tout seul",
-    "speakers": "Pierre Benayoun",
-    "thumbnail": "/images/sessions/pbenyaoun.jpg"
+    "youtubeId": "1ZUqb9mkS30",
+    "title": "Jenkins & continuous delivery pipeline",
+    "speakers": "Jean-Philippe Briend",
+    "thumbnail": "/images/sessions/jpbriend.jpg"
   },
   {
     "youtubeId": "4q78S36ehCs",
     "title": "Introduction à la programmation réactive",
     "speakers": "Thomas Belin",
     "thumbnail": "/images/sessions/tbelin.jpg"
+  },
+  {
+    "youtubeId": "a_va_QxR4HY",
+    "title": "Flexbox : après l'ivresse, place à la gueule de bois !",
+    "speakers": "Raphaël Goetter",
+    "thumbnail": "/images/sessions/rgoetter.jpg"
+  },
+  {
+    "youtubeId": "HJuOC2WFNDs",
+    "title": "GraphQL vs Falcor",
+    "speakers": "Hugo Wood & Antoine Cellier",
+    "thumbnail": "/images/sessions/hwoodacellier.jpg"
+  },
+  {
+    "youtubeId": "zdG0NQv8uV8",
+    "title": "Chérie, j'ai imprimé Lego'sses !",
+    "speakers": "Vincent Piard & Stéphane Cohan",
+    "thumbnail": "/images/sessions/scohan.jpg"
+  },
+  {
+    "youtubeId": "fEs-Z0YiqZs",
+    "title": "Tech talks: Uploadez vos idées vers d'autres êtres humains",
+    "speakers": "Pierre-Yves Ricau",
+    "thumbnail": "/images/sessions/pyricau.jpg"
   }
 ]
