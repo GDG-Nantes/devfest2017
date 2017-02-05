@@ -1,0 +1,28 @@
+{
+  "name": "devfest2017",
+  "version": "1.0.0",
+  "description": "website for Devfest 2017 @ Nantes, France",
+  "main": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "firebase-tools": "^3.2.1",
+    "polymer-cli": "^0.17.0"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDG-Nantes/devfest2017.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDG-Nantes/devfest2017/issues"
+  },
+  "homepage": "https://devfest2017.gdgnantes.com"
+}
