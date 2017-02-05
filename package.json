@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "website for Devfest 2017 @ Nantes, France",
   "main": "",
+  "scripts": {
+    "test": "npm run jsonvalidate",
+    "jsonvalidate": "npm run jsonvalidate-rootjson && npm run jsonvalidate-data",
+    "jsonvalidate-rootjson": "jsonlint -q manifest.json bower.json firebase.json .firebaserc database.rules.json polymer.json",
+    "jsonvalidate-data": "jsonlint -q data/**/*.json"
+  },
   "directories": {
     "doc": "docs"
   },
@@ -10,16 +16,14 @@
   "devDependencies": {
     "bower": "^1.8.0",
     "firebase-tools": "^3.2.1",
+    "jsonlint": "git+https://github.com/ginman86/jsonlint.git",
     "polymer-cli": "^0.17.0"
-  },
-  "scripts": {
-    "test": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GDG-Nantes/devfest2017.git"
   },
-  "author": "",
+  "author": "GDG-Nantes",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/GDG-Nantes/devfest2017/issues"
