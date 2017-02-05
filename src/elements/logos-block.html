@@ -12,7 +12,7 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+       :host {
         display: block;
         background: #FFFFFF;
       }
@@ -62,6 +62,7 @@
         height: 45px;
         width: 100px;
       }
+
     </style>
 
     <div class="container">
@@ -72,21 +73,15 @@
           <div class="logos">
             <template is="dom-repeat" items="[[block.logos]]" as="logo">
               <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank" rel="noopener noreferrer">
-                <iron-image
-                  class$="logo-img [[block.logosClass]]"
-                  src="[[logo.logoUrl]]"
-                  width$="{{logo.width}}"
-                  height$="{{logo.height}}"
-                  sizing="contain"
-                  preload fade
-                ></iron-image>
+                <iron-image class$="logo-img [[block.logosClass]]" src="[[logo.logoUrl]]" width$="{{logo.width}}" height$="{{logo.height}}"
+                  sizing="contain" preload fade></iron-image>
               </a>
             </template>
           </div>
         </div>
       </template>
-      <a class="block-link" href="{$ partnershipProposition $}" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
-        <paper-button class="primary" raised>{$ becomePartner $}</paper-button>
+      <a class="block-link" href$="{{localize(app.data.partnershipProposition)}}" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
+        <paper-button class="primary" raised>[[localize('become-a-partner')]]</paper-button>
       </a>
     </div>
 
@@ -107,6 +102,7 @@
       });
 
     }());
+
   </script>
 
 </dom-module>

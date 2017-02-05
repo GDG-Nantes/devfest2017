@@ -89,11 +89,9 @@
     <nav>
       <paper-menu class="navigation list" attr-for-selected="name" selected="{{pageData.page}}" selected-class="selected">
         {% for nav in navigation %}
-        <a class="navigation-link" href="{$ nav.permalink $}" name="{$ nav.route $}" on-tap="closeDrawer">
-            {{localize(nav.route)}}
-          </a> {% endfor %}
-        <a class="navigation-link" href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-          {$ buyTicket $}
+        <a class="navigation-link" name="[[nav.route]]" href$="[[nav.permalink]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>        {% endfor %}
+        <a class="navigation-link" href$="{{localize(app.data.partnershipProposition)}}" target="_blank" rel="noopener noreferrer"
+          on-tap="_trackBuyClick">[[localize('become-a-partner')]]
           <iron-icon
             class="open-in-new"
             icon="open-in-new"
