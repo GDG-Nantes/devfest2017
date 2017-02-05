@@ -12,7 +12,7 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+       :host {
         display: block;
         background: #fff;
       }
@@ -53,6 +53,7 @@
           @apply(--layout-flex);
         }
       }
+
     </style>
 
     <div class="container">
@@ -71,7 +72,7 @@
           <marked-element markdown="[[_posts.1.brief]]">
             <div class="markdown-html"></div>
           </marked-element>
-          <a href$="[[_posts.1.url]]">{$ continueReading $}</a>
+          <a href$="[[_posts.1.url]]">[[localize('continue-reading')]]</a>
         </div>
       </div>
     </div>
@@ -112,6 +113,7 @@
       });
 
     }());
+
   </script>
 
 </dom-module>
