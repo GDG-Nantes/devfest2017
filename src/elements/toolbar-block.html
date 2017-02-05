@@ -158,7 +158,7 @@
         </template>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href$="[[app.data.partnershipProposition]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+          <a href$="{{localize(app.data.partnershipProposition)}}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
             <paper-button class="action-button">[[localize('become-a-partner')]]</paper-button>
           </a>
         </div>
