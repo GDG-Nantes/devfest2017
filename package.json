@@ -1,14 +1,23 @@
 {
-  "name": "hoverboard",
+  "name": "devfest2017hoverboard",
   "version": "1.2.0",
-  "description": "Conference website template",
+  "description": "website for Devfest 2017 @ Nantes, France",
+  "main": "",
   "scripts": {
+    "test": "npm run jsonvalidate",
+    "jsonvalidate": "npm run jsonvalidate-rootjson && npm run jsonvalidate-data",
+    "jsonvalidate-rootjson": "jsonlint -q manifest.json bower.json firebase.json .firebaserc database.rules.json polymer.json",
+    "jsonvalidate-data": "jsonlint -q data/**/*.json",
     "gulp": "gulp",
     "bower": "bower",
     "build": "gulp",
     "postinstall": "bower install",
     "serve": "gulp serve"
   },
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
   "devDependencies": {
     "bower": "^1.8.0",
     "browser-sync": "^2.18.8",
@@ -27,10 +36,22 @@
     "plylog": "^0.5.0",
     "polymer-build": "^1.2.4",
     "require-uncached": "^1.0.3",
-    "sw-precache": "^5.1.1"
+    "sw-precache": "^5.1.1",
+    "firebase-tools": "^3.2.1",
+    "jsonlint": "git+https://github.com/ginman86/jsonlint.git"
   },
   "engines": {
     "node": ">=4.0"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDG-Nantes/devfest2017.git"
+  },
+  "author": "GDG-Nantes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDG-Nantes/devfest2017/issues"
+  },
+  "homepage": "https://devfest2017.gdgnantes.com"
 }
