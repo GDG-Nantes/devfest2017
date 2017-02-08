@@ -7,7 +7,7 @@ Nous espérons accueillir un peu plus de monde dans le bas de la cité des congr
 * Toujours 4 tracks parallèles
 * Toujours 3 types de formats pour vous contenter : des conférences, des quickies et des codelabs.
 * On met davantage l'accent sur les expérimentations de la précédente édition à savoir le job board et le village startup
-* Et pleins d’autres surprises et nouveautés qui vont seront présentées dans nos communications futures !
+* Et pleins d’autres surprises et nouveautés qui vous seront présentées dans nos communications futures !
 
 Regardez aussi notre **vidéo des moments clés du DevFest Nantes 2016**
 
