@@ -1,0 +1,205 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link rel="import" href="../../bower_components/iron-ajax/iron-ajax.html">
+
+<link rel="import" href="../../bower_components/paper-icon-button/paper-icon-button.html">
+<link rel="import" href="../../bower_components/paper-material/paper-material.html">
+
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+
+<link rel="import" href="../elements/map-pratique-block.html">
+<link rel="import" href="../elements/hotel-element.html">
+<link rel="import" href="../elements/footer-block.html">
+<link rel="import" href="../behaviors/localize-behavior.html">
+<link rel="import" href="../behaviors/page-behavior.html">
+<link rel="import" href="../behaviors/cascaded-behavior.html">
+
+
+<dom-module id="pratique-page">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        display: block;
+      }
+
+      .details {
+        @apply(--layout-vertical);
+        @apply(--layout-center-justified);
+      }
+
+      .details-item {
+        @apply(--layout-horizontal);
+        padding-bottom: 10px;
+      }
+
+      .details-icon {
+        --iron-icon-height: 56px;
+        --iron-icon-width: 56px;
+        --iron-icon-fill-color: var(--default-primary-color);
+        margin-right: 15px;
+      }
+
+      .details-icon-small {
+        --iron-icon-height: 36px;
+        --iron-icon-width: 36px;
+        margin-right: 15px;
+      }
+
+      .details-title {
+        margin-top: 12px;
+        margin-bottom: 12px;
+        font-size: 34px;
+        font-weight: 400;
+      }
+
+      .details-sub-title {
+        margin-top: 6px;
+        margin-bottom: 10px;
+        font-size: 24px;
+        font-weight: 400;
+      }
+
+      .details-text .markdown-html {
+        font-size: 16px;
+      }
+
+      .details-right {
+        margin-left: 20px;
+      }
+      
+      @media (min-width: 601px) {
+        .details-icon {
+          --iron-icon-height: 72px;
+          --iron-icon-width: 72px;
+          margin-right: 32px;
+        }
+      }
+
+      @media (min-width: 1600px) {
+        .container {
+          max-width: 960px;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="details">
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon" icon="location"></iron-icon>
+          <h4 class="details-title">[[localize(app.data.location.pratiqueTitle)]]</h4>
+        </div>
+
+        <map-pratique-block app="{{app}}" cascaded></map-pratique-block>
+        
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon" icon="directions"></iron-icon>
+          <h4 class="details-title">[[localize(app.data.transport.title)]]</h4>
+        </div>
+
+        <div class="details-item" cascaded>
+            <iron-icon class="details-icon-small" icon="train"></iron-icon>
+            <h4 class="details-sub-title">[[localize(app.data.transport.trainTitle)]]</h4>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize(app.data.transport.trainText)}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon-small" icon="tram"></iron-icon>
+          <h4 class="details-sub-title">[[localize(app.data.transport.tramTitle)]]</h4>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize(app.data.transport.tramText)}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon-small" icon="car"></iron-icon>
+          <h4 class="details-sub-title">[[localize(app.data.transport.carTitle)]]</h4>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize(app.data.transport.carText)}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon-small" icon="flight"></iron-icon>
+          <h4 class="details-sub-title">[[localize(app.data.transport.flightTitle)]]</h4>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize(app.data.transport.flightText)}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon" icon="hotel"></iron-icon>
+            <h4 class="details-title">[[localize(app.data.hotelTitle)]]</h4>
+        </div>
+        <div class="details-item" cascaded>
+          <marked-element class="details-text" markdown="{{localize(app.data.hotelText)}}">
+            <div class="markdown-html"></div>
+          </marked-element>
+        </div>
+
+        <template is="dom-repeat" items="[[app.data.hotels]]" as="hotel">
+          <hotel-element
+            app="{{app}}"
+            name="[[hotel.name]]"
+            adress="[[hotel.adress]]"
+            city="[[hotel.city]]"
+            map-url="[[hotel.mapUrl]]"
+            description="[[localize(hotel.description)]]"
+            price-reservation-text="[[localize(hotel.priceReservationText)]]">
+          </hotel-element>
+        </template>
+
+        <template is="dom-if" if="{{app.isDesktopSize}}"> 
+          <div class="details-item" cascaded>
+            <iron-icon class="details-icon" icon="explore"></iron-icon>
+            <div class="details-info">
+              <h4 class="details-title">[[localize(app.data.indoorMapTitle)]]</h4>
+            </div>
+          </div>
+
+          <div class="details-item" cascaded>
+            <iron-image
+              class="fallback-image"
+              src="/images/indoor_map.png">
+            </iron-image>
+          </div>
+        </template>
+      </div>
+    </div>
+
+    <footer-block app="{{app}}" cascaded></footer-block>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+
+        is: 'pratique-page',
+
+        behaviors: [
+          HOVERBOARD.PageBehavior,
+          HOVERBOARD.CascadedBehavior,
+          HOVERBOARD.LocalizeBehavior
+        ]
+
+      });
+
+    })();
+  </script>
+
+</dom-module>
