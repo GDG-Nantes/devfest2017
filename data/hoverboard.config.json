@@ -42,6 +42,12 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
+    },"pratique": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero6.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
     },
     "team": {
       "headerSettings": {
@@ -70,6 +76,10 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "route": "pratique",
+      "permalink": "/pratique/"
     },
     {
       "route": "team",
@@ -247,12 +257,17 @@
     }
   },
   "location": {
-    "apiKey": "",
+    "pratiqueTitle": "location-pratique-title",
+    "title": "location-title",
+    "apiKey": "AIzaSyAoJzxn2YiCuidflwvMmA0gd2PMzjDMCVA",
     "link": "http://www.lacite-nantes.fr/",
+    "linkTitle": "location-link-title",
+    "address": "location-address",
     "pointer": {
       "latitude": 47.2129658,
       "longitude": -1.5425652,
-      "zoom": 7
+      "zoom": 7,
+      "zoom-pratique": 10
     },
     "mapCenter": {
       "latitude": 46.9666849,
@@ -264,6 +279,30 @@
       "/images/backgrounds/location_3.jpg"
     ]
   },
+  "transport": {
+    "title": "transport-pratique-title",
+    "trainTitle": "train-title",
+    "trainText": "train-text",
+    "tramTitle": "tram-title",
+    "tramText": "tram-text",
+    "carTitle": "car-title",
+    "carText": "car-text",
+    "flightTitle": "flight-title",
+    "flightText": "flight-text"
+  },
+  "hotelTitle": "hotel-title",
+  "hotelText": "hotel-text",
+  "hotels" : [
+    {
+      "name": "Hôtel Residhome",
+      "adress": "3 allée Jacques Berque",
+      "city": "44000 Nantes",
+      "mapUrl": "https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956",
+      "description": "hotel-description-residhome",
+      "priceReservationText": "hotel-price-reservation-text-residhome"
+    }
+  ],
+  "indoorMapTitle": "indoor-map-title",
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiVZTEIxKLCsVWWGZBpPHwQy",
   "callToAction": {
     "videoTitle": "action-title",
