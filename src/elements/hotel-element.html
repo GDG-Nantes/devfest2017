@@ -1,0 +1,102 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+
+<link rel="import" href="../behaviors/localize-behavior.html">
+
+
+<dom-module id="hotel-element">
+
+  <template>
+    <style include="shared-styles">
+      :host {
+        display: block;
+      }
+
+
+      .hotel-item {
+        padding-bottom: 10px;
+      }
+
+      .hotel-title {
+        margin-top: 4px;
+        margin-bottom: 4px;
+        font-size: 16px;
+        font-weight: 400;
+      }
+
+      .hotel-text, .markdown-html {
+        font-size: 16px;
+        font-weight: 300;
+      }
+
+    </style>
+
+    <div class="hotel-item" cascaded>
+      <h4 class="hotel-title">[[name]]</h4>
+      <div class="hotel-text">[[adress]]</div>
+      <div class="hotel-text">[[city]]</div>
+      
+      <marked-element class="hotel-text" markdown="[[description]]">
+        <div class="markdown-html"></div>
+      </marked-element>
+
+      <div class="hotel-text"><a href$="[[mapUrl]]" target="_blank">[[localize('location-link-title')]]</a></div>
+      
+      <marked-element class="hotel-text" markdown="[[priceReservationText]]">
+        <div class="markdown-html"></div>
+      </marked-element>
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+
+        is: 'hotel-element',
+
+        behaviors: [
+          HOVERBOARD.LocalizeBehavior
+        ],
+
+        properties: {
+          app: {
+            type: Object,
+            notify: true
+          },
+
+          name: {
+            type: String
+          },
+
+          adress: {
+            type: String
+          },
+
+          city: {
+            type: String
+          },
+
+          mapUrl: {
+            type: String
+          },
+
+          description: {
+            type: String
+          },
+
+          priceReservationText: {
+            type: String
+          }
+        }
+
+      });
+
+    }());
+  </script>
+</dom-module>

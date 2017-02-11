@@ -18,7 +18,7 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+       :host {
         display: block;
         padding: 40px 0;
         position: relative;
@@ -51,7 +51,8 @@
         --paper-card-header-text: {
           color: #FFFFFF;
           font-weight: 300;
-        };
+        }
+        ;
         min-width: 320px;
         max-width: 400px;
         background: #FFFFFF;
@@ -102,7 +103,7 @@
       }
 
       @media (min-width: 961px) {
-        :host {
+         :host {
           padding: 100px 0;
         }
 
@@ -111,24 +112,16 @@
           @apply(--layout-flex);
         }
       }
+
     </style>
 
     <template is="dom-if" if="[[selected]]">
-      <google-map
-        zoom="{$ location.pointer.zoom $}"
-        latitude="{$ location.mapCenter.latitude $}"
-        longitude="{$ location.mapCenter.longitude $}"
-        api-key="{$ location.apiKey $}"
-        styles="[[options]]"
-        disable-zoom disable-default-ui
-      >
-        <google-map-marker
-          latitude="{$ location.pointer.latitude $}"
-          longitude="{$ location.pointer.longitude $}"
-        ></google-map-marker>
+      <google-map zoom="{$ location.pointer.zoom $}" latitude="{$ location.mapCenter.latitude $}" longitude="{$ location.mapCenter.longitude $}"
+        api-key="{$ location.apiKey $}" styles="[[options]]" disable-zoom disable-default-ui>
+        <google-map-marker latitude="{$ location.pointer.latitude $}" longitude="{$ location.pointer.longitude $}"></google-map-marker>
       </google-map>
     </template>
-    >
+
     <div class="disable-map-events"></div>
     <div class="container">
       <div class="additional-space"></div>
@@ -147,23 +140,24 @@
               <paper-icon-item disabled>
                 <iron-icon icon="icons:location" item-icon></iron-icon>
                 <paper-item-body two-line>
-                  <div>{$ locationAddress $}</div>
-                  <div secondary>{$ locationAddressShort $}</div>
-                </paper-item-body>
-              </paper-icon-item>
-            </div>
-            <div class="card-actions">
-              <a class="bottom-link"
-                 href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
-                 target="_blank"
-                 rel="noopener noreferrer"
-              >
-                <paper-icon-button icon="icons:directions"></paper-icon-button>
-              </a>
-            </div>
+                  <<<<<<< HEAD <div>{$ locationAddress $}</div>
+            <div secondary>{$ locationAddressShort $}</div>
+            =======
+            <div>[[localize('location-address')]]</div>
+            <div secondary>[[localize('location-city')]]</div>
+            >>>>>>> d54c9a3... :sparkles: add pratique page (#37)
+            </paper-item-body>
+            </paper-icon-item>
           </div>
-        </paper-card>
+          <div class="card-actions">
+            <a class="bottom-link" href="https://www.google.com/maps/dir/{$ location.pointer.latitude $},{$ location.pointer.longitude $}/@{$ location.pointer.latitude $},{$ location.pointer.longitude $},18z"
+              target="_blank" rel="noopener noreferrer">
+              <paper-icon-button icon="icons:directions"></paper-icon-button>
+            </a>
+          </div>
       </div>
+      </paper-card>
+    </div>
     </div>
 
   </template>
@@ -206,7 +200,9 @@
 
           images: {
             type: Array,
-            value: {$ location.images | dump | safe $}
+            value: {
+              $ location.images | dump | safe $
+            }
           },
 
           _currentSourceIndex: {
@@ -230,18 +226,21 @@
         },
 
         previousImage: function () {
-          this._currentSourceIndex = (this._currentSourceIndex > 0) ? this._currentSourceIndex - 1 : this.images.length - 1;
+          this._currentSourceIndex = (this._currentSourceIndex > 0) ? this._currentSourceIndex - 1 : this.images
+            .length - 1;
           this._currentImage = this.images[this._currentSourceIndex];
         },
 
         nextImage: function () {
-          this._currentSourceIndex = (this._currentSourceIndex < this.images.length - 1) ? this._currentSourceIndex + 1 : 0;
+          this._currentSourceIndex = (this._currentSourceIndex < this.images.length - 1) ? this._currentSourceIndex +
+            1 : 0;
           this._currentImage = this.images[this._currentSourceIndex];
         }
 
       });
 
     }());
+
   </script>
 
 </dom-module>

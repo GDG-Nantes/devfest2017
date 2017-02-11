@@ -15,18 +15,20 @@
   <template>
 
     <style include="shared-styles">
-      :host {
+       :host {
         --paper-tabs-selection-bar-color: #FFFFFF;
         --paper-tab-ink: rgba(255, 255, 255, 0.2);
         --paper-tab-content: {
           font-weight: 400 !important;
-        };
+        }
+        ;
         --paper-tab: {
           color: #FFFFFF;
           font-weight: 400;
           text-transform: uppercase;
           flex: none;
-        };
+        }
+        ;
         display: block;
         position: relative;
         overflow: hidden;
@@ -128,10 +130,9 @@
         <animatable-content name="home">
           <div class="container" center-justified>
             <div class="home-wrapper">
-              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain"
-                          alt="GDG DevFest Ukraine 2016"></iron-image>
-              <h3 class="dates">{$ dates $}</h3>
-              <h2 class="motto">{$ motto $}</h2>
+              <iron-image class="logo" src="/images/logo-light.svg" sizing="contain" alt="DevFest Nantes 2017"></iron-image>
+              <h3 class="dates">{{localize('dates')}}</h3>
+              <h2 class="motto">{{localize('motto')}}</h2>
               <div class="open-video" on-tap="_openVideo">
                 <iron-icon icon="play"></iron-icon>
                 {$ playIcon $}
@@ -151,15 +152,31 @@
             <div class="page-subtitle" hidden$="{{!app.headerSettings.subtitle}}">[[app.headerSettings.subtitle]]</div>
           </div>
         </animatable-content>
-        {% for page, settings in pages %}
-          {% if page !== 'home' and page !== 'blog' %}
-            <animatable-content name="{$ page $}">
-              <div class="container">
-                <h3 class="page-title">{$ settings.title $}</h3>
-              </div>
-            </animatable-content>
-          {% endif %}
-        {% endfor %}
+        <animatable-content name="speakers">
+          <div class="container">
+            <h3 class="page-title">{{localize('speakers')}}</h3>
+          </div>
+        </animatable-content>
+        <animatable-content name="schedule">
+          <div class="container">
+            <h3 class="page-title">{{localize('schedule')}}</h3>
+          </div>
+        </animatable-content>
+        <animatable-content name="pratique">
+          <div class="container">
+            <h3 class="page-title">{{localize('pratique')}}</h3>
+          </div>
+        </animatable-content>
+        <animatable-content name="team">
+          <div class="container">
+            <h3 class="page-title">{{localize('team')}}</h3>
+          </div>
+        </animatable-content>
+        <animatable-content name="cod">
+          <div class="container">
+            <h3 class="page-title">{{localize('cod')}}</h3>
+          </div>
+        </animatable-content>
       </neon-animated-pages>
     </app-toolbar>
 
@@ -203,6 +220,7 @@
       });
 
     }());
+
   </script>
 
 </dom-module>
