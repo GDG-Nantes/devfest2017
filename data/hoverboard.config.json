@@ -56,6 +56,13 @@
         "tabBarColor": "#fff"
       }
     },
+    "faq": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero7.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
     "cod": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero5.png",
@@ -84,6 +91,10 @@
     {
       "route": "team",
       "permalink": "/team/"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/"
     }
   ],
   "url": "https://devfestnantes2017-test.firebaseapp.com/",

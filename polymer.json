@@ -10,7 +10,8 @@
     "src/pages/schedule-page.html",
     "src/pages/speakers-page.html",
     "src/pages/pratique-page.html",
-    "src/pages/team-page.html"
+    "src/pages/team-page.html",
+    "src/pages/faq-page.html"
   ],
   "sources": [
     "data/**/*",
