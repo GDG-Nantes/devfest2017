@@ -281,14 +281,28 @@
   },
   "transport": {
     "title": "transport-pratique-title",
-    "trainTitle": "train-title",
-    "trainText": "train-text",
-    "tramTitle": "tram-title",
-    "tramText": "tram-text",
-    "carTitle": "car-title",
-    "carText": "car-text",
-    "flightTitle": "flight-title",
-    "flightText": "flight-text"
+    "elements": [
+      {
+        "icon": "train",
+        "title": "train-title",
+        "text": "train-text"
+      },
+      {
+        "icon": "tram",
+        "title": "tram-title",
+        "text": "tram-text"
+      },
+      {
+        "icon": "car",
+        "title": "car-title",
+        "text": "car-text"
+      },
+      {
+        "icon": "flight",
+        "title": "flight-title",
+        "text": "flight-text"
+      }
+    ]
   },
   "hotelTitle": "hotel-title",
   "hotelText": "hotel-text",

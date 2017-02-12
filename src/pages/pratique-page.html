@@ -9,6 +9,7 @@
 <link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
 <link rel="import" href="../elements/map-pratique-block.html">
+<link rel="import" href="../elements/transport-element.html">
 <link rel="import" href="../elements/hotel-element.html">
 <link rel="import" href="../elements/footer-block.html">
 <link rel="import" href="../behaviors/localize-behavior.html">
@@ -42,23 +43,10 @@
         margin-right: 15px;
       }
 
-      .details-icon-small {
-        --iron-icon-height: 36px;
-        --iron-icon-width: 36px;
-        margin-right: 15px;
-      }
-
       .details-title {
         margin-top: 12px;
         margin-bottom: 12px;
         font-size: 34px;
-        font-weight: 400;
-      }
-
-      .details-sub-title {
-        margin-top: 6px;
-        margin-bottom: 10px;
-        font-size: 24px;
         font-weight: 400;
       }
 
@@ -99,45 +87,13 @@
           <h4 class="details-title">[[localize(app.data.transport.title)]]</h4>
         </div>
 
-        <div class="details-item" cascaded>
-            <iron-icon class="details-icon-small" icon="train"></iron-icon>
-            <h4 class="details-sub-title">[[localize(app.data.transport.trainTitle)]]</h4>
-        </div>
-        <div class="details-item" cascaded>
-          <marked-element class="details-text" markdown="{{localize(app.data.transport.trainText)}}">
-            <div class="markdown-html"></div>
-          </marked-element>
-        </div>
-
-        <div class="details-item" cascaded>
-          <iron-icon class="details-icon-small" icon="tram"></iron-icon>
-          <h4 class="details-sub-title">[[localize(app.data.transport.tramTitle)]]</h4>
-        </div>
-        <div class="details-item" cascaded>
-          <marked-element class="details-text" markdown="{{localize(app.data.transport.tramText)}}">
-            <div class="markdown-html"></div>
-          </marked-element>
-        </div>
-
-        <div class="details-item" cascaded>
-          <iron-icon class="details-icon-small" icon="car"></iron-icon>
-          <h4 class="details-sub-title">[[localize(app.data.transport.carTitle)]]</h4>
-        </div>
-        <div class="details-item" cascaded>
-          <marked-element class="details-text" markdown="{{localize(app.data.transport.carText)}}">
-            <div class="markdown-html"></div>
-          </marked-element>
-        </div>
-
-        <div class="details-item" cascaded>
-          <iron-icon class="details-icon-small" icon="flight"></iron-icon>
-          <h4 class="details-sub-title">[[localize(app.data.transport.flightTitle)]]</h4>
-        </div>
-        <div class="details-item" cascaded>
-          <marked-element class="details-text" markdown="{{localize(app.data.transport.flightText)}}">
-            <div class="markdown-html"></div>
-          </marked-element>
-        </div>
+        <template is="dom-repeat" items="[[app.data.transport.elements]]" as="transport">
+          <transport-element
+            icon="[[transport.icon]]"
+            title="[[localize(transport.title)]]"
+            text="[[localize(transport.text)]]">
+          </transport-element>
+        </template>
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="hotel"></iron-icon>
