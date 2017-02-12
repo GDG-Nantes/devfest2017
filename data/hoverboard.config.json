@@ -192,7 +192,7 @@
     "url": "http://2event.com/events/630032",
     "elements": [{
         "name": "student-ticket",
-        "price": 30,
+        "price": 20,
         "currency": "€",
         "starts": "student-ticket-starts",
         "ends": "student-ticket-ends",
