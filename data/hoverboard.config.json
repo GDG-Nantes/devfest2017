@@ -280,12 +280,16 @@
     "pointer": {
       "latitude": 47.2129658,
       "longitude": -1.5425652,
-      "zoom": 7,
-      "zoom-pratique": 10
+      "zoom": 7
     },
     "mapCenter": {
       "latitude": 46.9666849,
       "longitude": -1.4848352
+    },
+    "mapPratique": {
+      "latitude": 47.2129658,
+      "longitude": -1.532333,
+      "zoom": 14
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
