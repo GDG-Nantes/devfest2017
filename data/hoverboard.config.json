@@ -183,7 +183,7 @@
     ]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
+    "url": "http://yurplan.com",
     "elements": [
       {
         "name": "student-ticket",
@@ -209,6 +209,7 @@
         "currency": "€",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
         "soldOut": false
       }
     ]
