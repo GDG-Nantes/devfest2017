@@ -92,10 +92,6 @@
         color: #fff;
       }
 
-      .additional-space {
-        display: none;
-      }
-
       @media (min-width: 601px) {
         .card {
           min-width: 400px;
@@ -107,10 +103,6 @@
           padding: 100px 0;
         }
 
-        .additional-space {
-          @apply(--layout);
-          @apply(--layout-flex);
-        }
       }
     </style>
 
@@ -131,8 +123,7 @@
 
     <div class="disable-map-events"></div>
     <div class="container">
-      <div class="additional-space"></div>
-      <div class="card-wrapper">
+      <div>
         <paper-card class="card">
           <div class="header paper-card">
             <div class="header-image" style$="background-image: url([[_currentImage]])"></div>
