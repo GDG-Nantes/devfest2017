@@ -1,4 +1,4 @@
-{
+
   "url": "https://hoverboard.firebaseapp.com/",
   "startDate": "2016-09-09T09:00:00+03:00",
   "endDate": "2016-09-10T19:00:00+03:00",
@@ -201,7 +201,8 @@
   },
   "tickets": {
     "url": "http://2event.com/events/630032",
-    "elements": [{
+    "elements": [
+      {
         "name": "student-ticket",
         "price": 20,
         "currency": "€",
@@ -225,6 +226,7 @@
         "currency": "€",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
         "soldOut": false
       }
     ]
@@ -292,6 +294,365 @@
       "latitude": 47.2129658,
       "longitude": -1.5425652,
       "zoom": 7
+    },
+    "mapCenter": {
+      "latitude": 46.9666849,
+      "longitude": -1.4848352
+    },
+    "mapPratique": {
+      "latitude": 47.2129658,
+      "longitude": -1.532333,
+      "zoom": 14
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "transport": {
+    "title": "transport-pratique-title",
+    "elements": [
+      {
+        "icon": "train",
+        "title": "train-title",
+        "text": "train-text"
+      },
+      {
+        "icon": "tram",
+        "title": "tram-title",
+        "text": "tram-text"
+      },
+      {
+        "icon": "car",
+        "title": "car-title",
+        "text": "car-text"
+      },
+      {
+        "icon": "flight",
+        "title": "flight-title",
+        "text": "flight-text"
+      }
+    ]
+  },
+  "hotelTitle": "hotel-title",
+  "hotelText": "hotel-text",
+  "hotels" : [
+    {
+      "name": "Hôtel Residhome",
+      "adress": "3 allée Jacques Berque",
+      "city": "44000 Nantes",
+      "mapUrl": "https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956",
+      "description": "hotel-description-residhome",
+      "priceReservationText": "hotel-price-reservation-text-residhome"
+    }
+  ],
+  "indoorMapTitle": "indoor-map-title",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiVZTEIxKLCsVWWGZBpPHwQy",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "WucMDHXj-xQ"
+  }
+}
+
+  "url": "https://hoverboard.firebaseapp.com/",
+  "startDate": "2016-09-09T09:00:00+03:00",
+  "endDate": "2016-09-10T19:00:00+03:00",
+  "analytics": {
+    "prod": "UA-43643469-8",
+    "dev": "UA-43643469-9"
+  },
+  "organizer": {
+    "name": "GDG Lviv",
+    "twitter": "gdglviv"
+  },
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#F57C00",
+    "backgroundColor": "#F57C00"
+  },
+  "firebase": {
+    "api": "AIzaSyAad7oGgdiHoLa2tEpBTY4jqzemIsOoikY",
+    "domain": "devfest2017-d7133.firebaseapp.com",
+    "database": "https://devfest2017-d7133.firebaseio.com",
+    "name": "devfest2017-d7133",
+    "userSessionsPath": "/userSessions",
+    "ratingsPath": "/ratings",
+    "indexedDbSession": "hoverboard"
+  },
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/home2.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        "video": {
+          "title": "DevFest Nantes 2016",
+          "youtubeId": "WucMDHXj-xQ",
+          "text": "See how it was in 2016"
+        },
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero1.png",
+        "backgroundColor": "#66bb6a",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero2.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero3.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },"pratique": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero6.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero4.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "faq": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero7.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundImage": "/images/backgrounds/hero5.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "hashtag": "dfua",
+  "disqusShortName": "hoverboard-gdg-x",
+  "tweetsSource": "/data/tweets.json",
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "enableSessionsRating": true,
+  "navigation": [{
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "pratique",
+      "permalink": "/pratique/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/"
+    }
+  ],
+  "url": "https://devfestnantes2017-test.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d",
+    "name": "b_b44affc3cdfd00b20bcae502c_e0e7ceee5d"
+  },
+  "partnershipProposition": "partnership-proposition-url",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [{
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Français",
+      "key": "fr"
+    }
+  ],
+  "footerBlocks": [{
+      "title": "for-visitors",
+      "links": [{
+          "text": "team",
+          "url": "/team/"
+        },
+        {
+          "text": "cod",
+          "url": "/cod/"
+        },
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-12",
+          "url": "https://devfest2012.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-13",
+          "url": "https://devfest2013.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-14",
+          "url": "https://devfest2014.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-15",
+          "url": "https://devfest2015.gdgnantes.com/",
+          "newTab": true
+        },
+        {
+          "text": "df-16",
+          "url": "https://devfest2016.gdgnantes.com/",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [{
+          "text": "partnership-proposition",
+          "url": "https://goo.gl/DjpHhC",
+          "newTab": true
+        },
+        {
+          "text": "media-kit",
+          "url": "https://goo.gl/1KstPx",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [{
+      "text": "bureau@gdgnantes.com",
+      "url": "mailto:bureau@gdgnantes.com"
+    }]
+  },
+  "tickets": {
+    "url": "http://2event.com/events/630032",
+    "elements": [
+      {
+    "url": "http://yurplan.com",
+    "elements": [
+      {
+        "name": "student-ticket",
+        "price": 20,
+        "currency": "€",
+        "starts": "student-ticket-starts",
+        "ends": "student-ticket-ends",
+        "info": "student-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "early-ticket",
+        "price": 70,
+        "currency": "€",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "info": "early-ticket-info",
+        "soldOut": false
+      },
+      {
+        "name": "lazy-ticket",
+        "price": 90,
+        "currency": "€",
+        "starts": "lazy-ticket-starts",
+        "ends": "lazy-ticket-ends",
+        "info": "lazy-ticket-info",
+        "soldOut": false
+      }
+    ]
+  },
+  "codPath" : "cod-path",
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [{
+      "counter": 1600,
+      "caption": "attendees"
+    },
+    {
+      "counter": 2,
+      "caption": "days"
+    },
+    {
+      "counter": 4,
+      "caption": "tracks"
+    },
+    {
+      "counter": 60,
+      "caption": "sessions"
+    },
+    {
+      "counter": 70,
+      "caption": "speakers"
+    }
+  ],
+  "hashtag": "DevFestNantes",
+  "social": [{
+      "name": "twitter",
+      "nickname": "devfestnantes",
+      "url": "https://twitter.com/devfestnantes"
+    },
+    {
+      "name": "gplus",
+      "nickname": "Gdgnantes",
+      "url": "https://plus.google.com/+Gdgnantes"
+    },
+    {
+      "name": "facebook",
+      "nickname": "gdgnantes",
+      "url": "https://www.facebook.com/gdgnantes"
+    }
+  ],
+  "tweetsSource": "https://tweetledee.petetot.fr/favoritesjson.php?c=10&cache_interval=8000",
+  "gallery": {
+    "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
+    "photos": {
+      "big": "/images/backgrounds/2016_1.jpg",
+      "small": [
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "pratiqueTitle": "location-pratique-title",
+    "title": "location-title",
+    "apiKey": "AIzaSyACfHSzG30jmydm6XXqA5J5YmGEwkAuie0",
+    "link": "http://www.lacite-nantes.fr/",
+    "linkTitle": "location-link-title",
+    "address": "location-address",
+    "pointer": {
+      "latitude": 47.2129658,
+      "longitude": -1.5425652,
+      "zoom": 5
     },
     "mapCenter": {
       "latitude": 46.9666849,
