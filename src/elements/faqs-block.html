@@ -37,9 +37,9 @@
 
     <div class="faqs"> 
       <template is="dom-repeat" items="[[app.faqs]]" as="faq">
-        <div class="faq-item" cascaded> 
-          <h4 class="faq-title">[[localize(faq.question)]]</h4> 
-        </div> 
+        <div class="faq-item" cascaded id="[[faq.question]]">
+          <h4 class="faq-title">[[localize(faq.question)]]</h4>
+        </div>
 
         <div class="faq-item" cascaded> 
           <marked-element class="faq-text" markdown="{{localize(faq.answer)}}"> 
