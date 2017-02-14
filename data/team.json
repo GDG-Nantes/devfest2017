@@ -4,6 +4,7 @@
     "members": [
       {
         "name": "Julien Landuré",
+        "aka": "El Negociator",
         "photoUrl": "/images/team/jlandure.jpg",
         "socials": [
           {
@@ -22,10 +23,11 @@
             "link": "https://github.com/jlandure"
           }
         ],
-        "title": "Président"
+        "title": "CTO Zenika Nantes"
       },
       {
         "name": "Jean-François Garreau",
+        "aka": "DemoStrator",
         "photoUrl": "/images/team/jgarreau.jpg",
         "socials": [
           {
@@ -50,10 +52,11 @@
             "name": "Website"
           }
         ],
-        "title": "Trésorier"
+        "title": "Tech lead Lucca"
       },
       {
         "name": "Benjamin Petetot",
+        "aka": "Design Man",
         "photoUrl": "/images/team/bpetetot.jpg",
         "socials": [
           {
@@ -72,10 +75,11 @@
             "link": "https://github.com/bpetetot"
           }
         ],
-        "title": "Secrétaire"
+        "title": "Tech Lead Zenika Nantes"
       },
       {
         "name": "Xavier Marc",
+        "aka": "Knight Party",
         "photoUrl": "/images/team/xmarc.jpg",
         "socials": [
           {
@@ -99,10 +103,11 @@
             "link": "https://www.linkedin.com/in/xaviermarc"
           }
         ],
-        "title": "Vice-Président"
+        "title": "Tech lead Sogeti"
       },
       {
         "name": "Aymeric Fouchault",
+        "aka": "Man Guyver",
         "photoUrl": "/images/team/afouchault.jpg",
         "socials": [
           {
@@ -116,10 +121,11 @@
             "link": "https://twitter.com/afouchault"
           }
         ],
-        "title": "Vice-Secrétaire"
+        "title": "Epitech Director"
       },
       {
         "name": "Pierrick Guyard",
+        "aka": "Hell Trello",
         "photoUrl": "/images/team/pguyard.jpg",
         "socials": [
           {
@@ -138,7 +144,7 @@
             "link": "https://github.com/pguyard"
           }
         ],
-        "title": "Vice-Trésorier"
+        "title": "Tech lead Expandium"
       }
     ]
   }
