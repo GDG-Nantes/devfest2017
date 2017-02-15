@@ -125,7 +125,7 @@
       },
       {
         "name": "Pierrick Guyard",
-        "aka": "Hell Trello",
+        "aka": "Hell Organizer",
         "photoUrl": "/images/team/pguyard.jpg",
         "socials": [
           {
@@ -142,6 +142,11 @@
             "icon": "github",
             "name": "Github",
             "link": "https://github.com/pguyard"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/pierrickguyard"
           }
         ],
         "title": "Tech Lead Expandium"
