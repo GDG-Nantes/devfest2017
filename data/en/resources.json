@@ -133,9 +133,9 @@
   "faq-question8": "What are the topics?",
   "faq-answer8": "The topics will be based on four themes:<ul><li><strong>IoT & Mobile</strong>: Topics on the connected objects and mobility</li><li><strong>Web</strong>: Topics on javascript frameworks or new HTML5</li><li><strong>Cloud & Big Data</strong>: Topics on cloud infrastructures such AppEngine, ComputeEngine and elastic backend technologies</li><li><strong>Discovery</strong>: Topics relating to new uses of IT, new technologies, and even on the UX</li></ul>",
   "faq-question9": "How to register and how much does it cost?",
-  "faq-answer9": "Registration for DevFest Nantes can be done directly from this site by clicking the link on the home page. Admission is € 90 for the 2-day pass and € 20 for the discounted rate.",
+  "faq-answer9": "Registration for DevFest Nantes can be done directly from this site by clicking the link on the home page. Admission is € 70 for the 2-day pass until June 30th 2017 then € 90 past this date, and € 20 for the discounted rate.",
   "faq-question10": "If I register and am not able to attend, can I get a refund?",
-  "faq-answer10": "Our entire ticketing is handled by Yurplan, so you can cancel your tickets under the conditions defined by Yurplan. After the date of the event, no refund will be made.",
+  "faq-answer10": "Our entire ticketing is handled by a service provider, so you can cancel your tickets under the conditions defined by this one. After the date of the event, no refund will be made.",
   "faq-question11": "I have registered but am unable to attend, can I give it to a friend?",
   "faq-answer11": "We can accept registration transfers. If you are aware of the change two weeks before the event, you can inform us so that we change the name on the attendee badge. If you are unable to inform us 2 weeks prior to the event (and are unable to make it), your \"friend\" must show up with your ticket and he/she will wear the badge registered in your name.",
   "faq-question12": "Are presentations recorded?",
@@ -145,7 +145,7 @@
   "faq-question14": "How many presentations are held at the same time?",
   "faq-answer14": "There will be all day 5 parallel sessions (one session per subject and 1 codelab)",
   "faq-question15": "How long does the CFP?",
-  "faq-answer15": "The Registration is already open and will close on June 31st 2017 at 23:59",
+  "faq-answer15": "The Registration will open on May 1st 2017 and will close on June 31st 2017 at 23:59",
   "faq-question16": "My presentation has been accepted, do I still need to buy an Entry ticket/ pass for the conference?",
   "faq-answer16": "Each speaker/ team of speakers is given a Free pass. It is therefore not necessary to buy a ticket. (Whether you are alone or several to present).",
   "faq-question17": "My presentation has not been accepted as yet, should I buy my Pass, just in case?",
@@ -153,5 +153,7 @@
   "faq-question18": "When and Where is the event?",
   "faq-answer18": "The conference takes place on 19th and 20th October 2017 at the Cité des Congrès in Nantes.",
   "faq-question19": "I am organizing a User Group, how can I help you?",
-  "faq-answer19": "As a User Group, you can help us in several aspects:<ul><li>By helping us find speakers</li><li>By broadcasting the event on your network. To facilitate this, we have several elements in the press section for distributing posters and banners at your disposal.</li></ul>"
+  "faq-answer19": "As a User Group, you can help us in several aspects:<ul><li>By helping us find speakers</li><li>By broadcasting the event on your network. To facilitate this, we have several elements in the press section for distributing posters and banners at your disposal.</li></ul>",
+  "faq-question20": "",
+  "faq-answer20": ""
 }
