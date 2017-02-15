@@ -11,7 +11,7 @@
     "tags": ["HTML5", "CSS"],
     "badges": [{
         "name": "GDE",
-        "description": "Web Google Developer Expert",
+        "description": "Web Technologies",
         "link": "https://developers.google.com/experts/people/rachel-andrew"
       }],
     "socials": [{
@@ -30,6 +30,23 @@
       "icon": "website", 
       "name": "Website",
       "link": "https://rachelandrew.co.uk/"
+    }]
+  },
+  "102": {
+    "id": 102,
+    "featured": true,
+    "name": "Nicolas Roard",
+    "company": "Google",
+    "country": "San Francisco, USA",
+    "photoUrl": "/images/speakers/nroard.jpg",
+    "shortBio": "Staff Software Engineer at Google.",
+    "bio": "Staff Software Engineer at Google.",
+    "tags": ["Android", "Android Studio"],
+    "badges": [],
+    "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/camaelon"
     }]
   }
 }
