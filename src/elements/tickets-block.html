@@ -36,10 +36,17 @@
         font-size: 0.9em;
       }
 
-      .details {
+      .details .markdown-html {
         margin: 10px auto 0;
         font-size: 14px;
+        font-weight: 400;
         max-width: 600px;
+        color: var(--text-primary-color);
+      }
+
+      .details .markdown-html a {
+        color: var(--text-primary-color);
+        text-decoration: underline;
       }
 
       .buy-button {
@@ -82,7 +89,9 @@
           </ticket-element>
         </template>
       </div>
-      <div class="details">[[localize('tickets-details')]]</div>
+      <marked-element class="details" markdown="[[localize('tickets-details')]]">
+        <div class="markdown-html"></div>
+      </marked-element>
     </div>
 
   </template>
