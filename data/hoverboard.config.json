@@ -9,7 +9,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/home2.png",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -44,28 +44,28 @@
       }
     },"pratique": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero6.png",
+        "backgroundImage": "/images/backgrounds/hero4.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero4.png",
+        "backgroundImage": "/images/backgrounds/hero5.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "faq": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero7.png",
+        "backgroundImage": "/images/backgrounds/hero6.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero5.png",
+        "backgroundImage": "/images/backgrounds/hero7.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
