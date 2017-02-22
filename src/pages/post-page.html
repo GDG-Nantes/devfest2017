@@ -249,7 +249,7 @@
               fontColor: '#fff',
               tabBarColor: '#fff',
               title: this._post.title,
-              subtitle: new Date(this._post.posted).toDateString().slice(4)
+              subtitle: new Date(this._post.posted).toLocaleDateString("fr-FR")
             });
           }
         }
