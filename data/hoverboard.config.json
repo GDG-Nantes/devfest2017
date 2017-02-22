@@ -176,8 +176,9 @@
     },
     {
       "title": "for-partners",
-      "links": [{
-          "text": "partnership-proposition",
+      "links": [
+        {
+          "text": "partnership-kit",
           "url": "https://goo.gl/DjpHhC",
           "newTab": true
         },
