@@ -42,7 +42,8 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
-    },"pratique": {
+    },
+    "pratique": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero4.png",
         "fontColor": "#fff",
