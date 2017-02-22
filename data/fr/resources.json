@@ -134,7 +134,7 @@
   "faq-question8": "Quels sont les sujets abordés ? ",
   "faq-answer8": "Vous trouverez cette année des sujets autour du : Web, Mobile, IoT, Backend, Cloud, Big Data, Machine Learning, DevOps, Découverte ...",
   "faq-question9": "Comment s'inscrire et combien cela coûte-t-il ?",
-  "faq-answer9": "L'inscription au DevFest Nantes peut se faire directement depuis le site actuel en cliquant sur le lien disponible sur la page d'accueil. L'entrée coûte 70€ pour le pass 2 jours jusqu'au 30 Juin 2017 puis 90€ passé cette date, et 20€ pour le tarif réduit.<br>Lors de votre participation au DevFest Nantes comme orateur ou participant, vous acceptez d'être filmé et photographié.<br>En tant que participant, il est possible que vous soyez pris en photo de groupe ou de foule. Or le droit français prévoit qu'au delà d'un certain nombre de personnes sur une photo, votre droit à l'image ne peut être invoqué.<br>En tant qu'orateur, vous acceptez que votre présentation soit filmée et enregistrée. Vous vous engagez à n'utiliser que du contenu libre de droits ou pour lesquels vous aurez fait les achats de licences nécessaires (images, musiques). Vous acceptez que votre présentation soit diffusée gratuitement sur Youtube.",
+  "faq-answer9": "L'inscription au DevFest Nantes peut se faire directement depuis le site actuel en cliquant sur le lien disponible sur la page d'accueil. L'entrée coûte 70€ pour le pass 2 jours jusqu'au 30 Juin 2017 puis 90€ passé cette date, et 20€ pour le tarif réduit.",
   "faq-question10": "Je n'ai pas pu venir, puis-je me faire rembourser ?",
   "faq-answer10": "Nous déléguons toute notre billetterie au prestataire, vous pourrez donc annuler vos billets dans les conditions définies par celui-ci. Passé la date de l'événement, aucun remboursement ne sera fait.",
   "faq-question11": "Je ne pourrais pas venir. Puis-je céder ma place à un ami ?",
@@ -155,6 +155,8 @@
   "faq-answer18": "La conférence a lieu les 19 et 20 Octobre 2017 à la Cité des Congrès de Nantes.",
   "faq-question19": "Je suis organisateur d'un User Group, comment puis-je vous aider ?",
   "faq-answer19": "En tant que User Group, vous pouvez nous aider sur plusieurs aspects :<ul><li>En nous aidant à trouver des speakers,</li><li>En diffusant l'événement dans votre réseau. Pour cela, nous avons mis à votre disposition plusieurs éléments dans la partie presse pour la diffusion : affiches, bannières.</li></ul>",
-  "faq-question20": "Le DevFest est-il éligible au titre du CPF ?",
-  "faq-answer20": "Le DevFest Nantes ne prend pas en charge la gestion des CPF (Compte Personnel de Formation)."
+  "faq-question20": "Concernant le droit à l'image ?",
+  "faq-answer20": "Lors de votre participation au DevFest Nantes comme orateur ou participant, vous acceptez d'être filmé et photographié.<br>En tant que participant, il est possible que vous soyez pris en photo de groupe ou de foule. Le droit français prévoit qu'au delà d'un certain nombre de personnes sur une photo, votre droit à l'image ne peut être invoqué.<br>En tant qu'orateur, vous acceptez que votre présentation soit filmée et enregistrée. Vous vous engagez à n'utiliser que du contenu libre de droits ou pour lesquels vous aurez fait les achats de licences nécessaires (images, musiques). Vous acceptez que votre présentation soit diffusée gratuitement sur Youtube.",
+  "faq-question21": "Le DevFest est-il éligible au titre du CPF ?",
+  "faq-answer21": "Le DevFest Nantes ne prend pas en charge la gestion des CPF (Compte Personnel de Formation)."
 }
