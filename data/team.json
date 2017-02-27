@@ -150,6 +150,24 @@
           }
         ],
         "title": "Tech Lead Expandium"
+      },
+      {
+        "name": "Annabelle Koster",
+        "aka": "Com Girl",
+        "photoUrl": "/images/team/akoster.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/AnnabelleKoster"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/annabelle-koster-31129383/"
+          }
+        ],
+        "title": "Chargée de RH SII Atlantique"
       }
     ]
   }
