@@ -19,7 +19,9 @@
     "scripts/**/*",
     "src/**/*",
     "bower.json",
-    "manifest.json"
+    "manifest.json",
+    "robots.txt",
+    "sitemap.xml"
   ],
   "includeDependencies": [
     "bower_components/webcomponentsjs/webcomponents-lite.min.js"
