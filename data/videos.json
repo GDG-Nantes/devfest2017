@@ -18,12 +18,6 @@
     "thumbnail": "/images/sessions/pbenayoun.jpg"
   },
   {
-    "youtubeId": "ca3OcJHeq4Y",
-    "title": "Du DevOps chez les Commandos",
-    "speakers": "Cédric Gillet",
-    "thumbnail": "/images/sessions/cgillet.jpg"
-  },
-  {
     "youtubeId": "1ZUqb9mkS30",
     "title": "Jenkins & continuous delivery pipeline",
     "speakers": "Jean-Philippe Briend",
