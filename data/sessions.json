@@ -7,18 +7,20 @@
   "1": {
     "id": 1,
     "title": "Keynote d'ouverture / Opening keynote",
-    "image": "/images/backgrounds/registration.jpg",
-    "speakers": [213],
+    "image": "/images/backgrounds/keynote.jpg",
+    "speakers": [101],
     "videoId": "cqwmytyukRg"
   },
   "2": {
     "id": 2,
-    "title": "Déjeuner / Lunch"
+    "title": "Déjeuner / Lunch",
+    "description": "Foooooood !!!",
+    "image": "/images/backgrounds/lunch.jpg"
   },
   "3": {
     "id": 3,
     "title": "After Party",
-    "description": "Cette année l’After Party est organisé par notre partenaires U GIE IRIS (Système U). <br>Elle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Mercredi 9 Novembre. <br>Retrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...<br>Venez nombreux !!",
+    "description": "Cette année l’After Party est organisé par notre partenaires U GIE IRIS (Système U). <br>Elle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Jeudi 19 Octobre. <br>Retrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...<br>Venez nombreux !!",
     "image": "/images/backgrounds/party.jpg"
   },
   "4": {
