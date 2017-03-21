@@ -7,6 +7,24 @@
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg",
         "width": 250
+      },
+      {
+        "name": "Zenika",
+        "url": "https://www.zenika.com/",
+        "logoUrl": "../images/logos/zenika.png",
+        "width": 250
+      },
+      {
+        "name": "Apside",
+        "url": "http://www.apside.com/",
+        "logoUrl": "../images/logos/apside.png",
+        "width": 250
+      },
+      {
+        "name": "Creative",
+        "url": "http://www.groupe-creative.fr/",
+        "logoUrl": "../images/logos/creative.png",
+        "width": 250
       }
     ]
   },{
