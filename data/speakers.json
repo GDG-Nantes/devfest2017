@@ -5,7 +5,7 @@
     "name": "Name",
     "company": "Company",
     "country": "City, COUNTRY",
-    "photoUrl": "/images/speakers/default.jpg.jpg",
+    "photoUrl": "/images/speakers/default.jpg",
     "shortBio": "Short Bio",
     "bio": "Bio.",
     "tags": [],
