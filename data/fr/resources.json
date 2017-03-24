@@ -157,8 +157,10 @@
   "faq-answer18": "La conférence a lieu les 19 et 20 Octobre 2017 à la Cité des Congrès de Nantes.",
   "faq-question19": "Je suis organisateur d'un User Group, comment puis-je vous aider ?",
   "faq-answer19": "En tant que User Group, vous pouvez nous aider sur plusieurs aspects :<ul><li>En nous aidant à trouver des speakers,</li><li>En diffusant l'événement dans votre réseau. Pour cela, nous avons mis à votre disposition plusieurs éléments dans la partie presse pour la diffusion : affiches, bannières.</li></ul>",
-  "faq-question20": "Concernant le droit à l'image ?",
-  "faq-answer20": "Lors de votre participation au DevFest Nantes comme orateur ou participant, vous acceptez d'être filmé et photographié.<br>En tant que participant, il est possible que vous soyez pris en photo de groupe ou de foule. Le droit français prévoit qu'au delà d'un certain nombre de personnes sur une photo, votre droit à l'image ne peut être invoqué.<br>En tant qu'orateur, vous acceptez que votre présentation soit filmée et enregistrée. Vous vous engagez à n'utiliser que du contenu libre de droits ou pour lesquels vous aurez fait les achats de licences nécessaires (images, musiques). Vous acceptez que votre présentation soit diffusée gratuitement sur Youtube.",
-  "faq-question21": "Le DevFest est-il éligible au titre du CPF ?",
-  "faq-answer21": "Le DevFest Nantes ne prend pas en charge la gestion des CPF (Compte Personnel de Formation)."
+  "faq-question20": "Qu'en est-il de mon droit à l'image ?",
+  "faq-answer20": "En participant au DevFest, vous acceptez d’être filmés et/ou photographiés et que votre image soit diffusée dans le cadre de la promotion de l’évènement sur tous supports.<br>Plus spécifiquement, en tant que conférencier, vous acceptez :<br>- que votre présentation soit filmée, enregistrée et retransmise en direct;<br>- que votre présentation soit diffusée gratuitement sur Youtube.<br>Conformément à la Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, vous disposez d’un droit d’accès aux données personnelles vous concernant et conservées le cas échéant par les organisateurs.",
+  "faq-question21": "En tant que speaker, je suis libre d'utiliser ce que je veux ?",
+  "faq-answer21": "Vous vous engagez à n'utiliser que du contenu libre de droits ou pour lesquels vous aurez fait les achats de licences nécessaires (images, musiques).",
+  "faq-question22": "Le DevFest est-il éligible au titre du CPF ?",
+  "faq-answer22": "Le DevFest Nantes ne prend pas en charge la gestion des CPF (Compte Personnel de Formation)."
 }
