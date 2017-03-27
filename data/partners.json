@@ -32,7 +32,14 @@
     "logos": []
   },{
     "title": "gold-partner",
-    "logos": []
+    "logos": [
+      {
+        "name": "SII",
+        "url": "http://www.groupe-sii.com/",
+        "logoUrl": "../images/logos/sii.png",
+        "width": 220
+      }
+    ]
   },{
     "title": "other-partner",
     "logos": []
