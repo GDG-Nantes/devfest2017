@@ -9,7 +9,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundImage": "/images/backgrounds/hero1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -23,7 +23,7 @@
     },
     "blog": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero1.png",
+        "backgroundImage": "/images/backgrounds/hero2.jpg",
         "backgroundColor": "#66bb6a",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -31,42 +31,42 @@
     },
     "speakers": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero2.png",
+        "backgroundImage": "/images/backgrounds/hero3.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "schedule": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero3.png",
+        "backgroundImage": "/images/backgrounds/hero4.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "pratique": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero4.png",
+        "backgroundImage": "/images/backgrounds/hero5.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "team": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero5.png",
+        "backgroundImage": "/images/backgrounds/hero6.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "faq": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero6.png",
+        "backgroundImage": "/images/backgrounds/hero7.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     },
     "cod": {
       "headerSettings": {
-        "backgroundImage": "/images/backgrounds/hero7.png",
+        "backgroundImage": "/images/backgrounds/hero8.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
