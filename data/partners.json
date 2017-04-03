@@ -38,6 +38,18 @@
         "url": "http://www.groupe-sii.com/",
         "logoUrl": "../images/logos/sii.png",
         "width": 220
+      },
+      {
+        "name": "A5Sys",
+        "url": "http://www.a5sys.com/",
+        "logoUrl": "../images/logos/a5sys.png",
+        "width": 220
+      },
+      {
+        "name": "Conserto",
+        "url": "https://www.conserto.pro//",
+        "logoUrl": "../images/logos/conserto.png",
+        "width": 220
       }
     ]
   },{
