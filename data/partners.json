@@ -47,8 +47,20 @@
       },
       {
         "name": "Conserto",
-        "url": "https://www.conserto.pro//",
+        "url": "https://www.conserto.pro/",
         "logoUrl": "../images/logos/conserto.png",
+        "width": 220
+      },
+      {
+        "name": "Lucca",
+        "url": "http://www.lucca.fr/",
+        "logoUrl": "../images/logos/lucca.png",
+        "width": 220
+      },
+      {
+        "name": "VIF",
+        "url": "http://www.vif.fr/",
+        "logoUrl": "../images/logos/vif.png",
         "width": 220
       }
     ]
