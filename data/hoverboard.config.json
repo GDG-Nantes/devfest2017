@@ -42,7 +42,7 @@
     "blog": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero2.jpg",
-        "backgroundColor": "#66bb6a",
+        "backgroundColor": "#f44336",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -50,6 +50,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero3.jpg",
+        "backgroundColor": "#2196f3",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -57,6 +58,7 @@
     "schedule": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero4.jpg",
+        "backgroundColor": "#2196f3",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -64,6 +66,7 @@
     "pratique": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero5.jpg",
+        "backgroundColor": "#66bb6a",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -71,6 +74,7 @@
     "team": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero6.jpg",
+        "backgroundColor": "#66bb6a",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -78,6 +82,7 @@
     "faq": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero7.jpg",
+        "backgroundColor": "#ffc107",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -85,6 +90,7 @@
     "cod": {
       "headerSettings": {
         "backgroundImage": "/images/backgrounds/hero8.jpg",
+        "backgroundColor": "#ffc107",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
