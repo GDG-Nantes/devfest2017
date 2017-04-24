@@ -92,6 +92,9 @@
       <marked-element class="details" markdown="[[localize('tickets-details')]]">
         <div class="markdown-html"></div>
       </marked-element>
+      <a href="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
+      </a>
     </div>
 
   </template>

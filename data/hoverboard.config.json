@@ -560,10 +560,7 @@
     }]
   },
   "tickets": {
-    "url": "http://2event.com/events/630032",
-    "elements": [
-      {
-    "url": "http://yurplan.com",
+    "url": "https://www.billetweb.fr/devfest-nantes-2017",
     "elements": [
       {
         "name": "student-ticket",
