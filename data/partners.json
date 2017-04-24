@@ -15,6 +15,12 @@
         "width": 250
       },
       {
+        "name": "Epitech",
+        "url": "http://www.epitech.eu/",
+        "logoUrl": "../images/logos/epitech.png",
+        "width": 250
+      },
+      {
         "name": "Apside",
         "url": "http://www.apside.com/",
         "logoUrl": "../images/logos/apside.png",
@@ -61,6 +67,18 @@
         "name": "VIF",
         "url": "http://www.vif.fr/",
         "logoUrl": "../images/logos/vif.png",
+        "width": 220
+      },
+      {
+        "name": "Cat-Amania",
+        "url": "http://www.cat-amania.com/",
+        "logoUrl": "../images/logos/catamania.png",
+        "width": 220
+      },
+      {
+        "name": "Groupe onepoint",
+        "url": "http://www.groupeonepoint.com/",
+        "logoUrl": "../images/logos/onepoint.png",
         "width": 220
       }
     ]
