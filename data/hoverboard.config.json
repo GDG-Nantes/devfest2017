@@ -186,7 +186,7 @@
     ]
   },
   "tickets": {
-    "url": "http://yurplan.com",
+    "url": "https://www.billetweb.fr/devfest-nantes-2017",
     "elements": [
       {
         "name": "student-ticket",
