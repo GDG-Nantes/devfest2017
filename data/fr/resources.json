@@ -130,7 +130,7 @@
   "faq-question5": "Comment s'y rendre ?",
   "faq-answer5": "Toutes les informations relatives à la venue au DevFest sont disponibles sur la page <a href='./pratique'>Pratique</a>.",
   "faq-question6": "Je suis en recherche d'emploi, puis-je bénéficier du ticket à tarif réduit ?",
-  "faq-answer6": "Le tarif réduit est disponible pour les personnes suivantes :<ul><li>Les étudiants</li><li>Les enseignants</li><li>Les demandeurs d'emplois</li><li>Les personnes ayant un revenu justifiant des aides type RSA</li></ul>Dans tous les cas, l'accès à l'événement pour ces billets se fera sur présentation d'un justificatif. En cas de manquement à ces règles, le participant sera invité à payer la différence ou à ne pas assister à l'événement. Aucun remboursement ne sera fait.",
+  "faq-answer6": "Le tarif réduit est disponible pour les personnes suivantes :<ul><li>Les étudiants</li><li>Les enseignants</li><li>Les demandeurs d'emplois</li><li>Les personnes ayant un revenu justifiant des aides type RSA</li></ul>Dans tous les cas, l'accès à l'événement pour ces billets se fera sur présentation d'un justificatif. Sans justificatif, l'entrée à l'événement sera refusée. Aucun remboursement ne sera fait.",
   "faq-question7": "Comment va se dérouler le DevFest ?",
   "faq-answer7": "Les 2 journées comprendront trois types de sessions : les conférences (50mn), les quickies (20mn) et les codelabs (2h).<br>Les conférences et les quickies seront des présentations réalisées par des speakers renommés ou des Googlers évoquant leurs technologies préférées.<br>Les codelabs se veulent plus informels et seront l'occasion de mettre les mains (et les pieds) dans le code sur une technologie en compagnie d'un expert.",
   "faq-question8": "Quels sont les sujets abordés ? ",
