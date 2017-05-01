@@ -88,7 +88,13 @@
       }
 
       .action-buttons {
+        @apply(--layout-horizontal);
         margin-top: 40px;
+      }
+
+      .action-buttons paper-button {
+        @apply(--layout-vertical);
+        @apply(--layout-center-justified);
       }
 
       paper-button {
@@ -138,8 +144,11 @@
                 {$ playIcon $}
               </div>
               <div class="action-buttons">
-                <a href$="{{localize(app.data.partnershipProposition)}}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-                  <paper-button class="primary">[[localize('become-a-partner')]]</paper-button>
+                <a href="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+                  <paper-button class="primary">[[localize('buy-ticket')]]</paper-button>
+                </a>
+                <a href="[[app.data.cfp.url]]" target="_blank" rel="noopener noreferrer">
+                  <paper-button class="primary">[[localize('c4p')]]</paper-button>
                 </a>
               </div>
             </div>

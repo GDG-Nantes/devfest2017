@@ -123,7 +123,6 @@
       "permalink": "/faq/"
     }
   ],
-  "url": "https://devfestnantes2017-test.firebaseapp.com/",
   "mailchimp": {
     "url": "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d",
     "name": "b_b44affc3cdfd00b20bcae502c_e0e7ceee5d"
@@ -590,6 +589,9 @@
         "soldOut": false
       }
     ]
+  },
+  "cfp": {
+    "url": "https://devfestnantes.cfp.io"
   },
   "codPath" : "cod-path",
   "teamPageTitle": "team-page-title",
