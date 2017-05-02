@@ -15,5 +15,5 @@ Afin de récompenser les participants prenant leurs places avant l’annonce du 
 Pour résumer : 
 
 * Places Early : 70€ jusqu’à écoulement des early et avant le 30 juin.
-* Places Normal : 90€ une fois le programme publié et jusqu’à écoulement des stocks
+* Places Normal : 90€ une fois le programme publié et jusqu’à écoulement des stocks - 1 septembre.
 * Places Tarif réduits : 20€ réservé aux étudiants, demandeurs d’emplois, enseignants. Disponible jusqu’à écoulement des stocks.
