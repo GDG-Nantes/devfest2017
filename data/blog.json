@@ -1,15 +1,14 @@
-[
-  {
+[{
     "id": "devfest-2017-announced",
     "title": "Guide du Dev-Hero : Chapitre 1",
     "posted": "2017-02-24",
-    "primaryColor": "#00BCD4",
-    "secondaryColor": "#00BCD4",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
     "image": "/images/posts/announce.jpg",
     "brief": "Le GDG Nantes est fier de vous annoncer la 6ème édition du DevFest Nantes! L'événement aura lieu les 19 et 20 Octobre 2017 à la Cité des Congrès de Nantes."
   },
   {
-  	"id": "cfp-tickets-announced",
+    "id": "cfp-tickets-announced",
     "title": "Guide du Dev-Hero : Chapitre 2",
     "posted": "2017-05-01",
     "primaryColor": "#5A7785",
