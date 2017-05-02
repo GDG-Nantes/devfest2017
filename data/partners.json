@@ -80,6 +80,12 @@
         "url": "http://www.groupeonepoint.com/",
         "logoUrl": "../images/logos/onepoint.png",
         "width": 220
+      },
+      {
+        "name": "LaFourchette",
+        "url": "https://www.lafourchette.com/",
+        "logoUrl": "../images/logos/lafourchette.png",
+        "width": 220
       }
     ]
   },{
