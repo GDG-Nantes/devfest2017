@@ -86,6 +86,12 @@
         "url": "https://www.lafourchette.com/",
         "logoUrl": "../images/logos/lafourchette.png",
         "width": 220
+      },
+      {
+        "name": "DTA Ingénierie",
+        "url": "http://www.dta-ingenierie.fr/",
+        "logoUrl": "../images/logos/dta.png",
+        "width": 220
       }
     ]
   },{
