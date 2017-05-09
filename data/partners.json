@@ -31,6 +31,12 @@
         "url": "http://www.groupe-creative.fr/",
         "logoUrl": "../images/logos/creative.png",
         "width": 250
+      },
+      {
+        "name": "SQLI",
+        "url": "http://www.sqli.com/",
+        "logoUrl": "../images/logos/sqli.png",
+        "width": 250
       }
     ]
   },{
@@ -91,6 +97,12 @@
         "name": "DTA Ingénierie",
         "url": "http://www.dta-ingenierie.fr/",
         "logoUrl": "../images/logos/dta.png",
+        "width": 220
+      },
+      {
+        "name": "Néo-Soft",
+        "url": "http://www.neo-soft.fr/",
+        "logoUrl": "../images/logos/neosoft.png",
         "width": 220
       }
     ]
