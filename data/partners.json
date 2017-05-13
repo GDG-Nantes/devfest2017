@@ -41,7 +41,14 @@
     ]
   },{
     "title": "after-partner",
-    "logos": []
+    "logos": [
+      {
+        "name": "U GIE-IRIS",
+        "url": "http://www.viadeo.com/fr/company/u-gie-iris/",
+        "logoUrl": "../images/logos/systemeu.png",
+        "width": 250
+      }
+    ]
   },{
     "title": "gold-partner",
     "logos": [
@@ -108,6 +115,25 @@
     ]
   },{
     "title": "other-partner",
-    "logos": []
+    "logos": [
+      {
+        "name": "Luiza Laffitte",
+        "url": "http://www.luizalaffitte.com/",
+        "logoUrl": "../images/logos/luiza_laffitte.png",
+        "width": 180
+      },
+      {
+        "name": "Mstream",
+        "url": "http://www.mstream.fr",
+        "logoUrl": "../images/logos/mstream.png",
+        "width": 180
+      },
+      {
+        "name": "Remy Chautard",
+        "url": "http://remy-chautard.com/",
+        "logoUrl": "../images/logos/remy_chautard.png",
+        "width": 180
+      }
+    ]
   }
 ]
