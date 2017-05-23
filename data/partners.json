@@ -37,6 +37,12 @@
         "url": "http://www.sqli.com/",
         "logoUrl": "../images/logos/sqli.png",
         "width": 250
+      },
+      {
+        "name": "Talend",
+        "url": "http://fr.talend.com/",
+        "logoUrl": "../images/logos/talend.png",
+        "width": 250
       }
     ]
   },{
