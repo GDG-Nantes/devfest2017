@@ -88,6 +88,10 @@
       "permalink": "/blog/"
     },
     {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
       "route": "pratique",
       "permalink": "/pratique/"
     },
