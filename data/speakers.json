@@ -2,18 +2,34 @@
   "101": {
     "id": 101,
     "featured": true,
-    "name": "Name",
-    "company": "Company",
-    "country": "City, COUNTRY",
-    "photoUrl": "/images/speakers/default.jpg",
-    "shortBio": "Short Bio",
-    "bio": "Bio.",
-    "tags": [],
-    "badges": [],
-    "socials": [{
-      "icon": "twitter",
-      "name": "Twitter",
-      "link": "https://twitter.com/devfestnantes"
-    }]
+    "name": "Rachel Andrew",
+    "company": "edgeofmyseat.com",
+    "country": "Bristol, UK",
+    "photoUrl": "/images/speakers/randrew.jpg",
+    "shortBio": "Managing Director and founder of web development company edgeofmyseat.com",
+    "bio": "Managing Director and founder of web development company edgeofmyseat.com. Invited Expert to the CSS Worging Group and Google Developer Expert.",
+    "tags": ["HTML5", "CSS"],
+    "badges": [{
+      "name": "GDE",
+      "description": "Web Google Developer Expert",
+      "link": "https://developers.google.com/experts/people/rachel-andrew"
+    }],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/rachelandrew"
+      }, 
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/rachelandrew"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://rachelandrew.co.uk/"
+      }
+    ]
   }
 }
