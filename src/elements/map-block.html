@@ -102,7 +102,6 @@
          :host {
           padding: 100px 0;
         }
-
       }
 
     </style>
@@ -191,9 +190,7 @@
 
           images: {
             type: Array,
-            value: {
-              $ location.images | dump | safe $
-            }
+            value: location.images
           },
 
           _currentSourceIndex: {
