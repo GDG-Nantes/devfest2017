@@ -117,6 +117,12 @@
         "url": "http://www.neo-soft.fr/",
         "logoUrl": "../images/logos/neosoft.png",
         "width": 220
+      },
+      {
+        "name": "Accenture",
+        "url": "https://www.accenture.com/fr-fr/",
+        "logoUrl": "../images/logos/accenture.png",
+        "width": 220
       }
     ]
   },{
