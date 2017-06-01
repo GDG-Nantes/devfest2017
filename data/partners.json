@@ -123,6 +123,24 @@
         "url": "https://www.accenture.com/fr-fr/",
         "logoUrl": "../images/logos/accenture.png",
         "width": 220
+      },
+      {
+        "name": "Niji",
+        "url": "http://www.niji.fr/",
+        "logoUrl": "../images/logos/niji.png",
+        "width": 220
+      },
+      {
+        "name": "Netapsys",
+        "url": "http://www.netapsys.fr/",
+        "logoUrl": "../images/logos/netapsys.png",
+        "width": 220
+      },
+      {
+        "name": "PALO IT",
+        "url": "http://palo-it.com/",
+        "logoUrl": "../images/logos/palo-it.png",
+        "width": 220
       }
     ]
   },{
@@ -144,6 +162,12 @@
         "name": "Remy Chautard",
         "url": "http://remy-chautard.com/",
         "logoUrl": "../images/logos/remy_chautard.png",
+        "width": 180
+      },
+      {
+        "name": "Editions ENI",
+        "url": "http://www.editions-eni.fr/",
+        "logoUrl": "../images/logos/editions-eni.png",
         "width": 180
       }
     ]
