@@ -141,6 +141,12 @@
         "url": "http://palo-it.com/",
         "logoUrl": "../images/logos/palo-it.png",
         "width": 220
+      },
+      {
+        "name": "SOFTEAM",
+        "url": "http://www.softeam.fr/",
+        "logoUrl": "../images/logos/softeam.png",
+        "width": 220
       }
     ]
   },{
