@@ -31,5 +31,58 @@
         "link": "https://rachelandrew.co.uk/"
       }
     ]
+  },
+  "102": {
+    "id": 102,
+    "featured": true,
+    "name": "Romain Guy",
+    "company": "Google",
+    "country": "San Francisco, USA",
+    "photoUrl": "/images/speakers/rguy.jpg",
+    "shortBio": "Android Graphics team lead/manager",
+    "bio": "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit.",
+    "tags": ["Android"],
+    "badges": [],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://google.com/+RomainGuy"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/romainguy"
+      }
+    ]
+  },
+  "103": {
+    "id": 103,
+    "featured": true,
+    "name": "Chet Haase",
+    "company": "Google",
+    "country": "San Francisco, USA",
+    "photoUrl": "/images/speakers/chaase.jpg",
+    "shortBio": "Android UI Toolkit team lead/manager",
+    "bio": "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic.",
+    "tags": ["Android"],
+    "badges": [],
+    "socials": [
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://google.com/+ChetHaase"
+      },
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/chethaase"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "https://medium.com/@chethaase"
+      }
+    ]
   }
 }
