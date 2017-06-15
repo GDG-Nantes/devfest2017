@@ -14,8 +14,7 @@
       "description": "Web Google Developer Expert",
       "link": "https://developers.google.com/experts/people/rachel-andrew"
     }],
-    "socials": [
-      {
+    "socials": [{
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/rachelandrew"
@@ -43,8 +42,7 @@
     "bio": "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit.",
     "tags": ["Android"],
     "badges": [],
-    "socials": [
-      {
+    "socials": [{
         "icon": "gplus",
         "name": "Google+",
         "link": "https://google.com/+RomainGuy"
@@ -67,8 +65,7 @@
     "bio": "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic.",
     "tags": ["Android"],
     "badges": [],
-    "socials": [
-      {
+    "socials": [{
         "icon": "gplus",
         "name": "Google+",
         "link": "https://google.com/+ChetHaase"
@@ -93,15 +90,13 @@
     "country": "San Francisco, USA",
     "photoUrl": "/images/speakers/pchanezon.jpg",
     "shortBio": "Chief Developer Advocate, Docker Inc",
-    "bio": "Patrick Chanezon is Chief Developer Advocate at Docker Inc. He helps to build Docker, the world’s leading software container platform, for developers and sysadmins. \nSoftware developer and storyteller, he spent 10 years building platforms at Netscape & Sun, then 10 years evangelizing platforms at Google, VMware & Microsoft. His main professional interest is in building and kickstarting the network effect for these wondrous two-sided markets called Platforms.\nHe has worked on platforms for Portals, Ads, Commerce, Social, Web, Distributed Apps, and Cloud. ",
+    "bio": "Patrick Chanezon is Chief Developer Advocate at Docker Inc. He helps to build Docker, the world’s leading software container platform, for developers and sysadmins. Software developer and storyteller, he spent 10 years building platforms at Netscape & Sun, then 10 years evangelizing platforms at Google, VMware & Microsoft. His main professional interest is in building and kickstarting the network effect for these wondrous two-sided markets called Platforms. He has worked on platforms for Portals, Ads, Commerce, Social, Web, Distributed Apps, and Cloud. ",
     "tags": ["Docker"],
     "badges": [],
-    "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/chanezon"
-      }
-    ]
+    "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/chanezon"
+    }]
   }
 }
