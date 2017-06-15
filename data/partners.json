@@ -1,181 +1,180 @@
-[
-  {
-    "title": "platinium-partner",
-    "logos": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/logos/google.svg",
-        "width": 250
-      },
-      {
-        "name": "Zenika",
-        "url": "https://www.zenika.com/",
-        "logoUrl": "../images/logos/zenika.png",
-        "width": 250
-      },
-      {
-        "name": "Epitech",
-        "url": "http://www.epitech.eu/",
-        "logoUrl": "../images/logos/epitech.png",
-        "width": 250
-      },
-      {
-        "name": "Apside",
-        "url": "http://www.apside.com/",
-        "logoUrl": "../images/logos/apside.png",
-        "width": 250
-      },
-      {
-        "name": "Creative",
-        "url": "http://www.groupe-creative.fr/",
-        "logoUrl": "../images/logos/creative.png",
-        "width": 250
-      },
-      {
-        "name": "SQLI",
-        "url": "http://www.sqli.com/",
-        "logoUrl": "../images/logos/sqli.png",
-        "width": 250
-      },
-      {
-        "name": "Talend",
-        "url": "http://fr.talend.com/",
-        "logoUrl": "../images/logos/talend.png",
-        "width": 250
-      }
-    ]
-  },{
-    "title": "after-partner",
-    "logos": [
-      {
-        "name": "U GIE-IRIS",
-        "url": "http://www.viadeo.com/fr/company/u-gie-iris/",
-        "logoUrl": "../images/logos/systemeu.png",
-        "width": 250
-      }
-    ]
-  },{
-    "title": "gold-partner",
-    "logos": [
-      {
-        "name": "SII",
-        "url": "http://www.groupe-sii.com/",
-        "logoUrl": "../images/logos/sii.png",
-        "width": 220
-      },
-      {
-        "name": "A5Sys",
-        "url": "http://www.a5sys.com/",
-        "logoUrl": "../images/logos/a5sys.png",
-        "width": 220
-      },
-      {
-        "name": "Conserto",
-        "url": "https://www.conserto.pro/",
-        "logoUrl": "../images/logos/conserto.png",
-        "width": 220
-      },
-      {
-        "name": "Lucca",
-        "url": "http://www.lucca.fr/",
-        "logoUrl": "../images/logos/lucca.png",
-        "width": 220
-      },
-      {
-        "name": "VIF",
-        "url": "http://www.vif.fr/",
-        "logoUrl": "../images/logos/vif.png",
-        "width": 220
-      },
-      {
-        "name": "Cat-Amania",
-        "url": "http://www.cat-amania.com/",
-        "logoUrl": "../images/logos/catamania.png",
-        "width": 220
-      },
-      {
-        "name": "Groupe onepoint",
-        "url": "http://www.groupeonepoint.com/",
-        "logoUrl": "../images/logos/onepoint.png",
-        "width": 220
-      },
-      {
-        "name": "LaFourchette",
-        "url": "https://www.lafourchette.com/",
-        "logoUrl": "../images/logos/lafourchette.png",
-        "width": 220
-      },
-      {
-        "name": "DTA Ingénierie",
-        "url": "http://www.dta-ingenierie.fr/",
-        "logoUrl": "../images/logos/dta.png",
-        "width": 220
-      },
-      {
-        "name": "Néo-Soft",
-        "url": "http://www.neo-soft.fr/",
-        "logoUrl": "../images/logos/neosoft.png",
-        "width": 220
-      },
-      {
-        "name": "Accenture",
-        "url": "https://www.accenture.com/fr-fr/",
-        "logoUrl": "../images/logos/accenture.png",
-        "width": 220
-      },
-      {
-        "name": "Niji",
-        "url": "http://www.niji.fr/",
-        "logoUrl": "../images/logos/niji.png",
-        "width": 220
-      },
-      {
-        "name": "Netapsys",
-        "url": "http://www.netapsys.fr/",
-        "logoUrl": "../images/logos/netapsys.png",
-        "width": 220
-      },
-      {
-        "name": "PALO IT",
-        "url": "http://palo-it.com/",
-        "logoUrl": "../images/logos/palo-it.png",
-        "width": 220
-      },
-      {
-        "name": "SOFTEAM",
-        "url": "http://www.softeam.fr/",
-        "logoUrl": "../images/logos/softeam.png",
-        "width": 220
-      }
-    ]
-  },{
-    "title": "other-partner",
-    "logos": [
-      {
-        "name": "Luiza Laffitte",
-        "url": "http://www.luizalaffitte.com/",
-        "logoUrl": "../images/logos/luiza_laffitte.png",
-        "width": 180
-      },
-      {
-        "name": "Mstream",
-        "url": "http://www.mstream.fr",
-        "logoUrl": "../images/logos/mstream.png",
-        "width": 180
-      },
-      {
-        "name": "Remy Chautard",
-        "url": "http://remy-chautard.com/",
-        "logoUrl": "../images/logos/remy_chautard.png",
-        "width": 180
-      },
-      {
-        "name": "Editions ENI",
-        "url": "http://www.editions-eni.fr/",
-        "logoUrl": "../images/logos/editions-eni.png",
-        "width": 180
-      }
-    ]
-  }
-]
+[{
+  "title": "platinium-partner",
+  "logos": [{
+      "name": "Google",
+      "url": "https://www.google.com.ua/intl/en/about/",
+      "logoUrl": "../images/logos/google.svg",
+      "width": 250
+    },
+    {
+      "name": "Zenika",
+      "url": "https://www.zenika.com/",
+      "logoUrl": "../images/logos/zenika.png",
+      "width": 250
+    },
+    {
+      "name": "Epitech",
+      "url": "http://www.epitech.eu/",
+      "logoUrl": "../images/logos/epitech.png",
+      "width": 250
+    },
+    {
+      "name": "Apside",
+      "url": "http://www.apside.com/",
+      "logoUrl": "../images/logos/apside.png",
+      "width": 250
+    },
+    {
+      "name": "Creative",
+      "url": "http://www.groupe-creative.fr/",
+      "logoUrl": "../images/logos/creative.png",
+      "width": 250
+    },
+    {
+      "name": "SQLI",
+      "url": "http://www.sqli.com/",
+      "logoUrl": "../images/logos/sqli.png",
+      "width": 250
+    },
+    {
+      "name": "Talend",
+      "url": "http://fr.talend.com/",
+      "logoUrl": "../images/logos/talend.png",
+      "width": 250
+    }
+  ]
+}, {
+  "title": "after-partner",
+  "logos": [{
+    "name": "U GIE-IRIS",
+    "url": "http://www.viadeo.com/fr/company/u-gie-iris/",
+    "logoUrl": "../images/logos/systemeu.png",
+    "width": 250
+  }]
+}, {
+  "title": "gold-partner",
+  "logos": [{
+      "name": "SII",
+      "url": "http://www.groupe-sii.com/",
+      "logoUrl": "../images/logos/sii.png",
+      "width": 220
+    },
+    {
+      "name": "A5Sys",
+      "url": "http://www.a5sys.com/",
+      "logoUrl": "../images/logos/a5sys.png",
+      "width": 220
+    },
+    {
+      "name": "Conserto",
+      "url": "https://www.conserto.pro/",
+      "logoUrl": "../images/logos/conserto.png",
+      "width": 220
+    },
+    {
+      "name": "Lucca",
+      "url": "http://www.lucca.fr/",
+      "logoUrl": "../images/logos/lucca.png",
+      "width": 220
+    },
+    {
+      "name": "VIF",
+      "url": "http://www.vif.fr/",
+      "logoUrl": "../images/logos/vif.png",
+      "width": 220
+    },
+    {
+      "name": "Cat-Amania",
+      "url": "http://www.cat-amania.com/",
+      "logoUrl": "../images/logos/catamania.png",
+      "width": 220
+    },
+    {
+      "name": "Groupe onepoint",
+      "url": "http://www.groupeonepoint.com/",
+      "logoUrl": "../images/logos/onepoint.png",
+      "width": 220
+    },
+    {
+      "name": "LaFourchette",
+      "url": "https://www.lafourchette.com/",
+      "logoUrl": "../images/logos/lafourchette.png",
+      "width": 220
+    },
+    {
+      "name": "DTA Ingénierie",
+      "url": "http://www.dta-ingenierie.fr/",
+      "logoUrl": "../images/logos/dta.png",
+      "width": 220
+    },
+    {
+      "name": "Néo-Soft",
+      "url": "http://www.neo-soft.fr/",
+      "logoUrl": "../images/logos/neosoft.png",
+      "width": 220
+    },
+    {
+      "name": "Accenture",
+      "url": "https://www.accenture.com/fr-fr/",
+      "logoUrl": "../images/logos/accenture.png",
+      "width": 220
+    },
+    {
+      "name": "Niji",
+      "url": "http://www.niji.fr/",
+      "logoUrl": "../images/logos/niji.png",
+      "width": 220
+    },
+    {
+      "name": "Netapsys",
+      "url": "http://www.netapsys.fr/",
+      "logoUrl": "../images/logos/netapsys.png",
+      "width": 220
+    },
+    {
+      "name": "PALO IT",
+      "url": "http://palo-it.com/",
+      "logoUrl": "../images/logos/palo-it.png",
+      "width": 220
+    },
+    {
+      "name": "SOFTEAM",
+      "url": "http://www.softeam.fr/",
+      "logoUrl": "../images/logos/softeam.png",
+      "width": 220
+    },
+    {
+      "name": "Sogeti",
+      "url": "https://www.fr.sogeti.com/",
+      "logoUrl": "../images/logos/sogeti.png",
+      "width": 220
+    }
+  ]
+}, {
+  "title": "other-partner",
+  "logos": [{
+      "name": "Luiza Laffitte",
+      "url": "http://www.luizalaffitte.com/",
+      "logoUrl": "../images/logos/luiza_laffitte.png",
+      "width": 180
+    },
+    {
+      "name": "Mstream",
+      "url": "http://www.mstream.fr",
+      "logoUrl": "../images/logos/mstream.png",
+      "width": 180
+    },
+    {
+      "name": "Remy Chautard",
+      "url": "http://remy-chautard.com/",
+      "logoUrl": "../images/logos/remy_chautard.png",
+      "width": 180
+    },
+    {
+      "name": "Editions ENI",
+      "url": "http://www.editions-eni.fr/",
+      "logoUrl": "../images/logos/editions-eni.png",
+      "width": 180
+    }
+  ]
+}]
