@@ -19,7 +19,7 @@
         "icon": "twitter",
         "name": "Twitter",
         "link": "https://twitter.com/rachelandrew"
-      }, 
+      },
       {
         "icon": "github",
         "name": "Github",
@@ -82,6 +82,25 @@
         "icon": "website",
         "name": "Website",
         "link": "https://medium.com/@chethaase"
+      }
+    ]
+  },
+  "104": {
+    "id": 104,
+    "featured": true,
+    "name": "Patrick Chanezon",
+    "company": "Docker",
+    "country": "San Francisco, USA",
+    "photoUrl": "/images/speakers/pchanezon.jpg",
+    "shortBio": "Chief Developer Advocate, Docker Inc",
+    "bio": "Patrick Chanezon is Chief Developer Advocate at Docker Inc. He helps to build Docker, the world’s leading software container platform, for developers and sysadmins. \nSoftware developer and storyteller, he spent 10 years building platforms at Netscape & Sun, then 10 years evangelizing platforms at Google, VMware & Microsoft. His main professional interest is in building and kickstarting the network effect for these wondrous two-sided markets called Platforms.\nHe has worked on platforms for Portals, Ads, Commerce, Social, Web, Distributed Apps, and Cloud. ",
+    "tags": ["Docker"],
+    "badges": [],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/chanezon"
       }
     ]
   }
