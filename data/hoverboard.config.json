@@ -207,7 +207,7 @@
         "starts": "early-ticket-starts",
         "ends": "early-ticket-ends",
         "info": "early-ticket-info",
-        "soldOut": false
+        "soldOut": true
       },
       {
         "name": "lazy-ticket",
