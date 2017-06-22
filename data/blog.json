@@ -15,5 +15,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/cfp-tickets.jpg",
     "brief": "Le CFP ainsi que la billeterie du DevFest Nantes 2017 sont officiellement ouvert."
+  },
+  {
+    "id": "end-tickets-early",
+    "title": "Guide du Dev-Hero : Chapitre 3",
+    "posted": "2017-06-22",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/end-tickets.jpg",
+    "brief": "Pour l’édition 2017, nous vous travaillons un programme de grande qualité."
   }
 ]
