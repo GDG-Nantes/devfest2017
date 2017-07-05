@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gdgnantes.devfest.android",
+      "sha256_cert_fingerprints": [
+        "1A:24:9C:B5:69:5F:B5:21:CD:80:45:7A:06:20:C5:78:DB:07:A8:CA:A0:8F:E9:47:B9:F6:A5:60:6B:78:DB:32"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gdgnantes.devfest.android.debug",
+      "sha256_cert_fingerprints": [
+        "A4:4D:C3:06:BD:32:11:3B:C4:60:F6:93:40:AA:4B:D4:A1:BC:DC:BD:77:A8:12:29:C1:8D:25:17:79:10:2F:A4"
+      ]
+    }
+  }
+]
