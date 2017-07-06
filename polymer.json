@@ -14,6 +14,7 @@
     "src/pages/faq-page.html"
   ],
   "sources": [
+    ".well-known/**",
     "data/**/*",
     "images/**/*",
     "scripts/**/*",
@@ -21,8 +22,7 @@
     "bower.json",
     "manifest.json",
     "robots.txt",
-    "sitemap.xml",
-    ".well-known/**"
+    "sitemap.xml"
   ],
   "includeDependencies": [
     "bower_components/webcomponentsjs/webcomponents-lite.min.js"

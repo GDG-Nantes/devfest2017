@@ -7,13 +7,13 @@
     "rewrites": [
       {
         "source": "/.well-known/assetlinks.json",
-        "headers" : [
+        "headers": [
           {
-            "key" : "Content-Type",
-            "value" : "application/json"
+            "key": "Content-Type",
+            "value": "application/json"
           }
         ],
-        "type" : 200
+        "type": 200
       },
       {
         "source": "**",
