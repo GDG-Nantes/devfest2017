@@ -41,6 +41,12 @@
       "url": "http://fr.talend.com/",
       "logoUrl": "../images/logos/talend.png",
       "width": 250
+    },
+    {
+      "name": "Capgemini",
+      "url": "https://www.fr.capgemini.com/",
+      "logoUrl": "../images/logos/capgemini.png",
+      "width": 250
     }
   ]
 }, {
