@@ -14,6 +14,7 @@
     "src/pages/faq-page.html"
   ],
   "sources": [
+    ".well-known/**",
     "data/**/*",
     "images/**/*",
     "scripts/**/*",
