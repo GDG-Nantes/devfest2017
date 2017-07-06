@@ -24,5 +24,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/end-tickets.jpg",
     "brief": "Pour l’édition 2017, nous vous travaillons un programme de grande qualité."
+  },
+  {
+    "id": "cfp-closed",
+    "title": "Guide du Dev-Hero : Chapitre 4",
+    "posted": "2017-07-06",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/cfp-closed.jpg",
+    "brief": "Merci à toutes les personnes qui ont posté un sujet dans le CFP."
   }
 ]
