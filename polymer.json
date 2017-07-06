@@ -21,7 +21,8 @@
     "bower.json",
     "manifest.json",
     "robots.txt",
-    "sitemap.xml"
+    "sitemap.xml",
+    ".well-known/**"
   ],
   "includeDependencies": [
     "bower_components/webcomponentsjs/webcomponents-lite.min.js"
