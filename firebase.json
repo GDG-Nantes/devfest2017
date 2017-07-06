@@ -4,17 +4,22 @@
   },
   "hosting": {
     "public": "build/unbundled",
-    "rewrites": [
+    "headers": [
       {
         "source": "/.well-known/assetlinks.json",
         "headers": [
           {
             "key": "Content-Type",
             "value": "application/json"
+          },
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
           }
-        ],
-        "type": 200
-      },
+        ]
+      }
+    ],
+    "rewrites": [
       {
         "source": "**",
         "destination": "/index.html"
