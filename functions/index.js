@@ -9,13 +9,14 @@ const format = require("date-fns/format");
 
 admin.initializeApp(functions.config().firebase);
 
-exports.generateAndroidData = functions.https.onRequest(async (req, res) => {
-  res.set("Cache-Control", "public, max-age: 3600, s-maxage: 3600");
-  const data = await start(getData);
-  if (req.headers["If-None-Match"] == etag(JSON.stringify(data))) {
-    return res.status(304).send;
-  }
-  res.status(200).send(data);
+exports.generateAndroidData = functions.https.onRequest((req, res) => {
+  start(getData).then(data => {
+    res.set("Cache-Control", "public, max-age: 3600, s-maxage: 3600");
+    if (req.headers["If-None-Match"] == etag(JSON.stringify(data))) {
+      return res.status(304).send;
+    }
+    res.status(200).send(data);
+  });
 });
 
 const getData = () => {
