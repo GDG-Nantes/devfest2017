@@ -21,6 +21,10 @@
     ],
     "rewrites": [
       {
+        "source": "/api/v1/schedule",
+        "function": "generateAndroidData"
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }
