@@ -8,6 +8,7 @@ const etag = require("etag");
 const format = require("date-fns/format");
 
 admin.initializeApp(functions.config().firebase);
+process.env.TZ = "Europe/Paris";
 
 exports.generateAndroidData = functions.https.onRequest((req, res) => {
   start(getData).then(data => {
@@ -47,16 +48,14 @@ const getData = () => {
 };
 
 const transformRoom = data => (value, key) => {
-  return { id: key, name: value.title };
+  return { id: String(key), name: value.title };
 };
 
 const transformSession = data => (value, key) => {
   return _(value)
     .assign({
-      speakers_ids: value.speakers,
-      start_timestamp: new Date(),
-      end_timestamp: new Date(),
-      room_id: 42
+      id: String(value.id),
+      speakers_ids: value.speakers && value.speakers.map(String)
     })
     .omit(["speakers", "image"])
     .value();
@@ -70,10 +69,14 @@ const addSession = data => {
       const endTime = heure.endTime;
       const flatSlot = _.flatten(heure.sessions);
       _.forEach(flatSlot, (slot, index) => {
-        const session = data.sessions.find(({ id }) => id === slot);
+        const session = data.sessions.find(({ id }) => id === String(slot));
+        if (!session) {
+          console.log(`No session found for Id: ${slot}`);
+          return;
+        }
         session.start_timestamp = format(`${date}T${startTime}`);
         session.end_timestamp = format(`${date}T${endTime}`);
-        session.room_id = index; // or the equivalent 'data.rooms[index].id'
+        session.room_id = String(index); // or the equivalent 'data.rooms[index].id'
       });
     });
   });
@@ -82,7 +85,8 @@ const addSession = data => {
 const transformSpeaker = data => (value, key) => {
   return _(value)
     .assign({
-      photo_url: value.photoUrl,
+      id: String(value.id),
+      photo_url: `https://devfest2017.gdgnantes.com${value.photoUrl}`,
       short_bio: value.shortBio,
       social_links: value.socials.map(social => ({
         network: social.name.toLowerCase(),
