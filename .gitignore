@@ -3,4 +3,4 @@ dist
 node_modules
 build
 .idea/
-functions/firebase-debug.log
+firebase-debug.log

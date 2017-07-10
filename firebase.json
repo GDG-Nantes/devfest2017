@@ -3,7 +3,7 @@
     "rules": "database.rules.json"
   },
   "hosting": {
-    "public": "build/unbundled",
+    "public": "build/default",
     "headers": [
       {
         "source": "/.well-known/assetlinks.json",
@@ -20,6 +20,10 @@
       }
     ],
     "rewrites": [
+      {
+        "source": "/api/v1/schedule",
+        "function": "generateAndroidData"
+      },
       {
         "source": "**",
         "destination": "/index.html"
