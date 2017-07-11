@@ -1,125 +1,151 @@
-[{
-  "date": "2017-10-19",
-  "dateReadable": "19 octobre",
-  "tracks": [{
-    "title": "Titan"
-  }, {
-    "title": "Belem"
-  }, {
-    "title": "Tour Bretagne"
-  }, {
-    "title": "Graslin"
-  }, {
-    "title": "Les machines"
-  }],
-  "timeslots": [{
-    "startTime": "08:00",
-    "endTime": "09:00",
-    "sessions": [
-      [0]
+[
+  {
+    "date": "2017-10-19",
+    "dateReadable": "19 octobre",
+    "tracks": [
+      {
+        "title": "Titan"
+      },
+      {
+        "title": "Belem"
+      },
+      {
+        "title": "Tour Bretagne"
+      },
+      {
+        "title": "Graslin"
+      },
+      {
+        "title": "Les machines"
+      }
+    ],
+    "timeslots": [
+      {
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "sessions": [[0]]
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "sessions": [[1]]
+      },
+      {
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "sessions": [[6]]
+      },
+      {
+        "startTime": "11:10",
+        "endTime": "12:00",
+        "sessions": []
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "sessions": [[2]]
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "sessions": []
+      },
+      {
+        "startTime": "15:10",
+        "endTime": "16:00",
+        "sessions": []
+      },
+      {
+        "startTime": "16:20",
+        "endTime": "17:10",
+        "sessions": []
+      },
+      {
+        "startTime": "17:20",
+        "endTime": "17:40",
+        "sessions": []
+      },
+      {
+        "startTime": "17:50",
+        "endTime": "18:10",
+        "sessions": []
+      },
+      {
+        "startTime": "18:30",
+        "endTime": "23:00",
+        "sessions": [[3]]
+      }
     ]
-  }, {
-    "startTime": "09:00",
-    "endTime": "09:50",
-    "sessions": [
-      [1]
+  },
+  {
+    "date": "2017-10-20",
+    "dateReadable": "20 octobre",
+    "tracks": [
+      {
+        "title": "Titan"
+      },
+      {
+        "title": "Belem"
+      },
+      {
+        "title": "Tour Bretagne"
+      },
+      {
+        "title": "Graslin"
+      },
+      {
+        "title": "Les machines"
+      },
+      {
+        "title": "Tour LU"
+      }
+    ],
+    "timeslots": [
+      {
+        "startTime": "08:30",
+        "endTime": "09:00",
+        "sessions": [[5]]
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "sessions": []
+      },
+      {
+        "startTime": "10:10",
+        "endTime": "11:00",
+        "sessions": []
+      },
+      {
+        "startTime": "11:20",
+        "endTime": "12:10",
+        "sessions": []
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "sessions": [[4]]
+      },
+      {
+        "startTime": "15:10",
+        "endTime": "16:00",
+        "sessions": []
+      },
+      {
+        "startTime": "16:20",
+        "endTime": "16:40",
+        "sessions": []
+      },
+      {
+        "startTime": "16:50",
+        "endTime": "17:10",
+        "sessions": []
+      },
+      {
+        "startTime": "17:20",
+        "endTime": "18:10",
+        "sessions": []
+      }
     ]
-  }, {
-    "startTime": "10:00",
-    "endTime": "10:50",
-    "sessions": []
-  }, {
-    "startTime": "11:10",
-    "endTime": "12:00",
-    "sessions": []
-  }, {
-    "startTime": "12:00",
-    "endTime": "14:00",
-    "sessions": [
-      [2]
-    ]
-  }, {
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "sessions": []
-  }, {
-    "startTime": "15:10",
-    "endTime": "16:00",
-    "sessions": []
-  }, {
-    "startTime": "16:20",
-    "endTime": "17:10",
-    "sessions": []
-  }, {
-    "startTime": "17:20",
-    "endTime": "17:40",
-    "sessions": []
-  }, {
-    "startTime": "17:50",
-    "endTime": "18:10",
-    "sessions": []
-  }, {
-    "startTime": "18:30",
-    "endTime": "23:00",
-    "sessions": [
-      [3]
-    ]
-  }]
-}, {
-  "date": "2017-10-20",
-  "dateReadable": "20 octobre",
-  "tracks": [{
-    "title": "Titan"
-  }, {
-    "title": "Belem"
-  }, {
-    "title": "Tour Bretagne"
-  }, {
-    "title": "Graslin"
-  }, {
-    "title": "Les machines"
-  }, {
-    "title": "Tour LU"
-  }],
-  "timeslots": [{
-    "startTime": "08:30",
-    "endTime": "09:00",
-    "sessions": [
-      [5]
-    ]
-  }, {
-    "startTime": "09:00",
-    "endTime": "09:50",
-    "sessions": []
-  }, {
-    "startTime": "10:10",
-    "endTime": "11:00",
-    "sessions": []
-  }, {
-    "startTime": "11:20",
-    "endTime": "12:10",
-    "sessions": []
-  }, {
-    "startTime": "14:00",
-    "endTime": "14:50",
-    "sessions": [
-      [4]
-    ]
-  }, {
-    "startTime": "15:10",
-    "endTime": "16:00",
-    "sessions": []
-  }, {
-    "startTime": "16:20",
-    "endTime": "16:40",
-    "sessions": []
-  }, {
-    "startTime": "16:50",
-    "endTime": "17:10",
-    "sessions": []
-  }, {
-    "startTime": "17:20",
-    "endTime": "18:10",
-    "sessions": []
-  }]
-}]
+  }
+]
