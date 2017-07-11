@@ -55,6 +55,7 @@ const transformSession = data => (value, key) => {
   return _(value)
     .assign({
       id: String(value.id),
+      title: value.titleMobile || value.title,
       speakers_ids: value.speakers && value.speakers.map(String)
     })
     .omit(["speakers", "image"])
