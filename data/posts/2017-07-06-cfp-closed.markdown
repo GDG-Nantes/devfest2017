@@ -5,7 +5,7 @@ Merci à toutes les personnes qui ont posté un sujet dans le CFP. Nous avons re
 Comme chaque année, nous avons eu un grand nombre de soumissions et comme on s’y attendait, nous avons eu un pic de soumissions la dernière semaine.
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <a href="/speakers/101"><img src="/images/posts/cfp_stats.jpg" width="400px" /></a>
+  <img src="/images/posts/cfp_stats.jpg" width="400px" />
 </div>
 
 Le DevFest semble attractif car nous avons reçu plus de propositions de speakers étrangers que les autres années ! En effet, nous avons 17% de talks soumis en anglais !
@@ -14,7 +14,7 @@ Ce qu’on peut vous dire, c’est que le DevFest 2017 sera d’une très grande
 
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <a href="/speakers/101"><img src="/images/posts/wordcloud.png" width="600px" /></a>
+  <img src="/images/posts/wordcloud.png" width="600px" />
 </div>
 
 
