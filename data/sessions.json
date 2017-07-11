@@ -3,7 +3,6 @@
     "id": 0,
     "title": "Ouverture des portes / Gates open",
     "titleMobile": "Gates open",
-    "speakers": [],
     "image": "/images/backgrounds/opening.jpg",
     "type": "break"
   },
@@ -12,15 +11,13 @@
     "title": "Keynote d'ouverture / Opening keynote",
     "titleMobile": "Opening keynote",
     "image": "/images/backgrounds/keynote.jpg",
-    "type": "keynote",
-    "speakers": []
+    "type": "keynote"
   },
   "2": {
     "id": 2,
     "title": "Déjeuner / Lunch",
     "titleMobile": "Lunch",
     "description": "Foooooood !!!",
-    "speakers": [],
     "image": "/images/backgrounds/lunch.jpg",
     "type": "break"
   },
@@ -28,7 +25,6 @@
     "id": 3,
     "title": "After Party",
     "description": "Cette année l’After Party est organisé par notre partenaires U GIE IRIS (Système U). <br />Elle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Jeudi 19 Octobre. <br />Retrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...<br />Venez nombreux !!",
-    "speakers": [],
     "image": "/images/backgrounds/party.jpg",
     "type": "break"
   },
@@ -37,7 +33,6 @@
     "title": "Déjeuner / Lunch",
     "titleMobile": "Lunch",
     "description": "Foooooood !!!",
-    "speakers": [],
     "image": "/images/backgrounds/lunch.jpg",
     "type": "break"
   },
@@ -45,7 +40,6 @@
     "id": 5,
     "title": "Ouverture des portes / Gates open",
     "titleMobile": "Gates open",
-    "speakers": [],
     "image": "/images/backgrounds/opening.jpg",
     "type": "break"
   },
