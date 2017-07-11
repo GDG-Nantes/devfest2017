@@ -59,7 +59,7 @@ const transformSession = data => (value, key) => {
       title: value.titleMobile || value.title,
       speakers_ids: speakers.map(String)
     })
-    .omit(["speakers", "image"])
+    .omit(["speakers", "image", "tags", "complexity"])
     .value();
 };
 

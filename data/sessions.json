@@ -5,15 +5,15 @@
     "titleMobile": "Gates open",
     "speakers": [],
     "image": "/images/backgrounds/opening.jpg",
-    "tags": ["General"]
+    "type": "break"
   },
   "1": {
     "id": 1,
     "title": "Keynote d'ouverture / Opening keynote",
     "titleMobile": "Opening keynote",
     "image": "/images/backgrounds/keynote.jpg",
-    "speakers": [],
-    "tags": ["General"]
+    "type": "keynote",
+    "speakers": []
   },
   "2": {
     "id": 2,
@@ -22,7 +22,7 @@
     "description": "Foooooood !!!",
     "speakers": [],
     "image": "/images/backgrounds/lunch.jpg",
-    "tags": ["General"]
+    "type": "break"
   },
   "3": {
     "id": 3,
@@ -30,7 +30,7 @@
     "description": "Cette année l’After Party est organisé par notre partenaires U GIE IRIS (Système U). <br />Elle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Jeudi 19 Octobre. <br />Retrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...<br />Venez nombreux !!",
     "speakers": [],
     "image": "/images/backgrounds/party.jpg",
-    "tags": ["Party"]
+    "type": "break"
   },
   "4": {
     "id": 4,
@@ -39,7 +39,7 @@
     "description": "Foooooood !!!",
     "speakers": [],
     "image": "/images/backgrounds/lunch.jpg",
-    "tags": ["General"]
+    "type": "break"
   },
   "5": {
     "id": 5,
@@ -47,7 +47,7 @@
     "titleMobile": "Gates open",
     "speakers": [],
     "image": "/images/backgrounds/opening.jpg",
-    "tags": ["General"]
+    "type": "break"
   },
   "6": {
     "id": 6,
@@ -55,7 +55,9 @@
     "description": "2017 is the year of the Grid, with the long awaited CSS Grid Layout landing in browsers. In this talk I’ll demonstrate with practical examples what grid layout is, the basics of how to use it and how to start using it right now - without leaving older browsers out in the cold.",
     "speakers": [101],
     "complexity": "Intermediate",
-    "language": "English",
+    "language": "en",
+    "type": "talk",
+    "track": "web",
     "tags": ["Web", "Conference"]
   }
 }
