@@ -52,11 +52,12 @@ const transformRoom = data => (value, key) => {
 };
 
 const transformSession = data => (value, key) => {
+  const speakers = value.speakers || []
   return _(value)
     .assign({
       id: String(value.id),
       title: value.titleMobile || value.title,
-      speakers_ids: value.speakers && value.speakers.map(String)
+      speakers_ids: speakers.map(String)
     })
     .omit(["speakers", "image"])
     .value();
