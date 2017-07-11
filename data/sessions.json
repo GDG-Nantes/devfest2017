@@ -2,11 +2,13 @@
   "0": {
     "id": 0,
     "title": "Ouverture des portes / Gates open",
+    "titleMobile": "Gates open",
     "image": "/images/backgrounds/opening.jpg"
   },
   "1": {
     "id": 1,
     "title": "Keynote d'ouverture / Opening keynote",
+    "titleMobile": "Opening keynote",
     "image": "/images/backgrounds/keynote.jpg",
     "speakers": [],
     "videoId": "cqwmytyukRg"
@@ -14,6 +16,7 @@
   "2": {
     "id": 2,
     "title": "Déjeuner / Lunch",
+    "titleMobile": "Lunch",
     "description": "Foooooood !!!",
     "image": "/images/backgrounds/lunch.jpg"
   },
@@ -26,17 +29,14 @@
   "4": {
     "id": 4,
     "title": "Déjeuner / Lunch",
+    "titleMobile": "Lunch",
     "description": "Foooooood !!!",
     "image": "/images/backgrounds/lunch.jpg"
   },
   "5": {
     "id": 5,
     "title": "Ouverture des portes / Gates open",
+    "titleMobile": "Gates open",
     "image": "/images/backgrounds/opening.jpg"
-  },
-  "6": {
-    "id": 6,
-    "title": "Fermeture des portes / Gates closed",
-    "image": "/images/backgrounds/closing.jpg"
   }
 }
