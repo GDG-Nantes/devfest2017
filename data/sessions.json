@@ -780,6 +780,7 @@
     "1937": {
         "id": 1937,
         "title": "Keynote de fermeture",
+        "image": "/images/backgrounds/keynote.jpg",
         "description": "Description à venir bientôt",
         "type": "talk",
         "track": {
@@ -792,7 +793,12 @@
             "Conference"
         ],
         "complexity": "Beginner",
-        "speakers": []
+        "speakers": [
+          5000,
+          5001,
+          5002,
+          103
+        ]
     },
     "1955": {
         "id": 1955,

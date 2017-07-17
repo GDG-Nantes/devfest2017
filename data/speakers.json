@@ -1805,5 +1805,64 @@
                 "link": "https://github.com/mattyep"
             }
         ]
+    },
+    "5000": {
+        "id": 5000,
+        "name": "Philippe Charrière",
+        "company": "Clever Cloud",
+        "country": "France",
+        "photoUrl": "images/speakers/Philippe_Charriere.jpg",
+        "shortBio": "Tech Evangelist + CSO @Clever_Cloud",
+        "bio": "Tech Evangelist + CSO @Clever_Cloud - Eleveur de bots - Golo tech-evangelist-dev-relation-advocate :p @TypeUnsafe - Geek officiel d'entreprise - @ScalaIO_FR member",
+        "tags": ["Discovery"],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/k33g_org"
+            },
+            {
+                "icon": "github",
+                "name": "Github",
+                "link": "https://github.com/k33g"
+            }
+        ]
+    },
+    "5001": {
+        "id": 5001,
+        "name": "Anaïs Vivion",
+        "company": "BeeApp",
+        "country": "France",
+        "photoUrl": "images/speakers/Anais_Vivion.jpg",
+        "shortBio": "Directrice Générale et Associée BeApp",
+        "bio": "Anaïs Vivion, Jeune entrepreneuse Nantaise est aujourd'hui à la tête d'une start-up nommée BeApp qu'elle a monté en 2011 avec deux associés. Avec 3 années en communication et un Master Management et Stratégie d'entreprise en poche elle décide de monter sa strat-up pour simplifier l'accès à la mobilité pour les entreprises. Débutant dans le marketing dans un Groupe de Presse chez Sud Ouest elle se passionnera pour les technologies mobiles lors de sa deuxième expériences dans une strat-up spécialisé dans le mobile. Elle est finaliste du premier 'Prix du jeune Entrepreneur' en 2013 et membre du réseau international DWEN 'Dell Women's Entrepeneur Network'. ",
+        "tags": ["Discovery"],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/AnaVivion"
+            }
+        ]
+    },
+    "5002": {
+        "id": 5002,
+        "name": "Thomas Gx",
+        "company": "Krds / CommitStrip",
+        "country": "France",
+        "photoUrl": "images/speakers/Thomas_Gx.jpg",
+        "shortBio": "Thomas Gx est le fondateur de CommitStrip",
+        "bio": "Thomas Gx est le fondateur de CommitStrip, le blog BD bien connu des codeurs : c'est lui qui écrit chaque jour depuis 2012 une strip sur la vie quotidienne des codeurs. Pionner du développement des réseaux sociaux en France dès 2006 en lançant Cancoon, Thomas co-fonde en 2007 l'agence KRDS, première agence spécialisée en social media marketing et aujourd'hui leader en Europe et en Asie. Il y occupe aujourd'hui la Direction de la Production, dirigeant un studio primé et une équipe de développeurs web ayant produit près de 2000 projets.",
+        "tags": ["Discovery"],
+        "badges": [],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/CommitStrip_fr"
+            }
+        ]
     }
 }
