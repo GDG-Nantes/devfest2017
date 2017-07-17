@@ -5,7 +5,7 @@ Pour l’édition 2017, nous vous travaillons un programme de grande qualité (c
 ### Rachel Andrew
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <a href="/speakers/101"><img src="/images/posts/rachel-andrew.png" width="400px" /></a>
+  <a href="/speakers/2624"><img src="/images/posts/rachel-andrew.png" width="400px" /></a>
 </div>
 
 Rachel est la référence sur le sujet GridLayout CSS, elle a déjà évangélisé bon nombre de développeurs-euses avec ses conférences sur le sujet et elle nous fait donc l’honneur de venir à Nantes nous partager son savoir.
@@ -15,7 +15,7 @@ Rachel est la référence sur le sujet GridLayout CSS, elle a déjà évangélis
 ### Chet Haase & Romain Guy
 
 <div style="display:flex; flex-direction:row; align-items:center; justify-content:center;">
-  <a href="/speakers/102"><img src="/images/posts/romain-guy.png" width="400px" /></a>
+  <a href="/speakers/2670"><img src="/images/posts/romain-guy.png" width="400px" /></a>
   <a href="/speakers/103"><img src="/images/posts/chet-haase.png" width="400px" /></a>
 </div>
 
