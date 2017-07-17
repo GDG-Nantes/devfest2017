@@ -63,6 +63,11 @@
         cursor: default;
       }
 
+      .meta-language{
+        position: relative;
+        top: 10px;
+      }
+
       .share-menu {
         padding: 0;
       }
@@ -92,7 +97,7 @@
               <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] /
                 [[session.track.title]]
                 <span hidden$="[[!session.language]]">
-                  / [[session.language]]
+                  / <img class="meta-language" src$="/images/flags/[[session.language]].png" />
                 </span>
                 <span hidden$="[[!session.complexity]]">
                   / [[session.complexity]]
