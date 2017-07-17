@@ -41,7 +41,8 @@
       paper-fab {
         --paper-fab-iron-icon: {
           color: var(--primary-text-color);
-        };
+        }
+        ;
         transition: background 0.28s cubic-bezier(0.4, 0, 0.2, 1);
       }
 
@@ -63,7 +64,7 @@
         cursor: default;
       }
 
-      .meta-language{
+      .meta-language {
         position: relative;
         top: 10px;
       }
@@ -71,14 +72,14 @@
       .share-menu {
         padding: 0;
       }
+
     </style>
 
-    <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
+    <paper-scroll-header-panel id="scrollHeaderPanel" fixed>
       <paper-toolbar class="medium-tall">
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
-          <iron-image class="fallback-image" src="/images/logo-white.svg"
-                      alt="[[app.data.title]]"></iron-image>
+          <iron-image class="fallback-image" src="/images/logo-white.svg" alt="[[app.data.title]]"></iron-image>
         </div>
       </paper-toolbar>
       <div class="content">
@@ -95,8 +96,7 @@
           <div class="main-info">
             <div class="info">
               <h1 class="main-title">[[session.title]]</h1>
-              <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] /
-                [[session.track.title]]
+              <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] / [[session.track.title]]
                 <span hidden$="[[!session.language]]">
                   / <img class="meta-language" src$="/images/flags/[[session.language]].png" />
                 </span>
@@ -140,8 +140,7 @@
           </paper-menu-button>
 
 
-          <a href$="[[session.presentation]]" hidden$="[[!session.presentation]]" target="_blank"
-             rel="noopener noreferrer">
+          <a href$="[[session.presentation]]" hidden$="[[!session.presentation]]" target="_blank" rel="noopener noreferrer">
             <paper-button class="action">
               <iron-icon icon="presentation"></iron-icon>
               [[localize('view-presentation')]]
@@ -169,15 +168,10 @@
                   <span class="section-sub-title">[[speaker.company]], [[speaker.country]]</span>
                   <div class="badges">
                     <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
-                      <a class="badge" href$="[[badge.link]]" target="_blank"
-                         rel="noopener noreferrer">[[badge.name]]</a>
+                      <a class="badge" href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.name]]</a>
                     </template>
                   </div>
-                  <truncate-marked-text
-                    text="[[speaker.bio]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
+                  <truncate-marked-text text="[[speaker.bio]]" characters="220" break-last-word></truncate-marked-text>
 
                   <a class="read-more" href$="/speakers/[[speaker.id]]" dialog-dismiss>[[localize('read-more')]]</a>
                 </div>
@@ -278,6 +272,7 @@
       });
 
     }());
+
   </script>
 
 </dom-module>
