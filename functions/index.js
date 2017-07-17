@@ -5,10 +5,9 @@ const admin = require("firebase-admin");
 const request = require("request-promise-native");
 const _ = require("lodash");
 const etag = require("etag");
-const format = require("date-fns/format");
+const moment = require("moment-timezone");
 
 admin.initializeApp(functions.config().firebase);
-process.env.TZ = "Europe/Paris";
 
 exports.generateAndroidData = functions.https.onRequest((req, res) => {
   start(getData).then(data => {
@@ -52,7 +51,7 @@ const transformRoom = data => (value, key) => {
 };
 
 const transformSession = data => (value, key) => {
-  const speakers = value.speakers || []
+  const speakers = value.speakers || [];
   return _(value)
     .assign({
       id: String(value.id),
@@ -76,8 +75,12 @@ const addSession = data => {
           console.log(`No session found for Id: ${slot}`);
           return;
         }
-        session.start_timestamp = format(`${date}T${startTime}`);
-        session.end_timestamp = format(`${date}T${endTime}`);
+        session.start_timestamp = moment
+          .tz(`${date}T${startTime}`, "Europe/Paris")
+          .format();
+        session.end_timestamp = moment
+          .tz(`${date}T${endTime}`, "Europe/Paris")
+          .format();
         session.room_id = String(index); // or the equivalent 'data.rooms[index].id'
       });
     });
