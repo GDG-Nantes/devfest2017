@@ -23,6 +23,7 @@
     "102": {
         "id": 102,
         "name": "Patrick Chanezon",
+        "featured": true,
         "company": "Docker",
         "country": "USA",
         "photoUrl": "images/speakers/Patrick_Chanezon.jpg",
@@ -44,9 +45,10 @@
     "103": {
         "id": 103,
         "name": "Chet Haase",
+        "featured": true,
         "company": "Google",
         "country": "USA",
-        "photoUrl": "images/speakers/Chet_Haase.jpg",
+        "photoUrl": "images/speakers/Chet_Haase.png",
         "shortBio": "Chet leads the Android UI Toolkit team at Google",
         "bio": "Chet leads the Android UI Toolkit team at Google, where he works on animations, graphics, UI widgets, and anything else that puts pixels on the screen. He also writes and performs comedy if given the chance or a mic.",
         "tags": ["Android", "Mobile"],
@@ -119,6 +121,7 @@
         "id": 282,
         "name": "Girard Didier",
         "country": "France",
+        "company": "Sfeir",
         "photoUrl": "images/speakers/Girard_Didier.jpg",
         "shortBio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
         "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
@@ -282,7 +285,7 @@
         "name": "Cyril Balit",
         "company": "Sfeir",
         "country": "France",
-        "photoUrl": "images/speakers/cyril_balit.png",
+        "photoUrl": "images/speakers/cyril_balit.jpeg",
         "shortBio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web",
         "bio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
         "tags": ["Angular", "Web"],
@@ -516,7 +519,7 @@
     "1222": {
         "id": 1222,
         "name": "Wassim Chegham",
-        "company": "SFEIR",
+        "company": "Sfeir",
         "country": "France",
         "photoUrl": "images/speakers/Wassim_Chegham.jpg",
         "shortBio": "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate",
@@ -553,7 +556,7 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/slequeu"
+                "link": "https://twitter.com/slequeux"
             }
         ]
     },
@@ -622,7 +625,7 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/lynchmaniacP"
+                "link": "https://twitter.com/lynchmaniac"
             },
             {
                 "icon": "github",
@@ -1291,6 +1294,7 @@
         "id": 2591,
         "name": "Cyril Mottier",
         "country": "France",
+        "company": "Unknown",
         "photoUrl": "images/speakers/Cyril_Mottier.jpeg",
         "shortBio": "Cyril has been leading and managing several mobile teams in the past",
         "bio": "Cyril has been leading and managing several mobile teams in the past. He is an expert in Android & mobile in general. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. His motto: “Do less, but do it insanely great”",
@@ -1361,13 +1365,17 @@
     "2624": {
         "id": 2624,
         "name": "Rachel Andrew",
+        "featured": true,
         "company": "edgeofmyseat.com",
         "country": "England",
         "photoUrl": "images/speakers/Rachel_Andrew.jpg",
         "shortBio": "Rachel Andrew is a front and back-end web developer, author and speaker",
         "bio": "Rachel Andrew is a front and back-end web developer, author and speaker. Her books include the recent [Get Ready for CSS Grid Layout](https://abookapart.com/products/get-ready-for-css-grid-layout) and she is a regular contributor to a number of publications both on and offline. Rachel is co-founder of the CMS [Perch](https://grabaperch.com), a Google Developer Expert and an Invited Expert to the CSS Working Group. She writes about business and technology on her own site at [rachelandrew.co.uk](https://rachelandrew.co.uk).",
         "tags": ["CSS", "HTML5", "Web"],
-        "badges": [],
+        "badges": [{
+          "name": "GDE",
+          "description": "Google Developper Expert"
+        }],
         "socials": [
             {
                 "icon": "twitter",
@@ -1505,6 +1513,7 @@
     "2670": {
         "id": 2670,
         "name": "Romain Guy",
+        "featured": true,
         "company": "Google",
         "country": "USA",
         "photoUrl": "images/speakers/Romain_Guy.jpg",
@@ -1557,6 +1566,7 @@
         "id": 2681,
         "name": "Guillaume Chau",
         "country": "France",
+        "company": "Unknown",
         "photoUrl": "images/speakers/Guillaume_Chau.jpg",
         "shortBio": "Membre de la Core Team de Vue",
         "bio": "Membre de la Core Team de Vue.js, Guillaume est le créateur d'intégrations avec Meteor ([vue-meteor](https://github.com/Akryum/vue-meteor/)) et Apollo GraphQL ([vue-apollo](https://github.com/Akryum/vue-apollo)) afin d'aider les développeurs à créer des applications Vue avec une forte intéractivité et du temps-réel. Il a également créé l'application vue-curated permettant de trouver les bonnes librairies pour développer une application, et il contribue à l'écosystème avec des outils comme [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) et [vue-supply](https://github.com/Akryum/vue-supply).",
@@ -1613,11 +1623,6 @@
                 "icon": "gplus",
                 "name": "Google+",
                 "link": "https://google.com/+demis27"
-            },
-            {
-                "icon": "github",
-                "name": "Github",
-                "link": "https://github.com/skermabontalend.com"
             }
         ]
     },
@@ -1711,7 +1716,7 @@
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/jerome_etienn"
+                "link": "https://twitter.com/jerome_etienne"
             },
             {
                 "icon": "gplus",
