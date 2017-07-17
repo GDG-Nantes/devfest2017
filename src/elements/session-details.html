@@ -74,7 +74,7 @@
     </style>
 
     <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
-      <paper-toolbar class="tall">
+      <paper-toolbar class="medium-tall">
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
           <iron-image class="fallback-image" src="/images/logo-white.svg"
@@ -82,14 +82,15 @@
         </div>
       </paper-toolbar>
       <div class="content">
-        <paper-fab
+        <!--
+          <paper-fab
           class$="float-button header-action [[fabIcon]]"
           icon="[[fabIcon]]"
           session-id$="[[session.id]]"
           on-tap="toggleMyScheduleSession"
           disabled$="[[!online]]"
         ></paper-fab>
-
+          -->
         <div class="metadata-wrapper">
           <div class="main-info">
             <div class="info">
