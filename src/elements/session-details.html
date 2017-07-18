@@ -13,6 +13,10 @@
 <link rel="import" href="../../bower_components/paper-menu/paper-menu.html">
 <link rel="import" href="../../bower_components/paper-fab/paper-fab.html">
 
+<link rel="import" href="../../bower_components/app-layout/app-header-layout/app-header-layout.html">
+<link rel="import" href="../../bower_components/app-layout/app-header/app-header.html">
+<link rel="import" href="../../bower_components/app-layout/app-toolbar/app-toolbar.html">
+
 <link rel="import" href="../../bower_components/neon-animation/neon-animation-runner-behavior.html">
 <link rel="import" href="../../bower_components/marked-element/marked-element.html">
 
@@ -73,15 +77,29 @@
         padding: 0;
       }
 
+
+
     </style>
 
-    <paper-scroll-header-panel id="scrollHeaderPanel" fixed>
-      <paper-toolbar class="medium-tall">
+    <!--<paper-scroll-header-panel id="scrollHeaderPanel" fixed>-->
+      <app-header-layout id="scrollHeaderPanel" fullbleed has-scrolling-region>
+           <app-header fixed waterfall id="detailsHeader">
+        <paper-toolbar class="medium-tall">
+         <!--
+            <app-toolbar>
+              -->
+      <!--
+          -->
         <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
           <iron-image class="fallback-image" src="/images/logo-white.svg" alt="[[app.data.title]]"></iron-image>
         </div>
-      </paper-toolbar>
+        </paper-toolbar>
+         </app-header>
+      <!--
+            </app-toolbar>
+    -->
+      <div>
       <div class="content">
         <!--
           <paper-fab
@@ -180,6 +198,7 @@
           </div>
         </div>
       </template>
+      </div></app-header-layout>
     </paper-scroll-header-panel>
 
   </template>
@@ -231,6 +250,7 @@
 
         _sessionChanged: function () {
           var generatedClass = this._generateClass(this.session.mainTag);
+          this.$.detailsHeader.style['background-color'] = this.getComputedStyleValue('--' + generatedClass);
           this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
           this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();
           HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue('--' + generatedClass));
@@ -242,10 +262,10 @@
             this.backdropElement.open();
           }
           this.playAnimation('entry');
-          this.async(function () {
+          /*this.async(function () {
             this.$.scrollHeaderPanel.scrollToTop(true);
             this.$.scrollHeaderPanel.notifyResize();
-          });
+          });*/
           HOVERBOARD.Analytics.trackEvent('session', 'open details', this.session.title);
         },
 
