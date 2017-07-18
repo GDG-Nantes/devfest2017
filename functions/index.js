@@ -55,6 +55,7 @@ const transformSession = data => (value, key) => {
   return _(value)
     .assign({
       id: String(value.id),
+      track: value.category,
       title: value.titleMobile || value.title,
       speakers_ids: speakers.map(String)
     })
