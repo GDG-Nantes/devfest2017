@@ -47,6 +47,12 @@
       "url": "https://www.fr.capgemini.com/",
       "logoUrl": "../images/logos/capgemini.png",
       "width": 250
+    },
+    {
+      "name": "Mozilla",
+      "url": "https://www.mozilla.org/en-US/foundation/",
+      "logoUrl": "../images/logos/mozilla.png",
+      "width": 250
     }
   ]
 }, {
