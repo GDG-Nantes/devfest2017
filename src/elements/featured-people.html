@@ -140,14 +140,16 @@
         },
 
         _peopleChanged: function () {
-          var people = this._toArray(this.people),
-            filteredPeople = [];
-          for (var i = 0, length = people.length; i < length; i++) {
-            if (people[i].featured) {
-              filteredPeople.push(people[i]);
+          if(this.people) {
+            var people = this._toArray(this.people),
+              filteredPeople = [];
+            for (var i = 0, length = this.people.length; i < length; i++) {
+              if (people[i].featured) {
+                filteredPeople.push(people[i]);
+              }
             }
+            this.featuredPeople = this._randomOrder(filteredPeople).slice(0, 4);
           }
-          this.featuredPeople = this._randomOrder(filteredPeople).slice(0, 4);
         }
 
       });
