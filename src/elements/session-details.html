@@ -116,7 +116,7 @@
               <h1 class="main-title">[[session.title]]</h1>
               <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] / [[session.track.title]]
                 <span hidden$="[[!session.language]]">
-                  / <img class="meta-language" src$="/images/flags/[[session.language]].png" />
+                  / <img class="meta-language" src$="/images/flags/[[_getFlag(session)]].png" />
                 </span>
                 <span hidden$="[[!session.complexity]]">
                   / [[session.complexity]]
@@ -287,6 +287,10 @@
 
         _getMyScheduleIcon: function (id) {
           this.fabIcon = this.isInMySchedule(id) ? 'calendar-check' : 'calendar-plus';
+        },
+
+        _getFlag: function (session) {
+          return (session && session.language) || 'fr';
         }
 
       });
