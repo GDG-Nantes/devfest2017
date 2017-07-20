@@ -323,7 +323,7 @@
         },
 
         _getFlag: function (session) {
-          return session.language || 'fr';
+          return (session && session.language) || 'fr';
         }
       });
 
