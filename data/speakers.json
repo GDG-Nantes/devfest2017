@@ -1763,5 +1763,24 @@
       "name": "Twitter",
       "link": "https://twitter.com/CommitStrip_fr"
     }]
+  },
+  "5003": {
+    "id": 5003,
+    "name": "Asim Hussain",
+    "company": "Microsoft",
+    "country": "England",
+    "photoUrl": "/images/speakers/Asim_Hussain.png",
+    "shortBio": "Cloud Developer Advocate",
+    "bio": "I'm a developer, trainer and speaker with over 16 years experience working for organisations such as the European Space Agency, Google and now Microsoft, where I am a Senior Cloud Developer Advocate. I'm also author of the book "Angular: From Theory to Practice" and I've taught over 50K students Angular & JavaScript through my site codecraft.tv",
+    "tags": ["Angular", "Azure", "Cloud"],
+    "badges": [{
+      "name": "Microsoft Advocate",
+      "description": "Microsoft Developper Advocate"
+    }],
+    "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/jawache"
+    }]
   }
 }
