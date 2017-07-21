@@ -185,7 +185,7 @@
           <div class="session-content" flex>
             <h2 class="session-title">[[session.title]]</h2>
             <ul class="session-meta">
-              <li hidden$="[[!session.language]]"><img class="meta-language" src$="/images/flags/[[_getFlag()]].png" /></li>
+              <li hidden$="[[!session.language]]"><img class="meta-language" src$="/images/flags/[[_getFlag(session)]].png" /></li>
               <li hidden$="[[!session.complexity]]">[[session.complexity]]</li>
               <li hidden$="[[!session.track.title]]">[[session.track.title]]</li>
             </ul>
@@ -321,8 +321,8 @@
           return session.tags && session.tags.length || session.presentation || session.videoId;
         },
 
-        _getFlag: function () {
-          return (this.session && this.session.language) || 'fr';
+        _getFlag: function (session) {
+          return (session && session.language) || 'fr';
         }
       });
 
