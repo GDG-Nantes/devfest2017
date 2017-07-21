@@ -117,7 +117,7 @@
               <h1 class="main-title">[[session.title]]</h1>
               <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] / [[session.track.title]]
                 <span hidden$="[[!session.language]]">
-                  / <img class="meta-language" src$="/images/flags/[[_getFlag(session)]].png" />
+                  / <img class="meta-language" src$="[[_getFlag(session)]]" />
                 </span>
                 <span hidden$="[[!session.complexity]]">
                   / [[session.complexity]]
@@ -291,7 +291,7 @@
         },
 
         _getFlag: function (session) {
-          return (session && session.language) || 'fr';
+          return (session && session.language) ? '/images/flags/' + session.language + '.png' : '';
         }
 
       });
