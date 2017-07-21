@@ -21,7 +21,7 @@
     "title": "Guide du Dev-Hero : Chapitre 3",
     "posted": "2017-06-22",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
     "image": "/images/posts/end-tickets.jpg",
     "brief": "Pour l’édition 2017, nous vous travaillons un programme de grande qualité."
   },
@@ -33,5 +33,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/cfp-closed.jpg",
     "brief": "Merci à toutes les personnes qui ont posté un sujet dans le CFP."
+  },
+  {
+    "id": "apside",
+    "title": "Mot du super-sponsor : Apside",
+    "posted": "2017-07-19",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/apside.png",
+    "brief": "Merci au sponsor Apside pour son soutien."
   }
 ]
