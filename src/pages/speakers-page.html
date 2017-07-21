@@ -279,7 +279,7 @@
         },
 
         _routePageChanged: function (speakerId) {
-          if (speakerId && this.selected) {
+          if (speakerId && this.selected && Number.isInteger(parseInt(speakerId))) {
             var tempSpeaker = this.speakers[speakerId];
             if (tempSpeaker) {
               window.requestAnimationFrame(function () {
