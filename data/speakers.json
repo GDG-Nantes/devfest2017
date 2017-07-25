@@ -316,7 +316,6 @@
   "852": {
     "id": 852,
     "name": "Gautier Mechling",
-    "company": "Unknown",
     "country": "France",
     "photoUrl": "/images/speakers/Gautier_Mechling.jpg",
     "shortBio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier",
@@ -1226,7 +1225,6 @@
     "id": 2591,
     "name": "Cyril Mottier",
     "country": "France",
-    "company": "Unknown",
     "photoUrl": "/images/speakers/Cyril_Mottier.jpeg",
     "shortBio": "Cyril has been leading and managing several mobile teams in the past",
     "bio": "Cyril has been leading and managing several mobile teams in the past. He is an expert in Android & mobile in general. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. His motto: “Do less, but do it insanely great”",
@@ -1484,7 +1482,6 @@
     "id": 2681,
     "name": "Guillaume Chau",
     "country": "France",
-    "company": "Unknown",
     "photoUrl": "/images/speakers/Guillaume_Chau.jpg",
     "shortBio": "Membre de la Core Team de Vue",
     "bio": "Membre de la Core Team de Vue.js, Guillaume est le créateur d'intégrations avec Meteor ([vue-meteor](https://github.com/Akryum/vue-meteor/)) et Apollo GraphQL ([vue-apollo](https://github.com/Akryum/vue-apollo)) afin d'aider les développeurs à créer des applications Vue avec une forte intéractivité et du temps-réel. Il a également créé l'application vue-curated permettant de trouver les bonnes librairies pour développer une application, et il contribue à l'écosystème avec des outils comme [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) et [vue-supply](https://github.com/Akryum/vue-supply).",
