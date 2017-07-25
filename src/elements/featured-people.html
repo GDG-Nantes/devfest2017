@@ -141,11 +141,11 @@
 
         _peopleChanged: function () {
           if(this.people) {
-            var people = this._toArray(this.people),
+            var aPeople = this._toArray(this.people),
               filteredPeople = [];
-            for (var i = 0, length = this.people.length; i < length; i++) {
-              if (people[i].featured) {
-                filteredPeople.push(people[i]);
+            for (let p of aPeople) {
+              if (p.featured) {
+                filteredPeople.push(p);
               }
             }
             this.featuredPeople = this._randomOrder(filteredPeople).slice(0, 4);
