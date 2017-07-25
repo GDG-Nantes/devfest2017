@@ -95,7 +95,12 @@ const addSession = data => {
 
 const transformSpeaker = data => (value, key) => {
   // remove markdown on bio except for speaker id 5000
-  const bio = value.bio && value.id !== 5000 ? removeMd(value.bio, { stripListLeaders: false }) : value.bio
+  let bio
+  if (value.id === 5000) {
+    bio = value.bio
+  } else if (value.bio) {
+    bio = removeMd(value.bio, { stripListLeaders: false })
+  }
   return _(value)
     .assign({
       id: String(value.id),
