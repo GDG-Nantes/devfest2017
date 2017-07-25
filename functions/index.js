@@ -85,7 +85,9 @@ const addSession = data => {
         session.end_timestamp = moment
           .tz(`${date}T${endTime}`, "Europe/Paris")
           .format();
-        session.room_id = String(index); // or the equivalent 'data.rooms[index].id'
+        if (session.type !== 'break') {
+          session.room_id = String(index); // or the equivalent 'data.rooms[index].id'
+        }
       });
     });
   });
