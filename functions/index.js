@@ -6,6 +6,7 @@ const request = require("request-promise-native");
 const _ = require("lodash");
 const etag = require("etag");
 const moment = require("moment-timezone");
+const removeMd = require('remove-markdown');
 
 admin.initializeApp(functions.config().firebase);
 
@@ -52,11 +53,13 @@ const transformRoom = data => (value, key) => {
 
 const transformSession = data => (value, key) => {
   const speakers = value.speakers || [];
+  const description = value.description ? removeMd(value.description, { stripListLeaders: false }) : undefined
   return _(value)
     .assign({
       id: String(value.id),
       track: value.category,
       title: value.titleMobile || value.title,
+      description,
       speakers_ids: speakers.map(String)
     })
     .omit(["speakers", "image", "tags", "complexity"])
@@ -89,11 +92,12 @@ const addSession = data => {
 };
 
 const transformSpeaker = data => (value, key) => {
+  const bio = value.bio ? removeMd(value.bio, { stripListLeaders: false }) : undefined
   return _(value)
     .assign({
       id: String(value.id),
       photo_url: `https://devfest2017.gdgnantes.com${value.photoUrl}`,
-      short_bio: value.shortBio,
+      bio,
       social_links: value.socials.map(social => ({
         network: social.name.toLowerCase(),
         url: social.link
