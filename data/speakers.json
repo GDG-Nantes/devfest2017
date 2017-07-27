@@ -194,26 +194,28 @@
   },
   "551": {
     "id": 551,
-    "name": "Julien Corioland",
+    "name": "Pascal Sauliere",
     "company": "Microsoft",
     "country": "France",
-    "photoUrl": "/images/speakers/JULIEN_CORIOLAND.jpg",
-    "shortBio": "Julien Corioland est développeur et speaker",
-    "bio": "Julien Corioland est développeur et speaker. Après avoir passé 6 ans à travailler en tant que consultant sur des technologies Web et Cloud, il a rejoint Microsoft France en tant qu’évangéliste technique où il accompagne les développeurs dans la prise en main de la plateforme applicative Microsoft Azure et dans la mise en place d’architectures modernes pensées pour le cloud. Retrouvez le sur Twitter @jcorioland ou sur son blog https://aka.ms/jcorioland",
-    "tags": ["Docker", "Kubernetes", "Cloud"],
-    "badges": [{
-      "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
-    }],
+    "photoUrl": "/images/speakers/Pascal_Sauliere.jpg",
+    "shortBio": "Evangéliste technique chez Microsoft France",
+    "bio": "Evangéliste technique chez Microsoft France, Pascal accompagne les clients et communautés sur le cloud et DevOps, avec un penchant pour les architectures, l'automatisation, la sécurité et les solutions open source. A ses heures perdus il anime ITcast, le podcast de l'IT.",
+    "tags": ["Devops", "Cloud", "Azure"],
+    "badges": [],
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/jcorioland"
+        "link": "https://twitter.com/psauliere"
       },
       {
         "icon": "github",
         "name": "Github",
-        "link": "https://github.com/jcorioland"
+        "link": "https://github.com/pascals-msft"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://itcast.io"
       }
     ]
   },
