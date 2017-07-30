@@ -104,7 +104,7 @@ const transformSpeaker = data => (value, key) => {
   return _(value)
     .assign({
       id: String(value.id),
-      photo_url: `https://devfest2017.gdgnantes.com${value.photoUrl}`,
+      photo_url: `https://devfest2017.gdgnantes.com${encodeURI(value.photoUrl)}`,
       bio,
       social_links: value.socials.map(social => ({
         network: social.name.toLowerCase(),
