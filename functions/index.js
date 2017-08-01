@@ -86,7 +86,7 @@ const addSession = data => {
           .tz(`${date}T${endTime}`, "Europe/Paris")
           .format();
 
-        if (session.type !== 'codelab') {
+        if (session.type === 'codelab') {
           session.room_id = '4' // special case for codelabs
         } else if (session.type !== 'break') {
           session.room_id = String(index); // or the equivalent 'data.rooms[index].id'
