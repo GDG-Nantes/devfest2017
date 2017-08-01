@@ -178,7 +178,7 @@
                data="{{routeData}}"></app-route>
 
     <div class="container speakers-container">
-      <template is="dom-repeat" items="[[_toArray(speakers)]]" as="speaker" on-dom-change="updateCascadedNodes">
+      <template is="dom-repeat" items="[[_getSpeakers()]]" as="speaker" on-dom-change="updateCascadedNodes">
         <div class="speaker" cascaded>
           <paper-material class="card">
             <a href$="/speakers/[[speaker.id]]/" class="header">
@@ -298,6 +298,12 @@
 
         _resetSpeakerIdParam: function () {
           this.set('routeData.speakerId', null);
+        },
+
+        _getSpeakers: function () {
+          return this._toArray(this.speakers).sort(function(sp1, sp2) {
+            return sp1.name.localeCompare(sp2.name)
+          });
         }
       });
 
