@@ -238,7 +238,7 @@
     "photoUrl": "/images/speakers/benjamin_fontaine.jpg",
     "shortBio": "Développeur fullstack JEE et web",
     "bio": "Développeur fullstack JEE et web depuis une petite dizaine d'années et passionné de blockchain depuis quelques années, je suis récemment devenu expert technique blockchain pour Zenika Nantes. Je me suis lancé dans une mission d'évangélisation :) pour faire rayonner la connaissance de cette techno (speaker et co-fondateur du meetup blockchain à Nantes, codelab au devoxx et au devfest) qui est à mon sens l'une des plus révolutionnaires à l'heure actuelle.",
-    "tags": ["Discovery", "Blockchain"],
+    "tags": ["Blockchain", "Discovery"],
     "badges": [],
     "socials": [{
         "icon": "twitter",
@@ -498,7 +498,7 @@
     "photoUrl": "/images/speakers/manon_gruaz.jpg",
     "shortBio": "Manon est stratège/designer de Marque et d’interfaces chez Arcbees",
     "bio": "Manon est stratège/designer de Marque et d’interfaces chez Arcbees.\nAventurière de la Marque, elle met l’émotion et le sens au coeur de tous ses travaux. \nElle cherche sans relâche le sens profond dans toutes les choses dans la vie, et définit son travail comme « être à l'intérieur des cerveaux des utilisateurs ». \nGeekette curieuse et entourée au quotidien de développeurs de génie, c’est tout naturellement qu’elle a fusionné son obsession pour la Marque avec son envoûtement par les technologies, tout particulièrement l’intelligence artificielle. \nVoyageuse invétérée et enthousiaste de défis impossibles, elle essaye d’évangéliser chaque développeur et tout autre être vivant qu’elle croise à la Marque et son importance à travers sa précédente conférence : Marc, marque et Marques. C’est avec un humour parfois douteux qu’elle l’a déjà présenté au devFest de Nantes, au GWTcon de Florence et aux soirées UX à Québec. Son mot préféré est Authentique. Née française, élevée en tant que citoyenne du monde, elle est maintenant sarcastique et romantique par choix.",
-    "tags": ["Discovery"],
+    "tags": ["Marketing", "Discovery"],
     "badges": [],
     "socials": [{
       "icon": "twitter",
@@ -821,7 +821,7 @@
     "photoUrl": "/images/speakers/Zasadnyy_Vitaliy.jpg",
     "shortBio": "Vitaliy’s background includes mobile application and game development",
     "bio": "Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
-    "tags": ["Discovery", "SDK"],
+    "tags": ["Discovery", "Games", "Mobile SDK"],
     "badges": [{
       "name": "GDG",
       "description": "Google Developper Group"
@@ -1400,7 +1400,7 @@
     "photoUrl": "/images/speakers/Hugo_Mougard.jpg",
     "shortBio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte",
     "bio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte. Dans son temps libre, il est formateur au sein de ML Week.",
-    "tags": ["GraphQL", "VueJS", "Web"],
+    "tags": ["Machine Learning"],
     "badges": [],
     "socials": [{
       "icon": "github",
@@ -1439,7 +1439,7 @@
     "photoUrl": "/images/speakers/Remi_Roche.jpg",
     "shortBio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies",
     "bio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies. Il accompagne les entreprises soucieuses de réussir leur transformation digitale (big data, blockchain). Co-auteur du livre \"Mind Mapping Pour être efficace au travail et dans les études\", il contribue également au développement de l'association Yes Group France.",
-    "tags": ["Crypto", "Discovery"],
+    "tags": ["Blockchain", "Discovery"],
     "badges": [],
     "socials": []
   },
@@ -1657,7 +1657,7 @@
     "photoUrl": "/images/speakers/Mélanie_Bats.jpg",
     "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo",
     "bio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
-    "tags": ["Open Stack", "Discovery"],
+    "tags": ["Eclipse", "Discovery"],
     "badges": [],
     "socials": [{
         "icon": "twitter",
