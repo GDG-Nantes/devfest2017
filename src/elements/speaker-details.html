@@ -53,7 +53,12 @@
             <div class="photo" style$="background-image: url('[[speaker.photoUrl]]')" hidden$="{{app.isPhoneSize}}"></div>
             <div class="info">
               <h1 class="main-title" hidden$="{{app.isPhoneSize}}">[[speaker.name]]</h1>
-              <div class="meta highlight">[[speaker.company]], [[speaker.country]]</div>
+              <template is="dom-if" if="{{speaker.company}}">
+                <div class="meta highlight">[[speaker.company]], [[speaker.country]]</div>
+              </template>
+              <template is="dom-if" if="{{!speaker.company}}">
+                <div class="meta highlight">[[speaker.country]]</div>
+              </template>
               <div class="meta">
                 <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
                   <a class="badge" href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.description]]</a>
