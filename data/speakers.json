@@ -445,7 +445,7 @@
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/houssemba"
+        "link": "https://github.com/houssemba"
       }
     ]
   },
@@ -568,7 +568,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+JeffAbrahamson"
+        "link": "https://google.com/+JeffAbrahamson"
       },
       {
         "icon": "github",
@@ -1003,7 +1003,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+PeggyAuffray"
+        "link": "https://google.com/+PeggyAuffray"
       }
     ]
   },
@@ -1026,12 +1026,12 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+JamesWilliams"
+        "link": "https://google.com/+JamesWilliams"
       },
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/jwill"
+        "link": "https://github.com/jwill"
       }
     ]
   },
@@ -1372,7 +1372,7 @@
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/rachelandrew"
+        "link": "https://github.com/rachelandrew"
       }
     ]
   },
@@ -1485,7 +1485,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "plus.google.com/+NicolasRoard"
+        "link": "https://plus.google.com/+NicolasRoard"
       }
     ]
   },
