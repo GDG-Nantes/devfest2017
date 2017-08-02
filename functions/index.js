@@ -114,7 +114,7 @@ const transformSpeaker = data => (value, key) => {
         url: social.link
       }))
     })
-    .omit(["photoUrl", "shortBio", "socials", "badges", "featured"])
+    .omit(["photoUrl", "shortBio", "socials", "badges", "featured", "companyLogo"])
     .value();
 };
 
