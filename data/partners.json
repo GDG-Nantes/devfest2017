@@ -166,6 +166,12 @@
       "url": "https://www.sparklane-group.com/",
       "logoUrl": "../images/logos/sparklane.jpg",
       "width": 220
+    },
+    {
+      "name": "TheTribe",
+      "url": "http://thetribe.io/",
+      "logoUrl": "../images/logos/thetribe.png",
+      "width": 220
     }
   ]
 }, {
