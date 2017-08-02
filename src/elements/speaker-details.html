@@ -169,10 +169,10 @@
             this.backdropElement.open();
           }
           this.playAnimation('entry');
-          this.async(function () {
+          /*this.async(function () {
             this.$.scrollHeaderPanel.scroll(1, true);
             this.$.scrollHeaderPanel.notifyResize();
-          });
+          });*/
           HOVERBOARD.Analytics.trackEvent('speaker', 'open details', this.speaker.name);
         },
 
