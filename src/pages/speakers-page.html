@@ -171,6 +171,14 @@
         width: 110px;
         height: 25px;
       }
+
+      .company {
+        margin: 0 auto 10px;
+        height: 25px;
+        font-size: 16px;
+        color: var(--primary-text-color);
+        text-align: center;
+      }
     </style>
 
     <app-route route="{{route}}"
@@ -201,6 +209,9 @@
             <a href$="/speakers/[[speaker.id]]/" class="card-content">
               <template is="dom-if" if="{{speaker.companyLogo}}">
                 <iron-image class="company-logo" src="{{speaker.companyLogo}}" sizing="contain"></iron-image>
+              </template>
+              <template is="dom-if" if="{{!speaker.companyLogo}}">
+                <div class="company">[[speaker.company]]</div>
               </template>
               <div class="tags">{{localize('skills')}}:
                 <template is="dom-repeat" items="[[speaker.tags]]" as="tag">
