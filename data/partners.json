@@ -193,6 +193,12 @@
       "url": "https://www.billetweb.fr/",
       "logoUrl": "../images/logos/billetweb.png",
       "width": 180
+    },
+    {
+      "name": "LIUM",
+      "url": "http://www-lium.univ-lemans.fr",
+      "logoUrl": "../images/logos/lium.png",
+      "width": 180
     }
   ]
 }]
