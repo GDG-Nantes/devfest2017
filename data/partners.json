@@ -160,6 +160,12 @@
       "url": "https://www.fr.sogeti.com/",
       "logoUrl": "../images/logos/sogeti.png",
       "width": 220
+    },
+    {
+      "name": "Sparklane",
+      "url": "https://www.sparklane-group.com/",
+      "logoUrl": "../images/logos/sparklane.jpg",
+      "width": 220
     }
   ]
 }, {
