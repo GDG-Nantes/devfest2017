@@ -267,7 +267,7 @@
       "url": "https://www.facebook.com/gdgnantes"
     }
   ],
-  "tweetsSource": "https://tweetledee.petetot.fr/favoritesjson.php?c=10&cache_interval=8000",
+  "tweetsSource": "https://tweeter-devfestnantes.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
   "gallery": {
     "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
     "photos": {
