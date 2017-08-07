@@ -1073,7 +1073,7 @@
     "2051": {
         "id": 2051,
         "title": "Robot collaboratif IIWA : REX d'un développeur Java SI de son expérience dans l'industrie 4.0",
-        "description": "En tant que développeur Java orienté système d'information j'ai eu la chance de travailler 6 mois avec la société Kuka sur le premier **robot collaboratif industriel, l'IIWA**.\n\n![IIWA](https://upload.wikimedia.org/wikipedia/commons/b/b0/KUKA_LBR_iiwa.jpg) \n\nCe retour d’expérience aura pour but d'expliquer :\n- les principes fondamentaux des **cinématiques robot** (asservissement par position et par effort, etc.)\n- les problématiques des développeurs roboticiens et la démystification de la **programmation robotique en Java**\n- les **enjeux de l'industrie 4.0** qui cherche à se rapprocher des pratiques des Systèmes d'Information \n\n**Alors partons à la rencontre de ce secteur qui aujourd'hui à besoin de notre expérience et pourtant a beaucoup à nous apprendre**.",
+        "description": "En tant que développeur Java orienté système d'information j'ai eu la chance de travailler 6 mois avec la société Kuka sur le premier **robot collaboratif industriel, l'IIWA**.\n\n![IIWA](http://bit.ly/2wm5ZVf) \n\nCe retour d’expérience aura pour but d'expliquer :\n- les principes fondamentaux des **cinématiques robot** (asservissement par position et par effort, etc.)\n- les problématiques des développeurs roboticiens et la démystification de la **programmation robotique en Java**\n- les **enjeux de l'industrie 4.0** qui cherche à se rapprocher des pratiques des Systèmes d'Information \n\n**Alors partons à la rencontre de ce secteur qui aujourd'hui à besoin de notre expérience et pourtant a beaucoup à nous apprendre**.",
         "type": "talk",
         "track": {
             "title": "Bretagne"
@@ -1086,7 +1086,8 @@
         ],
         "complexity": "Beginner",
         "speakers": [
-            2587
+            2587,
+            2765
         ]
     },
     "2056": {

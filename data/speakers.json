@@ -1779,6 +1779,29 @@
       }
     ]
   },
+  "2765": {
+    "id": 2765,
+    "name": "Christian Verbrugge",
+    "company": "KUKA",
+    "companyLogo": "/images/logos/kuka.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Christian_VERBRUGGE.jpg",
+    "shortBio": "Diplômé de l’ENSAM, il est aujourd’hui Directeur Conseil & Innovation chez KUKA",
+    "bio": "Diplômé de l’ENSAM, il est aujourd’hui Directeur Conseil & Innovation chez KUKA groupe International de 12.000 Personnes. A travers ses différentes expériences à l’étranger (Chine, Etats-Unis, Allemagne, Japon), Christian a acquis des compétences dans le développement de stratégies marketing et commerciales à l’international. Son esprit créatif et innovant l’a amené à bâtir un lieu d’échange et de vie autour de l’industrie 4.0 : le Techlab 4.0. Dans ce lieu se mélange l’esprit Startup, l’Education et l’envie de Collaborer.",
+    "tags": ["Kuka", "Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/C_Verbrugge"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/christian-verbrugge-3672807/"
+      }
+    ]
+  },
   "5000": {
     "id": 5000,
     "name": "Philippe Charrière",
