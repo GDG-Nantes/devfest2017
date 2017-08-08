@@ -1878,5 +1878,28 @@
       "name": "Twitter",
       "link": "https://twitter.com/jawache"
     }]
+  },
+  "5004": {
+    "id": 5004,
+    "name": "Stéphane Bégaudeau",
+    "company": "Obeo",
+    "companyLogo": "/images/logos/obeo.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Stephane_Begaudeau.jpg",
+    "shortBio": "Stéphane Bégaudeau is currently working as an Eclipse Modeling consultant at Obeo",
+    "bio": "Stéphane Bégaudeau is currently working as an Eclipse Modeling consultant at Obeo, a strategic member of the Eclipse Foundation. He is involved in multiple open source projects of the Eclipse Foundation such as Acceleo, EEF and Eclipse Sirius. He also likes to work with web technologies like React and Angular and share his passion for open source in various conferences like EclipseCon.",
+    "tags": ["Eclipse", "Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/sbegaudeau"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/sbegaudeau"
+      }
+    ]
   }
 }
