@@ -25,6 +25,10 @@
         "function": "generateAndroidData"
       },
       {
+        "source": "/api/v1/ticketStats",
+        "function": "getTicketStats"
+      },
+      {
         "source": "**",
         "destination": "/index.html"
       }
