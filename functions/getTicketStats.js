@@ -7,16 +7,42 @@ module.exports = (req, res) => {
   if(req.body.token !== "EV4LT0wibMcKp6WhoyibW511") return res.status(401).send();
   token = req.body.text
   start(getData).then(data => {
+    if(!data) res.status(404).send();
     res.status(200).send(JSON.parse(data));
   });
 };
 
-const getToken = () => token || "dmcaq5p50eegchh9ihi291ltl5";
+//export BILLETWEB_PASSWORD="my_secret_token"
+const getPassword = () => process.env.BILLETWEB_PASSWORD
+
+const transformOnLogin = (body, response) => {
+  const re = /PHPSESSID=(\w+)/
+  const cookies = re.exec(JSON.stringify(response.headers["set-cookie"]))
+  if(cookies.length && cookies[1]) {
+    response.body = cookies[1]
+    response.statusCode = 200
+  }
+  return response
+}
 
 const getData = () => {
-  const value = {};
+  const generateLoginCall = () =>
+    Object.assign(
+      {},
+      {
+        method: "POST",
+        uri: "https://www.billetweb.fr/bo/login.php",
+        form: {
+          login: 'contact@gdgnantes.com',
+          password: `${getPassword()}`
+        },
+        transform: transformOnLogin,
+        json:false,
+        simple: false,
+      }
+    );
 
-  const generateHttpCall = () =>
+  const generateHttpCall = ({body}) =>
     Object.assign(
       {},
       {
@@ -26,18 +52,17 @@ const getData = () => {
           event: "18513",
         },
         headers: {
-          Cookie: `PHPSESSID=${getToken()}`
+          Cookie: `PHPSESSID=${body}`
         },
         json: false,
         resolveWithFullResponse: false
       }
     );
 
-  return request(generateHttpCall())
-    .catch(err => {
-      console.log("💩 AieAieAie!\n", err);
-    });
-};
+  return request(generateLoginCall())
+    .then(cookie => request(generateHttpCall(cookie)))
+    .catch(err => console.log("💩 AieAieAie fetching data !\n", err))
+}
 
 const parseAndGetData = (data) => {
   const re = /\"ticketQuantity[\D]+([\d]+)[\s]+\/[\s]+([\d]+)/
@@ -82,7 +107,5 @@ const start = getData => {
     .then(parseAndGetData)
     .then(formatForSlackCommand)
     .then(data => Promise.resolve(data))
-    .catch(err => {
-      console.log("💩 AieAieAie!\n", err);
-    });
+    .catch(err => console.log("💩 AieAieAie!\n", err));
 };
