@@ -172,6 +172,12 @@
       "url": "http://thetribe.io/",
       "logoUrl": "../images/logos/thetribe.png",
       "width": 220
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/",
+      "logoUrl": "../images/logos/github.png",
+      "width": 220
     }
   ]
 }, {
