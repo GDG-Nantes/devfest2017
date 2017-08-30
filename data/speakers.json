@@ -1901,5 +1901,18 @@
         "link": "https://github.com/sbegaudeau"
       }
     ]
+  },
+  "5005": {
+    "id": 5005,
+    "name": "Pier Schneider",
+    "company": "1024 architecture",
+    "companyLogo": "/images/logos/1024.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/pier_schneider.jpg",
+    "shortBio": "CEO 1024 architecture",
+    "bio": "1024 architecture conçoit des installations architecturales et audiovisuelles transversales qui soulignent l’interaction entre high-technology et low-technology, corps et espace, son et visuel, art et architecture. Constamment à la recherche de nouvelles propositions, 1024 crée ses propres outils techniques et technologiques afin de repousser toujours plus loin les limites de la création. Pour chaque projet, 1024 invente et met en place un logiciel spécifique qui permet d’exploiter au mieux le dispositif créatif et de metre en relation et interaction, l’espace physique, sonore, et visuel.",
+    "tags": [],
+    "badges": [],
+    "socials": []
   }
 }
