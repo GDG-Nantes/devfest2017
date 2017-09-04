@@ -217,6 +217,12 @@
       "url": "http://www-lium.univ-lemans.fr",
       "logoUrl": "../images/logos/lium.png",
       "width": 180
+    },
+    {
+      "name": "Choose Your Boss",
+      "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2017",
+      "logoUrl": "../images/logos/cyb.png",
+      "width": 180
     }
   ]
 }]
