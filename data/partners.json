@@ -223,6 +223,12 @@
       "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2017",
       "logoUrl": "../images/logos/cyb.png",
       "width": 180
+    },
+    {
+      "name": "Stéréolux",
+      "url": "https://www.stereolux.org/",
+      "logoUrl": "../images/logos/stereolux.png",
+      "width": 180
     }
   ]
 }]
