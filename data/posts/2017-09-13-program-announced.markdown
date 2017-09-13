@@ -1,6 +1,6 @@
 ## Le programme est là !
 
-Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2017 est disponible ici : https://devfest.gdgnantes.com/schedule. Cette année, vous pourrez aussi consulter le programme sur notre application mobile disponible <a href="https://play.google.com/store/apps/details?id=com.gdgnantes.devfest.android" target="_blank">ici</a> (Application Android uniquement). Merci à Cyril Mottier de nous avoir fait cette application !
+Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2017 est disponible ici : https://devfest.gdgnantes.com/schedule. Cette année, vous pourrez aussi consulter le programme sur notre application mobile disponible <a href="https://play.google.com/store/apps/details?id=com.gdgnantes.devfest.android" target="_blank">ici</a> (Application Android uniquement). Merci à <a href="https://twitter.com/cyrilmottier" target="_blank">Cyril Mottier</a> de nous avoir fait cette application !
 
 Sachez que cette année, le DevFest Nantes 2017 c’est :
 * 85 Speakers
