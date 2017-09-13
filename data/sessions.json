@@ -1,1282 +1,1282 @@
 {
-    "0": {
-        "id": 0,
-        "title": "Ouverture des portes / Gates open",
-        "titleMobile": "Gates open",
-        "image": "/images/backgrounds/opening.jpg",
-        "type": "break"
-    },
-    "1": {
-        "id": 1,
-        "title": "Keynote d'ouverture / Opening keynote",
-        "titleMobile": "Opening keynote",
-        "image": "/images/backgrounds/keynote.jpg",
-        "description": "<a href='http://www.madmapper.com/' traget='_blank'>MadMapper</a> est un programme de mapping vidéo co-produit par <a href='http://www.1024architecture.net/' traget='_blank'>1024 architecture</a> et GarageCube. Pour développer leur projet et installation architecturale, urbaine et digitale, 1024 s’est très vite confronté au manque crucial d’outil informatique leur permettant de réaliser leurs idées… Ils se sont ainsi rapproché de la société GarageCube, créateur du logiciel de Vjing Modul8 ainsi que du Mapping Festival à Genève pour imaginer ensemble cet outil précieux: MadMapper est ainsi né de cette rencontre et collaboration, un logiciel fait par des artistes, pour des artistes. Au travers de la présentation de différents projets réalisés par 1024 et de l’évolution constante du logiciel MadMapper, nous vous raconterons l’histoire de la relation croisée sous-jacente entre installation artistique numérique et outil informatique.",
-        "type": "keynote",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-          5005
-        ]
-    },
-    "2": {
-        "id": 2,
-        "title": "Déjeuner / Lunch",
-        "titleMobile": "Lunch",
-        "description": "Foooooood !!!",
-        "image": "/images/backgrounds/lunch.jpg",
-        "type": "break"
-    },
-    "3": {
-        "id": 3,
-        "title": "After Party",
-        "description": "Cette année l’After Party est organisée par notre partenaire U GIE-IRIS (Système U).\n\n![GIE-IRIS](https://devfest.gdgnantes.com/images/logos/systemeu.png)\n\nElle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Jeudi 19 Octobre.\nRetrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...\nVenez nombreux !!",
-        "image": "/images/backgrounds/party.jpg",
-        "type": "break"
-    },
-    "4": {
-        "id": 4,
-        "title": "Ouverture des portes / Gates open",
-        "titleMobile": "Gates open",
-        "image": "/images/backgrounds/opening.jpg",
-        "type": "break"
-    },
-    "5": {
-        "id": 5,
-        "title": "Déjeuner / Lunch",
-        "titleMobile": "Lunch",
-        "description": "Foooooood !!!",
-        "image": "/images/backgrounds/lunch.jpg",
-        "type": "break"
-    },
-    "1540": {
-        "id": 1540,
-        "title": "Vos webapps ont-elles du style ?",
-        "description": "Nous sommes beaucoup à avoir la compétence _HTML/CSS_ sur notre CV mais industrialiser le style finit rapidement en eau de boudin!\n\nEntre la conception de la charte graphique, sa mise en application, en passant par la réutilisation/maintenabilité, je vais vous présenter un ensemble d'outils et de techniques qui vous permettront de répondre complètement et sereinement à l'ensemble de ces défis :\n* Guide de style comme référentiel\n* Pondération des styles\n* CSS modules pour des composants graphiques réellement réutilisables\n* Intégration continue pour une non-régression visuelle",
-        "type": "quicky",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Quickie"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2241
-        ]
-    },
-    "1541": {
-        "id": 1541,
-        "title": "CTF : Sortez le Mr Robot qui est en vous !",
-        "description": "Vous avez déjà entendu parler de SQL Injection, de failles CSRF ou autres ? Ok, mais les avez-vous déjà exploitées ?\n\nDans ce workshop, nous vous proposerons un \"Capture The Flag\" qui vous permettra de chercher, analyser et exploiter différentes failles de sécurité. Que vous soyez novice ou non, ne vous inquiétez pas, nous serons là pour vous aiguiller dans le seul but d'apprendre des choses tout en passant un excellent moment !\n\nCe workshop se déroulera en plusieurs temps :\n\nD'abord un tour d'horizon de différentes failles, avec des exemples concrets mettant en évidence que même les meilleurs développeurs du monde font des erreurs :)\nEnsuite, nous vous fournirons des liens vers différentes applications dont le but sera d'exploiter une faille vous permettant de récupérer un code.\nChaque code récupéré vous permettra de gagner un nombre de points dépendant de la difficulté.\nLes plus chevronnés d'entre vous seront récompensés :)\nNotre rêve caché : trouver le Mr Robot de ce DevFest !",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Codelab"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1130,
-            1131
-        ]
-    },
-    "1595": {
-        "id": 1595,
-        "title": "Mixed Reality for Social Good",
-        "description": "Exciting times for mixed reality enthusiasts. With many AR and VR platforms now available, we're witnessing the birth of a new medium. \n\nIn many ways, this boom is similar to the personal computer revolution of the 70s and 80s. People are wondering: \"Besides games, what are these gadgets good for, anyway?\"\n\nIn this session, we'll see how people are using mixed reality for social good. Then, we'll learn about the Tango and Daydream platforms from Google. We'll use these and other platforms to build our own mixed reality experience.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2248
-        ]
-    },
-    "1596": {
-        "id": 1596,
-        "title": "Lâchez votre JAVA et venez prendre un peu l’R ! ;)",
-        "description": "R est une langage de programmation (un vrai de vrai, avec des boucles, des if/then/else, des tests unitaires et tout le tintouin), open source et gratuit, qui est principalement utilisé pour des problématiques en statistiques / data science / machine learning. L’objectif de ce quickie est de vous présenter un aperçu des forces et atouts de R. Je parie que je sais ce que vous allez fR ce week-end ! ;)",
-        "type": "quicky",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1727
-        ]
-    },
-    "1629": {
-        "id": 1629,
-        "title": "Angular (2) et performances",
-        "description": "Il nous aura fallu attendre 2 ans pour avoir cette nouvelle version du fameux framework de Google. L'objectif est ambitieux: devenir le framework front le plus performant. Nous vous proposons de naviguer sur un projet Angular pour comprendre ce qui le rend plus rapide. Nous parlerons de ce qui est proposé en natif (détection du changement, lazy loading et pre loading, compilation...) mais aussi de ce que vous pouvez mettre en place (compilation AOT, tree shaking, universal...)",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            699,
-            1222
-        ]
-    },
-    "1636": {
-        "id": 1636,
-        "title": "La Marque est morte, vive l'intelligence artificielle",
-        "description": "Le monde a toujours été « Marqué ». \nDu nombre de pois sur les ailes du papillon Monarque au bande du tigre du bengal, ce système de «marques distinctives» a permis d’organiser la complexité de notre monde. Mais vers 2014, les choses se troublent. \nL’idée de Marque évolue avec l’arrivée de dispositifs comme Amazon Echo avec reconnaissance vocale soutenus par un AI incroyablement intelligent.\nLa Marque connaît un changement de paradigme.\nElle n’est plus juste un symbole, un signe. Elle n’est même pas une voix. Elle est devenue une entité intelligente, une personnalité, un algorithme capable d’apprendre.\nComment «Marqué» une intelligence artificielle ?\nQuel type de relation allons-nous avoir maintenant avec la Marque ?\nDeviendrons-nous des consommateurs complètements manipulés par la Marque ? \nLa Marque va-t elle tout simplement devenir notre meilleur ami?",
-        "type": "quicky",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1173
-        ]
-    },
-    "1641": {
-        "id": 1641,
-        "title": "Des bibliothèques graphiques originales au service de la dataviz sur le web",
-        "description": "Pour développer une visualisation de données, il faut généralement un algorithme (plus ou moins compliqué) d'un côté, et de l'autre *un moteur de rendu*. Et si [d3.js](https://d3js.org) résout aujourd'hui très bien la question des algorithmes, il est très souvent simplement branché sur du SVG.\n\nPourtant, l'écosystème du rendu graphique sur le web est très riche, entre des standards robustes (SVG, Canvas, WebGL...) et des bibliothèques JavaScript très diverses, telles que [Pixi.js](http://www.pixijs.com/) ou encore [three.js](https://threejs.org/).\n\nL'objectif de ma présentation sera de mettre en valeur la mixité de ces solutions, à travers différents exemples de visualisations originales et variées.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            1807
-        ]
-    },
-    "1655": {
-        "id": 1655,
-        "title": "Découvrir Android Things, et exterminer les reptiliens",
-        "description": "Que vous y croyez ou non, les reptiliens sont partout, et on n'a jamais été vraiment prêt à pouvoir les affronter.  \nOn **N'ÉTAIT** pas prêt... Mais maintenant qu'*Android Things* est sorti, ils vont moins faire les malins, vous allez voir.  \n\nC'est sûr que, lorsqu'on a enfin réussi à faire des applications pour mobile qui déchirent, ça les dérangeait pas trop, eux... Mais maintenant qu'on peut utiliser la puissance d'Android pour créer des objets physiques, on va moins les entendre.\n\nEnsemble, nous allons découvrir Android Things, et voir comment nous pouvons créer une machine se déplaçant, et permettant de détecter les reptiliens (avec des capteurs tactiles, de température, et du machine learning), mais aussi permettant de les exterminer (d'ailleurs si les orgas pouvaient me prêter un lance flamme, ça ferait une super démo).\n\nComment ? Avec un Raspberry Pi, un Arduino, et en découvrant et utilisant toutes les APIs spécifiques à Android Things : gpio, pwm, i2c, spi, uart, permettant d’interagir avec des composants du monde réel (enfin, \"réel\", vous m'avez compris...).\n\nCe talk est d'utilité publique, et pour tout niveau.  \nSi *ahaha* vous pensez qu'on est *ahah*  dans la conspiration, venez quand même ça peut toujours vous être utile.  \n*ahahah conspiration ahahaha*",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            852
-        ]
-    },
-    "1689": {
-        "id": 1689,
-        "title": "Automatiser & mutualiser vos modèles de données",
-        "description": "### Le Contexte\n\nVous n'en avez pas marre d'avoir à écrire vos classes modèles à la main ? Surtout si vous faites une application à la fois Android & iOS, avec chacun ses technos et son language, c'est souvent le double de travail !\n\nQue diriez-vous de gagner un temps précieux sur la création et maintenance de votre couche modèle sur vos 2 plateformes ?\n\n### Contenu de ce Quickie\n\nCe Quickie abordera les points suivants :\n\n* concevoir votre modèle commun iOS/Android à l'aide d'un éditeur visuel.\n* Utilisation de l'outil Gyro pour automatiser la génération du code de vos classes, à la fois pour Java, Kotlin, Swift et Objective-C.\n* Avantages d'avoir une seule source commune pour les modèles de toutes vos plateformes.\n* Customization par templates du code produit par gyro, pour le faire correspondre exactement à vos besoins\n\t* que vous utilisiez SQL, GreenDAO, Room, Realm, ou toute autre DAO…\n\t* que vous souhaitiez simplement ajuster les templates existants à votre style de code\n\t* …",
-        "type": "quicky",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2487
-        ]
-    },
-    "1700": {
-        "id": 1700,
-        "title": "50 nuances de grilles",
-        "description": "Bientôt incontournable, le positionnement Grid Layout va redonner ses lettres de noblesses à CSS et à nos intégrations de pages web.\n\nAu cours de cet atelier pratique (pensez à vos ordis), nous allons ensemble explorer les possibilités offertes par ce module prometteur :\n\n- Construction de grille : simple + gouttière\n- Construction de template 1 : placement explicite\n- Construction de template 2 : placement par zones\n- Construction de template 3 : avec blocks full-width + mobile-first\n- Galerie d'image : span + repeat + auto-fit + dense\n- Construction de Grille avec variables CSS ou avec un préprocesseur (Sass)\n\nPré-requis : ne pas être une quiche complète en CSS.",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Codelab"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            1143
-        ]
-    },
-    "1709": {
-        "id": 1709,
-        "title": "Prettier - ou comment s'assurer un code bien formatté",
-        "description": "Prettier est l'un des tout derniers projets open-source proposé  par Facebook. Il vous permettra de formatter votre code JavaScript, TypeScript, CSS et bientôt peut-être HTML, et ainsi d'assurer un style commun sur l'ensemble de votre codebase. Durant ce quickie, nous aborderons les fonctionnalités proposées et également les différentes intégrations possibles.",
-        "type": "quicky",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            227
-        ]
-    },
-    "1733": {
-        "id": 1733,
-        "title": "Développez votre première application Vue.js",
-        "description": "La popularité de Vue.js a connu une croissance impressionnante ces derniers mois. La librairie est définitivement ancrée dans les tendances 2017 du développement JavaScript. Vue.js séduit de nombreux développeurs à travers sa facilité d’utilisation et sa rapidité de prise en main.\n\nNous vous proposons de découvrir cette librairie à travers un code lab interactif !",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Codelab"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2374,
-            2246
-        ]
-    },
-    "1737": {
-        "id": 1737,
-        "title": "Et si on jouait un peu... Une petite partie des Aventuriers du Rails ?",
-        "description": "Tous le monde connait les jeux de plateau tel que <b>Les aventuriers du Rail</b>, <b>Contagion</b> ou bien <b>Small World</b>. Mais saviez vous qu'il existe une version numérique de ces mêmes jeux jouable en réseau ? \n\nCes jeux, appelés <i>Board Games</i> sont un type bien particulier d'application disponibles sur tous les stores et toutes les plateformes qui demande une conception bien particulière afin d'attirer une communauté et d'être rentable.\n\nNous allons voir les enjeux et les règles qui régissent l'univers impitoyable des <i>Board Games</i> et comment techniquement un jeu de ce type est dévéloppé.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2519
-        ]
-    },
-    "1763": {
-        "id": 1763,
-        "title": "Un ChatBot vocal pour Amazon Alexa en 20 min",
-        "description": "Les Chatbots, assistants virtuels ou encore les robots conversationnels sont tous des faces d’une même pièce, si le nom change le principe reste le même ! Certains vous permettre de réserver un restaurant ou de trouver les meilleures offres de voyages, d’autres de commander un taxi à travers l’interface de votre application de messagerie et sans avoir besoin de quitter votre logiciel préféré ni d’ouvrir une nouvelle application.\n\nPas que ça, Amazon a lancé des enceintes connectées interactives capables de répondre aux commandes vocales grace à Amazone Alexa. \n\nDurant ce Hand-on de 20 minutes je ramène l'enceinte intelligente Amazon Echo et on vas développer ensemble un ChatBot vocal pour Amazon Alexa avec Node.js, ensuite on vas la déployer sur AWS Lambda et la rendre plus humain avec la nouvelle plateforme du traitement automatique du langage naturel (NLP) Amazon Lex.",
-        "type": "quicky",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Quickie"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2351
-        ]
-    },
-    "1814": {
-        "id": 1814,
-        "title": "Fluent Design : designer pour le futur.",
-        "description": "Développeurs, designers, experts UX, mes amis, venez découvrir les nouvelles guidelines, contrôles et outils de design pour des applications modernes, ergonomiques, efficaces et encore plus belles sur tout les Windows !  Cela s'appelle Fluent Design System, et cela pourrait bien changer votre approche !",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            546
-        ]
-    },
-    "1815": {
-        "id": 1815,
-        "title": "NodeJS Future",
-        "description": "**NodeJS** poursuit son avancé dans tous les écosystèmes.\nL'avènement de **ES6**, **ES7** et bientôt **ES8**  et l'intégration dans les navigateurs des dernières moutures d'ECMASCRIPT pousse vers l'avant NodeJS grâce aux avancées du moteur **V8**\n\nNous verrons ensemble quelles sont les nouvelles fonctionnalités apportées par **NodeJS 8**, et quelles sont les problématiques rencontrées par les équipes de dev NodeJS.\n\nNous verrons aussi l'apport de **N-API** et l'opportunité de tester d'autres moteurs de runtime comme **Chakracore** en une ligne de commande :)  \n\nNous parlerons **d'asynchronisme** ou encore de **modules ESM** dans se talk résolument orienté vers les développeurs backend !\n\nQuelques mots clés encore, car nous parlerons aussi de **TypeScript 2.x**, **NPM 5**, **async_hooks**, **WHATWG URL** ou encore **Promisify()**  \n\nEt nous parlerons aussi de **Michael Jackson**  ...  \nSi si, ça a un rapport avec NodeJS ... :)",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Expert",
-        "speakers": [
-            545
-        ]
-    },
-    "1818": {
-        "id": 1818,
-        "title": "Web Components: It's all rainbows and unicorns! Is it?",
-        "description": "Web components are a tale of four w3c specifications. They are a hot topic now. We’ve all seen big headlines, for instance, “The Web Components revolution”, “Web Components are a game changer”, “A Tectonic Shift for Web Development”, … and so many others. They are certainly exciting and promising, nevertheless, there are some factors holding them back such as performance issues and lack of browser support. Some features seems to be more hassle than they’re worth. In this talk you’ll examine web components from a pragmatic stand point. So if you want to start using ES6 web components in production, come to learn what features can you use today. Actually, despite the still short browser support, some of web components features seems to be the best choice to start with . The assessment you’ll learn is the reflection of my personal research and work on my spare time and also feedbacks from my co-workers.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            1439
-        ]
-    },
-    "1824": {
-        "id": 1824,
-        "title": "Développeur et protection de la vie privée",
-        "description": "Entre les GAFAs et le monde fou de l'internet des objets, le numérique ne nous a jamais autant espionné et catalogué. En tant que développeur, n'avons-nous pas une responsabilité envers la protection de la vie privée ? Quelle éthique pour la profession de développeur ? Quelles alternatives pour le développeur engagé ? Une conférence qui pose des questions et ouvre le débat.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2572
-        ]
-    },
-    "1826": {
-        "id": 1826,
-        "title": "Code review : ce truc qui ne sert à rien",
-        "description": "Vous venez de terminer de coder une nouvelle fonctionnalité pour votre projet. Elle est parfaite, tout est clair, vous l'avez testée dans tous les sens. Normal, le code, ça vous connaît.\n\nEt là, un type se ramène et commence à vous faire de petites remarques. Il vous parle de cohérence, de refactoring, de patterns à appliquer. Il vous fait même remarquer que ligne 42, vous avez oublié un espace avant le point virgule. Et puis il se barre, en vous donnant une petite tape sur l'épaule, et en vous souhaitant bon courage. Vous pleurez.\n\nSi c'est l'image que vous avez de la code review, alors arrêtez tout, et venez. Les code reviews nous aident à garder la cohérence technique d'un produit, sa maintenabilité, sa stabilité, et surtout nous permettent d'apprendre des autres, continuellement. Evidemment, il y a des règles à respecter pour que ça fonctionne. Mais le résultat est là.\n\nUne perte de temps ? Un truc inutile ? On en reparle.",
-        "type": "quicky",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2559
-        ]
-    },
-    "1833": {
-        "id": 1833,
-        "title": "Faites chauffer les neurones de votre smartphone avec du deep learning on-device",
-        "description": "Nous entendons aujourd'hui parler de Deep Learning un peu partout : reconnaissance d'images, de sons, génération de texte, etc. Les annonces sur Android Neural Network API et TensorFlowLite, la release du framework CoreML d’Apple, toutes ces actions nous confirment la tendance d’aller plus loins sur l’on-device intelligence.\nMais, bien que les techniques et frameworks soient en train de se démocratiser, il reste difficile d'en voir des applications concrètes en entreprise, et encore moins sur des applications mobiles. Nous avons donc décidé de construire un Proof Of Concept pour relever les défis du domaine.\nA travers une application mobile à but éducatif utilisant du Deep Learning pour de la reconnaissance d’objets, nous aborderons les questions des impacts de ce type de modèle sur les smartphones, d'architecture pour l'entraînement et le déploiement de modèles sur le service Cloud, ainsi que la construction de l’application mobile avec les dernières nouveautés annoncées.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1856,
-            1233,
-            1721
-        ]
-    },
-    "1834": {
-        "id": 1834,
-        "title": "Introduction to Android Instant Apps",
-        "description": "Android Instant Apps are the new kid in the large town of Android-city. The promise behind it is quite simple and groundbreaking at the same time: running native Android apps instantly on your device, without installation.\n\nIn this session we will first introduce this evolution in app sharing and discovery mostly from a user perspective. Secondly, we will discover how, as a developer, you can build an Android Instant Apps and deliver this new experience frictionless to all of your users.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2591
-        ]
-    },
-    "1837": {
-        "id": 1837,
-        "title": "Ok Google, is there any presentations about ChatBots?",
-        "description": "Ever wanted to build a chatbot? What if you could use a voice assistant to manage your agenda for the conference? Know if there are any presentations on Machine Learning, or Docker, or your favorite programming language? Find out more about a speaker...etc.\n\nIn this session, we will look at how to build our own voice assistant, using Google Cloud's natural speech and voice recognition APIs with API.AI services, and Google Cloud Functions to implement Necessary business logic.\n\nGrab some popcorn and enjoy!",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            1222,
-            1028
-        ]
-    },
-    "1846": {
-        "id": 1846,
-        "title": "Pipeline de déploiement continu dans Kubernetes",
-        "description": "La mise en place d'un pipeline de déploiement continu est à la base du succès de toute plateforme. Dans cette session, vous découvrirez comment des outils open source comme Kubernetes, Deis Workflow, Helm, Draft ou encore Jenkins vous permettront de simplifier la prise en main de Kubernetes par vos équipes de développement mais aussi la mise en place d'un pipeline CI/CD robuste pour vos applications.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            551
-        ]
-    },
-    "1847": {
-        "id": 1847,
-        "title": "Retours sur l’aventure Capitaine Train",
-        "description": "L’aventure Capitaine Train débute en 2010. L’objectif est simple et clair : offrir une alternative crédible à la vente de billet de train en Europe. Aujourd’hui, Capitaine Train, rachetée en 2016 et renommée entre temps « Trainline », vend plusieurs millions de billets chaque année.\n \nConstruire l’application Android a requis évidemment beaucoup de travail et de rigueur. Durant cette présentation nous détaillerons chacun des aspects qui ont permis à l’app Android Capitaine Train d’apporter régulièrement de nouvelles fonctionnalités, de respecter nos critères de qualité tout en répondant aux attentes des utilisateurs. Nous aborderons notamment l’organisation interne de l’équipe, le recrutement, les processus de développement et de mise en production, l’approche produit, le design, etc.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2591,
-            2607,
-            1120
-        ]
-    },
-    "1852": {
-        "id": 1852,
-        "title": "The Deep Learning Codelab",
-        "description": "La recommandation, la reconnaissance vocale, la recherche d'image.  Le machine learning : l'apprentissage automatique dans la langue de Molière (écrivain décidément moderne).  Voilà ce qu'est l'avenir.\n\nEt pour le dev quotidien, tout est perdu ?  Pas du tout.  Les outils du ML se multiplient.\n\nVenez passer deux heures apprendre ce que c'est le machine learning et, surtout, le deep learning, cet outil encore plus macéré dans la science fiction.  Après une (très brève) introduction au ML, nous allons commencer directement par le Hello World du deep learning : la reconnaissance de chiffres écrits à la mains.  Un classifieur à l'état de l'art il y a une décennie s'écrit maintenant avec une trentaine de ligne de code.\n\nÀ partir de cette expérience forte, nous allons nous lancer dans la reconnaissance d'images.  Apprenez chercher dans vos propres photos sans passer par Google.\n\nOutils utilisés dans le codelab (mais pas besoin de les maîtriser avant) : python, scikit-learn, TensorFlow, Keras.\n\nLe codelab est pour débutant en ML.  Ce serait peut-être bien que tu ne sois pas également débutant en dev.",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Codelab"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1263,
-            2629
-        ]
-    },
-    "1857": {
-        "id": 1857,
-        "title": "Donner du sens à vos pages web avec Schema.org",
-        "description": "Nous connaissons tous le web sémantique.\nEt si on allait encore plus loin ? Et si on offrait un niveau de compréhension supérieure à nos contenus ?\nNous allons voir ensemble les enjeux d'utiliser les micro-datas, l'importance pour les moteurs de recherches de pouvoir parser du contenu catégorisé et ainsi alimenter des outils comme le Knowledge Graph de Google.\nJe vous montrerai comment mettre en place simplement du contenu ayant du sens en s'appuyant sur Schema.org.",
-        "type": "quicky",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2625
-        ]
-    },
-    "1859": {
-        "id": 1859,
-        "title": "Start Using CSS Grid Layout Today",
-        "description": "2017 is the year of the Grid, with the long awaited CSS Grid Layout landing in browsers. In this talk I’ll demonstrate with practical examples what grid layout is, the basics of how to use it and how to start using it right now - without leaving older browsers out in the cold.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "web",
-        "language": "en",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2624
-        ]
-    },
-    "1864": {
-        "id": 1864,
-        "title": "Code and Deploy Angular to the Cloud",
-        "description": "Getting started with Angular is now easier than ever ... said no one ever. Yet with the right toolset we too can create magic. When I code with Angular I can deploy to Azure within minutes. \n\nWe'll go through a simple development to production workflow. First we code with a little help from the Angular CLI. Then we build for production - Webpack to the rescue. We then push our code to Github and deploy it on Node to Azure. \n\nMission accomplished, application is now up in the clouds.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "web",
-        "language": "en",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2557,
-            5003
-        ]
-    },
-    "1871": {
-        "id": 1871,
-        "title": "Linuxkit : le linux façon ikea",
-        "description": "Cela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\n \nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\n \nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2631,
-            571
-        ]
-    },
-    "1874": {
-        "id": 1874,
-        "title": "Trader bitcoin et les autres crypto monnaies",
-        "description": "Les crypto monnaies sont un phénomène de société encore peu connu. Cependant, les récentes levées de fond de plusieurs centaines de millions d'euros démontrent l'intérêt grandissant du public. Nombreux sont ceux qui essaient de trader ces nouveaux actifs. \nMais, la masse d'information à traiter est importante. Et les centaines de crypto monnaies disponibles sur plusieurs places boursières rendent difficile la possibilité de saisir le maximum d'opportunités. Je vous propose au cours de cette présentation de comprendre comment faciliter votre trading à l'aide de la collecte d'information sur le web et l'algotrading...",
-        "type": "quicky",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2634
-        ]
-    },
-    "1892": {
-        "id": 1892,
-        "title": "Documentation as Code (expliqué à mon père)",
-        "description": "En tant que codeurs, nous profitons tous les jours de la puissance de nos outils (IDE, versioning, build, intégration, déploiement). Nous mettons également l’accent sur la qualité avec un ensemble de bonnes pratiques (tests, DRY, KISS). Néanmoins, lorsqu’il s’agit de s’occuper de la documentation, nous sommes encore nombreux à utiliser des outils de \"bureautique traditionnelle\" (Word, Sharepoint, client email). \n\n\"Au menu de cette session, je vous propose d’aborder le langage AsciiDoc ainsi que l’outil asciidoctor (et son ecosystème). Nous verrons quels avantages ils apportent et quelles \"pratiques de codeur\" appliquer pour améliorer les différentes étapes de la vie d’une documentation : rédaction, collaboration et publication.\"",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2608
-        ]
-    },
-    "1901": {
-        "id": 1901,
-        "title": "Istio - An open platform to connect, manage, and secure microservices",
-        "description": "Now that you have micro-services you want to keep an eye on what happens between the services and make sure everything is secure. Istio provides an easy way to create a network of deployed services with load balancing, service-to-service authentication, monitoring, and more, without requiring any changes in service code. Istio is an open-source collaboration between Lift, Google and IBM with Lift's Envoy at the core.\n\nYou will get a detailed overview of all the benefits that Istio can bring to your micro-service architecture. The presentation will be accompanied with a live demo giving more insight of some of the concepts.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "cloud",
-        "language": "en",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2578
-        ]
-    },
-    "1902": {
-        "id": 1902,
-        "title": "AIY with Google : Would you like to be my assistant ?",
-        "description": "Currently, everybody wants to get AI and digital assistant into everything : so why not you ?\n\nA recent joined initiative from Google and the Raspberry community led to the arrival of the AIY Project,\nbringing the awesome power of Google Assistant to the tip of your maker's fingers ... but that's not all.\n\nDuring this session, we'll jam with Google's APIs & AIY Project, some Raspberry parts and of course some Python code in order to build up a pretty cool assistant.\n\nSo join \"P.A.R.K.E.R.\" and me, for a quick yet fun journey into the AIY dimension.",
-        "type": "quicky",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2330
-        ]
-    },
-    "1905": {
-        "id": 1905,
-        "title": "How not to fuckup with building SDK and make clients happy",
-        "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n - what is the cost of too complex API and how to simplify it;\n - what aspects of the library are important for clients;\n - how documentation should look like to avoid stupid and repetitive support questions;\n - how to make library update process smooth.\n\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2226
-        ]
-    },
-    "1910": {
-        "id": 1910,
-        "title": "TensorFlow Wide & Deep: Advanced Classification the easy way",
-        "description": "In this talk, we will go on an adventure to build a machine learning model that combines the benefits of linear regression models with deep neural networks. You will also gain some intuition about what is happening under the hood, and learn how you can use this model for your own datasets.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "cloud",
-        "language": "en",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            101
-        ]
-    },
-    "1913": {
-        "id": 1913,
-        "title": "Docker for developers and ops: what's new and what's next",
-        "description": "Docker moves very fast, with an edge channel released every month and a stable release every 3 months. This talk is right after DockerCon EU. Patrick will talk about what's new in Docker 17.09, which should have shipped in September, a recap of DockerCon EU announcements, and an update on the OCI standards and the Moby project, which is the upstream project from which Docker is built.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "cloud",
-        "language": "en",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            102
-        ]
-    },
-    "1920": {
-        "id": 1920,
-        "title": "Une application qui voit, entend et répond",
-        "description": "Avec l'explosion du machine learning, vous avez sans doute rêvé de rendre plus intelligentes vos applications. Lorsque vous avez regardé ces technologies, vous avez pris peur devant ces nouveaux domaines de l'informatique à appréhender : les réseaux neuronaux, le deep learning, le natural language processing, ... Et si vous vous reposiez sur des services existants ? Nous vous proposons de construire un jeu de \"Qui est ce ?\" en utilisant différents web services et une pile de photos. Nous ferons un petit panorama des API de vision, du Text to Speech, du Natural Langage Processing. Nous verrons aussi comment vous pouvez utiliser un bot pour simplifier l'implémentation du jeu.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            328,
-            1802
-        ]
-    },
-    "1926": {
-        "id": 1926,
-        "title": "An Android Retrospective",
-        "description": "Join Chet and Romain for a retrospective of Android full of anecdotes, regrets and reliefs. This retrospective covers every major version of Android since the very first public version unveiled in 2007.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2670,
-            103
-        ]
-    },
-    "1937": {
-        "id": 1937,
-        "title": "Keynote de fermeture",
-        "image": "/images/backgrounds/keynote.jpg",
-        "description": "Description à venir bientôt",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-          5000,
-          5001,
-          5002,
-          103
-        ]
-    },
-    "1955": {
-        "id": 1955,
-        "title": "Reactive Brain Waves",
-        "description": "Our brain is a fascinating machine. Thanks to recent advancements in EEG technology, we are finally able to begin interfacing with it and build \"thought-controlled\" interfaces. In this talk, we are going to experiment in connecting our brains to an Angular app, using an affordable consumer EEG headset and Web Bluetooth, and then use RxJS to process the brain signals and feed them as events to our components. This gives a whole new meaning to the term \"Smart Component\", in a mind bending way.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2579
-        ]
-    },
-    "1957": {
-        "id": 1957,
-        "title": "Créer une application Vue avec Apollo GraphQL",
-        "description": "Live coding d'une petite application Vue.js avec un serveur GraphQL déjà prêt et Apollo GraphQL (+ vue-apollo et vue-supply).",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2681
-        ]
-    },
-    "1958": {
-        "id": 1958,
-        "title": "Lab interne, espace d'innovation porté par l'intelligence collective",
-        "description": "U GIE IRIS est en charge de l'informatique du groupement U (1 600 magasins, 28 entrepôts)\nDans un contexte hyper-évolutif et concurrentiel, nous devons innover, définir de nouvelles manière de faire. Dans le cadre de notre démarche d'innovation, nous avons ouvert un \"fablab\" interne début 2016 : \"IRISlab\" . Cet espace interne, dédié à l'innovation, est ouvert à l'ensemble des 400 collaborateurs. Il met à disposition les conditions requises pour passer de l'idée à l'expérimentation. Au travers cet espace collaboratif, c'est la réussite d'une communauté active et bienveillante, qui se retrouve pour porter l'innovation tant technologique que sur la manière de faire. Notre démarche autour du LAB induit donc une véritable transformation culturelle. Immergez-vous dans cet espace, rencontrez cette communauté de \"makers\" porteuse d'innovation et échangeons ensemble sur les facteurs clés de succès.\n\nCette conférence abordera les conditions de mise en oeuvre d'un \"FabLab\" interne, les expérimentations menées, les modalités d'animation, les valeurs partagées au sein de la communauté et l'ouverture de la démarche vers l'écosystème du Grand Ouest et plus.",
-        "type": "quicky",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2386
-        ]
-    },
-    "1962": {
-        "id": 1962,
-        "title": "mobx-state-tree, ne vous mettez plus dans tous vos états !",
-        "description": "Vous en avez marre de devoir créer 300 fonctions pour mettre à jour une simple variable dans votre store Redux ?\nImaginez un monde où le store pourrait simplement se mettre à jour comme s’il s’agissait d’une variable mutable MAIS avec les avantages d’un store immutable, et rejouable… haa le paradis des développeurs React :)\n\nEt bien c’est possible ! (Vous nous avez vu venir ?!)\n\nSuivez nous dans cette présentation de mobx-state-tree, une bibliothèque créée par Michel Weststrate, le créateur de MobX.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            780,
-            1842
-        ]
-    },
-    "1970": {
-        "id": 1970,
-        "title": "Développez vos propres supers-pouvoirs dans une réalité mixte... et avec des Hololens",
-        "description": "**Envie de jouer d'égal à égal avec Superman ou d'autres super-héros ?**\n\nVenez découvrir l'essentiel des **prérequis et techniques de développement** de projets en réalité mixte (Holographique) sous Hololens.\n\nNous utiliserons ``Unity 3D``, ``Visual Studio 2017``, du ``C#`` et quelques services du cloud si besoin d'intelligence artificielle.\n\nVous pourrez ainsi défier les **Marvel** dans votre réalité \"parallèle\", juste le temps d'un lab.",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Codelab"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2647,
-            2690
-        ]
-    },
-    "1999": {
-        "id": 1999,
-        "title": "Npm, Yarn Et si la vérité était ailleurs ?",
-        "description": "En matière de gestionnaire de package Javascript, tout le monde connait NPM ou YARN (au moins de nom :)). Désormais, PNPM, un nouveau challenger vient bousculer leur petit confort. PNPM apporte tellement de bonnes surprises qu'il les pousse à se réveiller et s'en inspirer. Il s'offre même le luxe d'être plus rapide qu'eux ! Et si le futur de NPM ou YARN passait par PNPM? Nous parlerons de cet outil, mais aussi de l'écosystème foisonnant des gestionnaires de paquet.",
-        "type": "quicky",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1497
-        ]
-    },
-    "2017": {
-        "id": 2017,
-        "title": "Ethdroid, le nouveau super pouvoir du mobile !",
-        "description": "Ethdroid 2.0 est un nouveau super-héro dont le pouvoir est de connecter votre *device* Android préféré au monde décentralisé.\n\nJe vous propose de venir découvrir cette librairie Android qui va, à coups sûrs, faciliter le développement de vos **ÐApps Ethereum**.\n\nNous verrons ensemble qu'il devient ultra simple de connecter une application Android à une blockchain publique et encore plus d'interagir avec les nombreux ***smart-contracts*** déjà déployés.\n\nPréparez-vous à une arrivée de la **transparence** dans vos apps mobiles ! \n\n*Prenez un peu d'avance sur [ethmobile.io/ethdroid](http://ethmobile.io/ethdroid)*",
-        "type": "quicky",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            1557
-        ]
-    },
-    "2021": {
-        "id": 2021,
-        "title": "Plateforme economy: augmenter l'offre et la demande grâce à l'UX",
-        "description": "Depuis 2014, une startup sur 3 créée en France est une place de marché. Tourisme, alimentation, services... le développement de nouveaux modes de consommation touche chaque secteur, l'un après l'autre. Stripe, en tant que partenaire de paiements des startups les plus innovantes du monde (Deliveroo, Kickstarter, Drivy, Heetch, Instacart...), observe de près les stratégies et avantages compétitifs développés par les leaders de chaque secteur. Et si la partie \"Demande\" (produit, design, marketing) est une part évidente de leur succès, l'\"Offre\" et l'expérience des  marchands (vendeurs, livreurs, restaurants, porteurs de projet,...) sur la plateforme est sans aucun doute ce qui fait toute la différence entre un bon et un excellent produit. Lors de ce workshop, nous présenterons des conseils et des exemples concrets pour améliorer l'expérience utilisateur sur une plateforme, pour les consommateurs, comme pour le marchants. Nous aborderons dans un premier temps les tactiques adoptées lors des premières années de la place de marché (e.g., du lancement au moment où une masse critique est atteinte) où des initiatives non-scalables pour constituer rapidement une offre de qualité sont adoptées. Nous présenterions ensuite les stratégies mises en place lors du développement (post-masse critique) pour étendre son leadership, maintenir un équilibre offre/demande et s'étendre à l'étranger.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2719
-        ]
-    },
-    "2028": {
-        "id": 2028,
-        "title": "Real World Kotlin-Powered Android",
-        "description": "Kotlin has been picking up steam as the preferred way to make Android apps bringing a wealth of features to Android development, including null safety, data classes with automatic property accessors/modifiers, first-class functions, and lambdas. Even with all those clear benefits, starting from scratch can be intimidating.\n\nIn this session, we'll convert a running Android app written in Java to Kotlin bit by bit.",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2389
-        ]
-    },
-    "2034": {
-        "id": 2034,
-        "title": "Past, Present, and Future of Web Assembly",
-        "description": "The Web Assembly innovation is now supported by all modern browsers. Some people see in it a way to develop on the web without JavaScript while others are quite excited by the performance promise.To better understand what this technology is about, I invite to a journey from its origins to the present and will propose you a vision of concrete impacts it can have in the very next years.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "web",
-        "language": "fr",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            1996
-        ]
-    },
-    "2038": {
-        "id": 2038,
-        "title": "Designing User Interfaces with Android Studio and ConstraintLayout",
-        "description": "This talk will present new and current design tools in Android Studio, allowing you to easily test and create User Interfaces. We will also cover various use cases of ConstraintLayout, an unbundled, flexible and efficient layout manager, and show you how to take advantage of both this library and the design tools to quickly create modern UI and animations for your mobile application.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "mobile",
-        "language": "en",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2648
-        ]
-    },
-    "2040": {
-        "id": 2040,
-        "title": "Debugging Go programs with Delve",
-        "description": "Debugging Go can be a difficult task, especially with traditional debuggers such as 'gdb' or 'lldb'. The language has a lot of powerful features which while incredibly useful, can make debugging tough problems tricky. In this talk I will begin by introducing Delve, a Go-specific debugger. Following the introduction I will discuss what makes Go different from other languages, how Delve is different from other debuggers, how it works, and how you can use it to debug your own Go programs.\n\nTo explain what makes Go different from other languages, I will take a deep dive into the Go runtime, and other aspects of Go that set it apart and, consequently, can make it difficult to debug. From there I will explain the internals of Delve and how it works under the hood. Finally, I'll talk through how to use Delve to help fix difficult bugs in your own Go code.\n\nThis talk will be very beneficial for beginner to expert Go programmers.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "cloud",
-        "language": "en",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2671
-        ]
-    },
-    "2043": {
-        "id": 2043,
-        "title": "Faire du Machine Learning sans Data Scientist",
-        "description": "Le succès du machine learning passera par une démocratisation de son utilisation. Ceci ne pourra pas se faire si les techniques actuelles ne deviennent pas plus accessibles et que ces technologies restent une affaire de spécialistes.\nCette présentation issus de nombreux retour d'expériences expliquera comment il faut s'y prendre pour repenser le métier de son entreprise en s'appuyant sur du machine learning sans pour autant sombrer dans les difficultés théoriques.",
-        "type": "quicky",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            282
-        ]
-    },
-    "2048": {
-        "id": 2048,
-        "title": "On the path to WebAR",
-        "description": "WebAR is coming! And some will argue it's already here. Developing augmented reality on the web can sound very complex. We have developed a way to make it easy for anyone to do AR - and we want to share it with you! In this talk, we will take you through what WebAR is, what are its possibilities, and its challenges. We will also look at other efforts that exist, and share some demos made with AR.js, our open-source solution to do efficient augmented reality on the web.",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "web",
-        "language": "en",
-        "tags": [
-            "Web",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2721,
-            2749
-        ]
-    },
-    "2051": {
-        "id": 2051,
-        "title": "Robot collaboratif IIWA : REX d'un développeur Java SI de son expérience dans l'industrie 4.0",
-        "description": "En tant que développeur Java orienté système d'information j'ai eu la chance de travailler 6 mois avec la société Kuka sur le premier **robot collaboratif industriel, l'IIWA**.\n\n![IIWA](https://bit.ly/2wm5ZVf) \n\nCe retour d’expérience aura pour but d'expliquer :\n- les principes fondamentaux des **cinématiques robot** (asservissement par position et par effort, etc.)\n- les problématiques des développeurs roboticiens et la démystification de la **programmation robotique en Java**\n- les **enjeux de l'industrie 4.0** qui cherche à se rapprocher des pratiques des Systèmes d'Information \n\n**Alors partons à la rencontre de ce secteur qui aujourd'hui à besoin de notre expérience et pourtant a beaucoup à nous apprendre**.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2587,
-            2765
-        ]
-    },
-    "2056": {
-        "id": 2056,
-        "title": "Ma première application Android en Kotlin",
-        "description": "Apprendre à utiliser Kotlin pour faire une application Android de gestion de collection de bande dessinées (ceci est un alibi). Kotlin, un nouveau langage issu principalement des développeurs de JetBrains, qui est officiellement supporté sur la plate-forme Android.\n\nL'objectif du codelab est de réaliser cette application Android en apprenant les bases de ce nouveau langage et son intégration à l'écosystème Android.\n\nPrérequis, avoir installé sur son ordinateur portable Android Studio 3.0",
-        "type": "codelab",
-        "track": {
-            "title": "Les machines"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Codelab"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2693
-        ]
-    },
-    "2061": {
-        "id": 2061,
-        "title": "Libérée! Délivrée! ou Comment devenir développeuse open source ?",
-        "description": "On parle de diversité, un peu partout dans les communautés open source maintenant mais pour la plupart cela se résume à avoir un code of conduct. C’est loin d’être suffisant! Et si on regardait ce que l’on peut faire pour s’ouvrir aux gens de tous horizons ? Dans les entreprises ? Au sein des projets open source ? Et si vous veniez comprendre comment j’en suis arrivée à devenir développeuse de logiciels libres ? Ce talk est un retour d’expérience sur quand, pourquoi et comment je suis tombée dans l’open source. Et finalement pourquoi j’ai décidé de continuer dans cette voie.",
-        "type": "quicky",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Quickie"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2742,
-            5004
-        ]
-    },
-    "2064": {
-        "id": 2064,
-        "title": "Android Architecture Components, une nouvelle façon de faire des applis Android",
-        "description": "Tous les développeurs Android se sont retrouvés confrontés aux mêmes problèmes : complexité du cycle de vie des Fragments et des Activités ; couplage fort entre l'UI, le modèle et le contrôleur qui rend le code difficilement maintenable et testable ; ou encore verbosité et développement non-objet des bases de données natives Android.\nNombre de solutions tierces ont été mises au point par la communauté pour palier à ces problèmes et aujourd'hui, des bibliothèques comme Dagger, Realm ou EventBus sont largement utilisées dans les applications professionnelles.\nAndroid Architecture Components, développé directement par les équipes Android, prend en compte tous les soucis inhérents à l'architecture de base d'Android et propose une solution élégante et extrêmement bien intégrée pour les résoudre.\nBasée sur 4 grands composants interopérables : Lifecycle, LiveData, ViewModel et Room, cette architecture permet de découpler les briques de code afin de créer du code maintenable, extensible et testable. Les Activités ne sont finalement plus que chargées de modifier l'UI, alors que le modèle de données est maintenu en mémoire et facilement partageable entre les éléments graphiques. Enfin, la persistence devient aisée grâce à l'ORM Room qui surcouche le connecteur SQLite natif.\nNous vous proposons de passer en revue ces éléments, de montrer comment il est facile de les intégrer dans les applis, et de prouver en quoi ils permettent de produire des applis plus performantes.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "mobile",
-        "language": "fr",
-        "tags": [
-            "Mobile",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2495
-        ]
-    },
-    "2074": {
-        "id": 2074,
-        "title": "La place du numérique dans l'hôpital de demain",
-        "description": "Parce que même les super-héros ont parfois besoin d'être soignés, le CHU de Nantes est en train de concevoir son hôpital du futur.\nMais qu'est ce que ça veut dire ? Une intelligence artificielle qui ferait passer Dr House pour un stagiaire ? Des robots qui veillent sur les patients ? Des smartphones pour diagnostiquer les problèmes ? Comment garder le coté humain dans un hôpital numérique ?\nVoici un extrait des questions auxquelles les équipes du CHU doivent répondre.\nNous vous proposons un aperçu de ce qui vous attend dans 10 ans sur l'Ile de Nantes",
-        "type": "talk",
-        "track": {
-            "title": "Belem"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            2757,
-            2741
-        ]
-    },
-    "2080": {
-        "id": 2080,
-        "title": "L'UX a sauvé mon DevOps",
-        "description": "Elle s’appelle UX, lui s’appelle Devops.  \nIls sont amoureux mais sont au coeur de disputes entre deux familles rivales tels les Capulet et les Montaigu.  \nElle partage beaucoup de points communs avec lui :\n   - Ils ne voient jamais un projet dans son intégralité.\n   - Les deux sont des concepts émergeants des années 2010 au sein de l’IT.\n   - Ils sont tous les deux au centre des équipes et servent de liant entre les développeurs.\nMais malgré tout, tout les sépare !  \n  \nCependant, les choses ont changé et les meurs ont évolué.  \n  \nUn jour, alors que notre Devops tentait en vain de convaincre sa hiérarchie, de désespoir, il se tourna vers UX et pria pour son assistance.  Ce qu’il vit alors l’enchanta et il compris … Ses faiblesses étaient ses forces et il pouvait lui apporter autant.  \nSon idéation était semblable à son automatisation.  \nQuand il lui parlait de Scale, elle comprenait même si ce n’était pas la même chose (analytics scale) et leurs objectifs étaient beaucoup trop semblables pour que ce soit une coincidence …  \n  \nVenez voir l’histoire d’amour la plus improbable des ces 10 dernières années !",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            191,
-            2759
-        ]
-    },
-    "2088": {
-        "id": 2088,
-        "title": "Les API gateway avec Kong",
-        "description": "Nous vous présenterons comment nous avons mis en place Kong comme API Gateway en front d’une architecture micro-service et pourquoi il nous change la vie ! Nous ferons un retour d'experience sur notre API et notamment la capacité à scaler jusqu'à des dizaines de millions de requêtes par jour.",
-        "type": "talk",
-        "track": {
-            "title": "Graslin"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2764
-        ]
-    },
-    "2094": {
-        "id": 2094,
-        "title": "The great SOA migration",
-        "description": "How did Uber go from a 300,000 lines monolithic Python application to a service oriented architecture with more than 1,000 microservices? We will go through both technical, cultural, and management aspects of the migration which took about five years.",
-        "type": "quicky",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "cloud",
-        "language": "en",
-        "tags": [
-            "Cloud",
-            "Quickie"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2547
-        ]
-    },
-    "2099": {
-        "id": 2099,
-        "title": "La blockchain du crétacé à l'an 3000",
-        "description": "Venez découvrir la blockchain, son histoire et son actualité dans une conférence un peu décalée, visant à vulgariser cette technologie qui fait souvent un peu peur.\n\nVous apprendrez tout sur la genèse de la blockchain, quel impact ça a eu sur les dinosaures,  comment ça fonctionne, à quoi ça sert maintenant et qu'est-ce qu'on en fera en l'an 3000.\n\nVous en sortirez galvanisé et prêt à investir vos économies de toute une vie pour tenter de devenir riche en boursicotant sur les crypto-monnaies.\n\nSi vous ne devez voir qu’une conf dans votre vie…bon choisissez p’tet autre chose, mais elle reste bien quand même !",
-        "type": "talk",
-        "track": {
-            "title": "Titan"
-        },
-        "category": "discovery",
-        "language": "fr",
-        "tags": [
-            "Discovery",
-            "Conference"
-        ],
-        "complexity": "Beginner",
-        "speakers": [
-            568
-        ]
-    },
-    "2107": {
-        "id": 2107,
-        "title": "DDD & Event Sourcing à la rescousse pour implémenter la GDPR ?",
-        "description": "La General Data Protection Regulation (GDPR) est le nouveau dispositif légal pour la protection des données en Europe, qui entrera en vigueur le 25 mai 2018.\nDurant ce retour d'expérience, nous introduirons les grands principes de ce dispositif, tels que le consentement explicite, la portabilité de la donnée, etc. Nous présenterons également les notions d'anonymisation, de pseudonymisation, et de durée de rétention des données, ainsi que d'autres standards nécessaires pour se conformer à la nouvelle réglementation. \nUne fois le problème présenté, nous vous montrerons comment le Domain Driven Design et les patterns compatibles, tel qu'Event Sourcing nous ont aidés à appréhender les changements les plus importants pour les SI, résultant de l'application de la GDPR.",
-        "type": "talk",
-        "track": {
-            "title": "Bretagne"
-        },
-        "category": "cloud",
-        "language": "fr",
-        "tags": [
-            "Cloud",
-            "Conference"
-        ],
-        "complexity": "Intermediate",
-        "speakers": [
-            2760,
-            911
-        ]
-    }
+  "0": {
+    "id": 0,
+    "title": "Ouverture des portes / Gates open",
+    "titleMobile": "Gates open",
+    "image": "/images/backgrounds/opening.jpg",
+    "type": "break"
+  },
+  "1": {
+    "id": 1,
+    "title": "Keynote d'ouverture / Opening keynote",
+    "titleMobile": "Opening keynote",
+    "image": "/images/backgrounds/keynote.jpg",
+    "description": "<a href='http://www.madmapper.com/' traget='_blank'>MadMapper</a> est un programme de mapping vidéo co-produit par <a href='http://www.1024architecture.net/' traget='_blank'>1024 architecture</a> et GarageCube. Pour développer leur projet et installation architecturale, urbaine et digitale, 1024 s’est très vite confronté au manque crucial d’outil informatique leur permettant de réaliser leurs idées… Ils se sont ainsi rapproché de la société GarageCube, créateur du logiciel de Vjing Modul8 ainsi que du Mapping Festival à Genève pour imaginer ensemble cet outil précieux: MadMapper est ainsi né de cette rencontre et collaboration, un logiciel fait par des artistes, pour des artistes. Au travers de la présentation de différents projets réalisés par 1024 et de l’évolution constante du logiciel MadMapper, nous vous raconterons l’histoire de la relation croisée sous-jacente entre installation artistique numérique et outil informatique.",
+    "type": "keynote",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      5005
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "Déjeuner / Lunch",
+    "titleMobile": "Lunch",
+    "description": "Foooooood !!!",
+    "image": "/images/backgrounds/lunch.jpg",
+    "type": "break"
+  },
+  "3": {
+    "id": 3,
+    "title": "After Party",
+    "description": "Cette année l’After Party est organisée par notre partenaire U GIE-IRIS (Système U).\n\n![GIE-IRIS](https://devfest.gdgnantes.com/images/logos/systemeu.png)\n\nElle aura lieu sur place à la Cité des Congrès (dans la Grande Galerie) à partir de 18h30 le Jeudi 19 Octobre.\nRetrouvons-nous autour d'un apéro pour discuter des événements de la 1ère journée et faire du networking. A l'affiche, des démos, des découvertes, de la musique...\nVenez nombreux !!",
+    "image": "/images/backgrounds/party.jpg",
+    "type": "break"
+  },
+  "4": {
+    "id": 4,
+    "title": "Ouverture des portes / Gates open",
+    "titleMobile": "Gates open",
+    "image": "/images/backgrounds/opening.jpg",
+    "type": "break"
+  },
+  "5": {
+    "id": 5,
+    "title": "Déjeuner / Lunch",
+    "titleMobile": "Lunch",
+    "description": "Foooooood !!!",
+    "image": "/images/backgrounds/lunch.jpg",
+    "type": "break"
+  },
+  "1540": {
+    "id": 1540,
+    "title": "Vos webapps ont-elles du style ?",
+    "description": "Nous sommes beaucoup à avoir la compétence _HTML/CSS_ sur notre CV mais industrialiser le style finit rapidement en eau de boudin!\n\nEntre la conception de la charte graphique, sa mise en application, en passant par la réutilisation/maintenabilité, je vais vous présenter un ensemble d'outils et de techniques qui vous permettront de répondre complètement et sereinement à l'ensemble de ces défis :\n* Guide de style comme référentiel\n* Pondération des styles\n* CSS modules pour des composants graphiques réellement réutilisables\n* Intégration continue pour une non-régression visuelle",
+    "type": "quicky",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Quickie"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2241
+    ]
+  },
+  "1541": {
+    "id": 1541,
+    "title": "CTF : Sortez le Mr Robot qui est en vous !",
+    "description": "Vous avez déjà entendu parler de SQL Injection, de failles CSRF ou autres ? Ok, mais les avez-vous déjà exploitées ?\n\nDans ce workshop, nous vous proposerons un \"Capture The Flag\" qui vous permettra de chercher, analyser et exploiter différentes failles de sécurité. Que vous soyez novice ou non, ne vous inquiétez pas, nous serons là pour vous aiguiller dans le seul but d'apprendre des choses tout en passant un excellent moment !\n\nCe workshop se déroulera en plusieurs temps :\n\nD'abord un tour d'horizon de différentes failles, avec des exemples concrets mettant en évidence que même les meilleurs développeurs du monde font des erreurs :)\nEnsuite, nous vous fournirons des liens vers différentes applications dont le but sera d'exploiter une faille vous permettant de récupérer un code.\nChaque code récupéré vous permettra de gagner un nombre de points dépendant de la difficulté.\nLes plus chevronnés d'entre vous seront récompensés :)\nNotre rêve caché : trouver le Mr Robot de ce DevFest !",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Codelab"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1130,
+      1131
+    ]
+  },
+  "1595": {
+    "id": 1595,
+    "title": "Mixed Reality for Social Good",
+    "description": "Exciting times for mixed reality enthusiasts. With many AR and VR platforms now available, we're witnessing the birth of a new medium. \n\nIn many ways, this boom is similar to the personal computer revolution of the 70s and 80s. People are wondering: \"Besides games, what are these gadgets good for, anyway?\"\n\nIn this session, we'll see how people are using mixed reality for social good. Then, we'll learn about the Tango and Daydream platforms from Google. We'll use these and other platforms to build our own mixed reality experience.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2248
+    ]
+  },
+  "1596": {
+    "id": 1596,
+    "title": "Lâchez votre JAVA et venez prendre un peu l’R ! ;)",
+    "description": "R est une langage de programmation (un vrai de vrai, avec des boucles, des if/then/else, des tests unitaires et tout le tintouin), open source et gratuit, qui est principalement utilisé pour des problématiques en statistiques / data science / machine learning. L’objectif de ce quickie est de vous présenter un aperçu des forces et atouts de R. Je parie que je sais ce que vous allez fR ce week-end ! ;)",
+    "type": "quicky",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1727
+    ]
+  },
+  "1629": {
+    "id": 1629,
+    "title": "Angular (2) et performances",
+    "description": "Il nous aura fallu attendre 2 ans pour avoir cette nouvelle version du fameux framework de Google. L'objectif est ambitieux: devenir le framework front le plus performant. Nous vous proposons de naviguer sur un projet Angular pour comprendre ce qui le rend plus rapide. Nous parlerons de ce qui est proposé en natif (détection du changement, lazy loading et pre loading, compilation...) mais aussi de ce que vous pouvez mettre en place (compilation AOT, tree shaking, universal...)",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      699,
+      1222
+    ]
+  },
+  "1636": {
+    "id": 1636,
+    "title": "La Marque est morte, vive l'intelligence artificielle",
+    "description": "Le monde a toujours été « Marqué ». \nDu nombre de pois sur les ailes du papillon Monarque au bande du tigre du bengal, ce système de «marques distinctives» a permis d’organiser la complexité de notre monde. Mais vers 2014, les choses se troublent. \nL’idée de Marque évolue avec l’arrivée de dispositifs comme Amazon Echo avec reconnaissance vocale soutenus par un AI incroyablement intelligent.\nLa Marque connaît un changement de paradigme.\nElle n’est plus juste un symbole, un signe. Elle n’est même pas une voix. Elle est devenue une entité intelligente, une personnalité, un algorithme capable d’apprendre.\nComment «Marqué» une intelligence artificielle ?\nQuel type de relation allons-nous avoir maintenant avec la Marque ?\nDeviendrons-nous des consommateurs complètements manipulés par la Marque ? \nLa Marque va-t elle tout simplement devenir notre meilleur ami?",
+    "type": "quicky",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1173
+    ]
+  },
+  "1641": {
+    "id": 1641,
+    "title": "Des bibliothèques graphiques originales au service de la dataviz sur le web",
+    "description": "Pour développer une visualisation de données, il faut généralement un algorithme (plus ou moins compliqué) d'un côté, et de l'autre *un moteur de rendu*. Et si [d3.js](https://d3js.org) résout aujourd'hui très bien la question des algorithmes, il est très souvent simplement branché sur du SVG.\n\nPourtant, l'écosystème du rendu graphique sur le web est très riche, entre des standards robustes (SVG, Canvas, WebGL...) et des bibliothèques JavaScript très diverses, telles que [Pixi.js](http://www.pixijs.com/) ou encore [three.js](https://threejs.org/).\n\nL'objectif de ma présentation sera de mettre en valeur la mixité de ces solutions, à travers différents exemples de visualisations originales et variées.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      1807
+    ]
+  },
+  "1655": {
+    "id": 1655,
+    "title": "Découvrir Android Things, et exterminer les reptiliens",
+    "description": "Que vous y croyez ou non, les reptiliens sont partout, et on n'a jamais été vraiment prêt à pouvoir les affronter.  \nOn **N'ÉTAIT** pas prêt... Mais maintenant qu'*Android Things* est sorti, ils vont moins faire les malins, vous allez voir.  \n\nC'est sûr que, lorsqu'on a enfin réussi à faire des applications pour mobile qui déchirent, ça les dérangeait pas trop, eux... Mais maintenant qu'on peut utiliser la puissance d'Android pour créer des objets physiques, on va moins les entendre.\n\nEnsemble, nous allons découvrir Android Things, et voir comment nous pouvons créer une machine se déplaçant, et permettant de détecter les reptiliens (avec des capteurs tactiles, de température, et du machine learning), mais aussi permettant de les exterminer (d'ailleurs si les orgas pouvaient me prêter un lance flamme, ça ferait une super démo).\n\nComment ? Avec un Raspberry Pi, un Arduino, et en découvrant et utilisant toutes les APIs spécifiques à Android Things : gpio, pwm, i2c, spi, uart, permettant d’interagir avec des composants du monde réel (enfin, \"réel\", vous m'avez compris...).\n\nCe talk est d'utilité publique, et pour tout niveau.  \nSi *ahaha* vous pensez qu'on est *ahah*  dans la conspiration, venez quand même ça peut toujours vous être utile.  \n*ahahah conspiration ahahaha*",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      852
+    ]
+  },
+  "1689": {
+    "id": 1689,
+    "title": "Automatiser & mutualiser vos modèles de données",
+    "description": "### Le Contexte\n\nVous n'en avez pas marre d'avoir à écrire vos classes modèles à la main ? Surtout si vous faites une application à la fois Android & iOS, avec chacun ses technos et son language, c'est souvent le double de travail !\n\nQue diriez-vous de gagner un temps précieux sur la création et maintenance de votre couche modèle sur vos 2 plateformes ?\n\n### Contenu de ce Quickie\n\nCe Quickie abordera les points suivants :\n\n* concevoir votre modèle commun iOS/Android à l'aide d'un éditeur visuel.\n* Utilisation de l'outil Gyro pour automatiser la génération du code de vos classes, à la fois pour Java, Kotlin, Swift et Objective-C.\n* Avantages d'avoir une seule source commune pour les modèles de toutes vos plateformes.\n* Customization par templates du code produit par gyro, pour le faire correspondre exactement à vos besoins\n\t* que vous utilisiez SQL, GreenDAO, Room, Realm, ou toute autre DAO…\n\t* que vous souhaitiez simplement ajuster les templates existants à votre style de code\n\t* …",
+    "type": "quicky",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2487
+    ]
+  },
+  "1700": {
+    "id": 1700,
+    "title": "50 nuances de grilles",
+    "description": "Bientôt incontournable, le positionnement Grid Layout va redonner ses lettres de noblesses à CSS et à nos intégrations de pages web.\n\nAu cours de cet atelier pratique (pensez à vos ordis), nous allons ensemble explorer les possibilités offertes par ce module prometteur :\n\n- Construction de grille : simple + gouttière\n- Construction de template 1 : placement explicite\n- Construction de template 2 : placement par zones\n- Construction de template 3 : avec blocks full-width + mobile-first\n- Galerie d'image : span + repeat + auto-fit + dense\n- Construction de Grille avec variables CSS ou avec un préprocesseur (Sass)\n\nPré-requis : ne pas être une quiche complète en CSS.",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Codelab"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      1143
+    ]
+  },
+  "1709": {
+    "id": 1709,
+    "title": "Prettier - ou comment s'assurer un code bien formatté",
+    "description": "Prettier est l'un des tout derniers projets open-source proposé  par Facebook. Il vous permettra de formatter votre code JavaScript, TypeScript, CSS et bientôt peut-être HTML, et ainsi d'assurer un style commun sur l'ensemble de votre codebase. Durant ce quickie, nous aborderons les fonctionnalités proposées et également les différentes intégrations possibles.",
+    "type": "quicky",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      227
+    ]
+  },
+  "1733": {
+    "id": 1733,
+    "title": "Développez votre première application Vue.js",
+    "description": "La popularité de Vue.js a connu une croissance impressionnante ces derniers mois. La librairie est définitivement ancrée dans les tendances 2017 du développement JavaScript. Vue.js séduit de nombreux développeurs à travers sa facilité d’utilisation et sa rapidité de prise en main.\n\nNous vous proposons de découvrir cette librairie à travers un code lab interactif !",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Codelab"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2374,
+      2246
+    ]
+  },
+  "1737": {
+    "id": 1737,
+    "title": "Et si on jouait un peu... Une petite partie des Aventuriers du Rails ?",
+    "description": "Tous le monde connait les jeux de plateau tel que <b>Les aventuriers du Rail</b>, <b>Contagion</b> ou bien <b>Small World</b>. Mais saviez vous qu'il existe une version numérique de ces mêmes jeux jouable en réseau ? \n\nCes jeux, appelés <i>Board Games</i> sont un type bien particulier d'application disponibles sur tous les stores et toutes les plateformes qui demande une conception bien particulière afin d'attirer une communauté et d'être rentable.\n\nNous allons voir les enjeux et les règles qui régissent l'univers impitoyable des <i>Board Games</i> et comment techniquement un jeu de ce type est dévéloppé.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2519
+    ]
+  },
+  "1763": {
+    "id": 1763,
+    "title": "Un ChatBot vocal pour Amazon Alexa en 20 min",
+    "description": "Les Chatbots, assistants virtuels ou encore les robots conversationnels sont tous des faces d’une même pièce, si le nom change le principe reste le même ! Certains vous permettre de réserver un restaurant ou de trouver les meilleures offres de voyages, d’autres de commander un taxi à travers l’interface de votre application de messagerie et sans avoir besoin de quitter votre logiciel préféré ni d’ouvrir une nouvelle application.\n\nPas que ça, Amazon a lancé des enceintes connectées interactives capables de répondre aux commandes vocales grace à Amazone Alexa. \n\nDurant ce Hand-on de 20 minutes je ramène l'enceinte intelligente Amazon Echo et on vas développer ensemble un ChatBot vocal pour Amazon Alexa avec Node.js, ensuite on vas la déployer sur AWS Lambda et la rendre plus humain avec la nouvelle plateforme du traitement automatique du langage naturel (NLP) Amazon Lex.",
+    "type": "quicky",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Quickie"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2351
+    ]
+  },
+  "1814": {
+    "id": 1814,
+    "title": "Fluent Design : designer pour le futur.",
+    "description": "Développeurs, designers, experts UX, mes amis, venez découvrir les nouvelles guidelines, contrôles et outils de design pour des applications modernes, ergonomiques, efficaces et encore plus belles sur tout les Windows !  Cela s'appelle Fluent Design System, et cela pourrait bien changer votre approche !",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      546
+    ]
+  },
+  "1815": {
+    "id": 1815,
+    "title": "NodeJS Future",
+    "description": "**NodeJS** poursuit son avancé dans tous les écosystèmes.\nL'avènement de **ES6**, **ES7** et bientôt **ES8**  et l'intégration dans les navigateurs des dernières moutures d'ECMASCRIPT pousse vers l'avant NodeJS grâce aux avancées du moteur **V8**\n\nNous verrons ensemble quelles sont les nouvelles fonctionnalités apportées par **NodeJS 8**, et quelles sont les problématiques rencontrées par les équipes de dev NodeJS.\n\nNous verrons aussi l'apport de **N-API** et l'opportunité de tester d'autres moteurs de runtime comme **Chakracore** en une ligne de commande :)  \n\nNous parlerons **d'asynchronisme** ou encore de **modules ESM** dans se talk résolument orienté vers les développeurs backend !\n\nQuelques mots clés encore, car nous parlerons aussi de **TypeScript 2.x**, **NPM 5**, **async_hooks**, **WHATWG URL** ou encore **Promisify()**  \n\nEt nous parlerons aussi de **Michael Jackson**  ...  \nSi si, ça a un rapport avec NodeJS ... :)",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Expert",
+    "speakers": [
+      545
+    ]
+  },
+  "1818": {
+    "id": 1818,
+    "title": "Web Components: It's all rainbows and unicorns! Is it?",
+    "description": "Web components are a tale of four w3c specifications. They are a hot topic now. We’ve all seen big headlines, for instance, “The Web Components revolution”, “Web Components are a game changer”, “A Tectonic Shift for Web Development”, … and so many others. They are certainly exciting and promising, nevertheless, there are some factors holding them back such as performance issues and lack of browser support. Some features seems to be more hassle than they’re worth. In this talk you’ll examine web components from a pragmatic stand point. So if you want to start using ES6 web components in production, come to learn what features can you use today. Actually, despite the still short browser support, some of web components features seems to be the best choice to start with . The assessment you’ll learn is the reflection of my personal research and work on my spare time and also feedbacks from my co-workers.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      1439
+    ]
+  },
+  "1824": {
+    "id": 1824,
+    "title": "Développeur et protection de la vie privée",
+    "description": "Entre les GAFAs et le monde fou de l'internet des objets, le numérique ne nous a jamais autant espionné et catalogué. En tant que développeur, n'avons-nous pas une responsabilité envers la protection de la vie privée ? Quelle éthique pour la profession de développeur ? Quelles alternatives pour le développeur engagé ? Une conférence qui pose des questions et ouvre le débat.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2572
+    ]
+  },
+  "1826": {
+    "id": 1826,
+    "title": "Code review : ce truc qui ne sert à rien",
+    "description": "Vous venez de terminer de coder une nouvelle fonctionnalité pour votre projet. Elle est parfaite, tout est clair, vous l'avez testée dans tous les sens. Normal, le code, ça vous connaît.\n\nEt là, un type se ramène et commence à vous faire de petites remarques. Il vous parle de cohérence, de refactoring, de patterns à appliquer. Il vous fait même remarquer que ligne 42, vous avez oublié un espace avant le point virgule. Et puis il se barre, en vous donnant une petite tape sur l'épaule, et en vous souhaitant bon courage. Vous pleurez.\n\nSi c'est l'image que vous avez de la code review, alors arrêtez tout, et venez. Les code reviews nous aident à garder la cohérence technique d'un produit, sa maintenabilité, sa stabilité, et surtout nous permettent d'apprendre des autres, continuellement. Evidemment, il y a des règles à respecter pour que ça fonctionne. Mais le résultat est là.\n\nUne perte de temps ? Un truc inutile ? On en reparle.",
+    "type": "quicky",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2559
+    ]
+  },
+  "1833": {
+    "id": 1833,
+    "title": "Faites chauffer les neurones de votre smartphone avec du deep learning on-device",
+    "description": "Nous entendons aujourd'hui parler de Deep Learning un peu partout : reconnaissance d'images, de sons, génération de texte, etc. Les annonces sur Android Neural Network API et TensorFlowLite, la release du framework CoreML d’Apple, toutes ces actions nous confirment la tendance d’aller plus loins sur l’on-device intelligence.\nMais, bien que les techniques et frameworks soient en train de se démocratiser, il reste difficile d'en voir des applications concrètes en entreprise, et encore moins sur des applications mobiles. Nous avons donc décidé de construire un Proof Of Concept pour relever les défis du domaine.\nA travers une application mobile à but éducatif utilisant du Deep Learning pour de la reconnaissance d’objets, nous aborderons les questions des impacts de ce type de modèle sur les smartphones, d'architecture pour l'entraînement et le déploiement de modèles sur le service Cloud, ainsi que la construction de l’application mobile avec les dernières nouveautés annoncées.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1856,
+      1233,
+      1721
+    ]
+  },
+  "1834": {
+    "id": 1834,
+    "title": "Introduction to Android Instant Apps",
+    "description": "Android Instant Apps are the new kid in the large town of Android-city. The promise behind it is quite simple and groundbreaking at the same time: running native Android apps instantly on your device, without installation.\n\nIn this session we will first introduce this evolution in app sharing and discovery mostly from a user perspective. Secondly, we will discover how, as a developer, you can build an Android Instant Apps and deliver this new experience frictionless to all of your users.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2591
+    ]
+  },
+  "1837": {
+    "id": 1837,
+    "title": "Ok Google, is there any presentations about ChatBots?",
+    "description": "Ever wanted to build a chatbot? What if you could use a voice assistant to manage your agenda for the conference? Know if there are any presentations on Machine Learning, or Docker, or your favorite programming language? Find out more about a speaker...etc.\n\nIn this session, we will look at how to build our own voice assistant, using Google Cloud's natural speech and voice recognition APIs with API.AI services, and Google Cloud Functions to implement Necessary business logic.\n\nGrab some popcorn and enjoy!",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      1222,
+      1028
+    ]
+  },
+  "1846": {
+    "id": 1846,
+    "title": "Pipeline de déploiement continu dans Kubernetes",
+    "description": "La mise en place d'un pipeline de déploiement continu est à la base du succès de toute plateforme. Dans cette session, vous découvrirez comment des outils open source comme Kubernetes, Deis Workflow, Helm, Draft ou encore Jenkins vous permettront de simplifier la prise en main de Kubernetes par vos équipes de développement mais aussi la mise en place d'un pipeline CI/CD robuste pour vos applications.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      551
+    ]
+  },
+  "1847": {
+    "id": 1847,
+    "title": "Retours sur l’aventure Capitaine Train",
+    "description": "L’aventure Capitaine Train débute en 2010. L’objectif est simple et clair : offrir une alternative crédible à la vente de billet de train en Europe. Aujourd’hui, Capitaine Train, rachetée en 2016 et renommée entre temps « Trainline », vend plusieurs millions de billets chaque année.\n \nConstruire l’application Android a requis évidemment beaucoup de travail et de rigueur. Durant cette présentation nous détaillerons chacun des aspects qui ont permis à l’app Android Capitaine Train d’apporter régulièrement de nouvelles fonctionnalités, de respecter nos critères de qualité tout en répondant aux attentes des utilisateurs. Nous aborderons notamment l’organisation interne de l’équipe, le recrutement, les processus de développement et de mise en production, l’approche produit, le design, etc.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2591,
+      2607,
+      1120
+    ]
+  },
+  "1852": {
+    "id": 1852,
+    "title": "The Deep Learning Codelab",
+    "description": "La recommandation, la reconnaissance vocale, la recherche d'image.  Le machine learning : l'apprentissage automatique dans la langue de Molière (écrivain décidément moderne).  Voilà ce qu'est l'avenir.\n\nEt pour le dev quotidien, tout est perdu ?  Pas du tout.  Les outils du ML se multiplient.\n\nVenez passer deux heures apprendre ce que c'est le machine learning et, surtout, le deep learning, cet outil encore plus macéré dans la science fiction.  Après une (très brève) introduction au ML, nous allons commencer directement par le Hello World du deep learning : la reconnaissance de chiffres écrits à la mains.  Un classifieur à l'état de l'art il y a une décennie s'écrit maintenant avec une trentaine de ligne de code.\n\nÀ partir de cette expérience forte, nous allons nous lancer dans la reconnaissance d'images.  Apprenez chercher dans vos propres photos sans passer par Google.\n\nOutils utilisés dans le codelab (mais pas besoin de les maîtriser avant) : python, scikit-learn, TensorFlow, Keras.\n\nLe codelab est pour débutant en ML.  Ce serait peut-être bien que tu ne sois pas également débutant en dev.",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Codelab"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1263,
+      2629
+    ]
+  },
+  "1857": {
+    "id": 1857,
+    "title": "Donner du sens à vos pages web avec Schema.org",
+    "description": "Nous connaissons tous le web sémantique.\nEt si on allait encore plus loin ? Et si on offrait un niveau de compréhension supérieure à nos contenus ?\nNous allons voir ensemble les enjeux d'utiliser les micro-datas, l'importance pour les moteurs de recherches de pouvoir parser du contenu catégorisé et ainsi alimenter des outils comme le Knowledge Graph de Google.\nJe vous montrerai comment mettre en place simplement du contenu ayant du sens en s'appuyant sur Schema.org.",
+    "type": "quicky",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2625
+    ]
+  },
+  "1859": {
+    "id": 1859,
+    "title": "Start Using CSS Grid Layout Today",
+    "description": "2017 is the year of the Grid, with the long awaited CSS Grid Layout landing in browsers. In this talk I’ll demonstrate with practical examples what grid layout is, the basics of how to use it and how to start using it right now - without leaving older browsers out in the cold.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "web",
+    "language": "en",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2624
+    ]
+  },
+  "1864": {
+    "id": 1864,
+    "title": "Code and Deploy Angular to the Cloud",
+    "description": "Getting started with Angular is now easier than ever ... said no one ever. Yet with the right toolset we too can create magic. When I code with Angular I can deploy to Azure within minutes. \n\nWe'll go through a simple development to production workflow. First we code with a little help from the Angular CLI. Then we build for production - Webpack to the rescue. We then push our code to Github and deploy it on Node to Azure. \n\nMission accomplished, application is now up in the clouds.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "web",
+    "language": "en",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2557,
+      5003
+    ]
+  },
+  "1871": {
+    "id": 1871,
+    "title": "Linuxkit : le linux façon ikea",
+    "description": "Cela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\n \nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\n \nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2631,
+      571
+    ]
+  },
+  "1874": {
+    "id": 1874,
+    "title": "Trader bitcoin et les autres crypto monnaies",
+    "description": "Les crypto monnaies sont un phénomène de société encore peu connu. Cependant, les récentes levées de fond de plusieurs centaines de millions d'euros démontrent l'intérêt grandissant du public. Nombreux sont ceux qui essaient de trader ces nouveaux actifs. \nMais, la masse d'information à traiter est importante. Et les centaines de crypto monnaies disponibles sur plusieurs places boursières rendent difficile la possibilité de saisir le maximum d'opportunités. Je vous propose au cours de cette présentation de comprendre comment faciliter votre trading à l'aide de la collecte d'information sur le web et l'algotrading...",
+    "type": "quicky",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2634
+    ]
+  },
+  "1892": {
+    "id": 1892,
+    "title": "Documentation as Code (expliqué à mon père)",
+    "description": "En tant que codeurs, nous profitons tous les jours de la puissance de nos outils (IDE, versioning, build, intégration, déploiement). Nous mettons également l’accent sur la qualité avec un ensemble de bonnes pratiques (tests, DRY, KISS). Néanmoins, lorsqu’il s’agit de s’occuper de la documentation, nous sommes encore nombreux à utiliser des outils de \"bureautique traditionnelle\" (Word, Sharepoint, client email). \n\n\"Au menu de cette session, je vous propose d’aborder le langage AsciiDoc ainsi que l’outil asciidoctor (et son ecosystème). Nous verrons quels avantages ils apportent et quelles \"pratiques de codeur\" appliquer pour améliorer les différentes étapes de la vie d’une documentation : rédaction, collaboration et publication.\"",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2608
+    ]
+  },
+  "1901": {
+    "id": 1901,
+    "title": "Istio - An open platform to connect, manage, and secure microservices",
+    "description": "Now that you have micro-services you want to keep an eye on what happens between the services and make sure everything is secure. Istio provides an easy way to create a network of deployed services with load balancing, service-to-service authentication, monitoring, and more, without requiring any changes in service code. Istio is an open-source collaboration between Lift, Google and IBM with Lift's Envoy at the core.\n\nYou will get a detailed overview of all the benefits that Istio can bring to your micro-service architecture. The presentation will be accompanied with a live demo giving more insight of some of the concepts.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "cloud",
+    "language": "en",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2578
+    ]
+  },
+  "1902": {
+    "id": 1902,
+    "title": "AIY with Google : Would you like to be my assistant ?",
+    "description": "Currently, everybody wants to get AI and digital assistant into everything : so why not you ?\n\nA recent joined initiative from Google and the Raspberry community led to the arrival of the AIY Project,\nbringing the awesome power of Google Assistant to the tip of your maker's fingers ... but that's not all.\n\nDuring this session, we'll jam with Google's APIs & AIY Project, some Raspberry parts and of course some Python code in order to build up a pretty cool assistant.\n\nSo join \"P.A.R.K.E.R.\" and me, for a quick yet fun journey into the AIY dimension.",
+    "type": "quicky",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2330
+    ]
+  },
+  "1905": {
+    "id": 1905,
+    "title": "How not to fuckup with building SDK and make clients happy",
+    "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n - what is the cost of too complex API and how to simplify it;\n - what aspects of the library are important for clients;\n - how documentation should look like to avoid stupid and repetitive support questions;\n - how to make library update process smooth.\n\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2226
+    ]
+  },
+  "1910": {
+    "id": 1910,
+    "title": "TensorFlow Wide & Deep: Advanced Classification the easy way",
+    "description": "In this talk, we will go on an adventure to build a machine learning model that combines the benefits of linear regression models with deep neural networks. You will also gain some intuition about what is happening under the hood, and learn how you can use this model for your own datasets.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "cloud",
+    "language": "en",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      101
+    ]
+  },
+  "1913": {
+    "id": 1913,
+    "title": "Docker for developers and ops: what's new and what's next",
+    "description": "Docker moves very fast, with an edge channel released every month and a stable release every 3 months. This talk is right after DockerCon EU. Patrick will talk about what's new in Docker 17.09, which should have shipped in September, a recap of DockerCon EU announcements, and an update on the OCI standards and the Moby project, which is the upstream project from which Docker is built.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "cloud",
+    "language": "en",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      102
+    ]
+  },
+  "1920": {
+    "id": 1920,
+    "title": "Une application qui voit, entend et répond",
+    "description": "Avec l'explosion du machine learning, vous avez sans doute rêvé de rendre plus intelligentes vos applications. Lorsque vous avez regardé ces technologies, vous avez pris peur devant ces nouveaux domaines de l'informatique à appréhender : les réseaux neuronaux, le deep learning, le natural language processing, ... Et si vous vous reposiez sur des services existants ? Nous vous proposons de construire un jeu de \"Qui est ce ?\" en utilisant différents web services et une pile de photos. Nous ferons un petit panorama des API de vision, du Text to Speech, du Natural Langage Processing. Nous verrons aussi comment vous pouvez utiliser un bot pour simplifier l'implémentation du jeu.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      328,
+      1802
+    ]
+  },
+  "1926": {
+    "id": 1926,
+    "title": "An Android Retrospective",
+    "description": "Join Chet and Romain for a retrospective of Android full of anecdotes, regrets and reliefs. This retrospective covers every major version of Android since the very first public version unveiled in 2007.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2670,
+      103
+    ]
+  },
+  "1937": {
+    "id": 1937,
+    "title": "Keynote de fermeture",
+    "image": "/images/backgrounds/keynote.jpg",
+    "description": "Description à venir bientôt",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      5000,
+      5001,
+      5002,
+      103
+    ]
+  },
+  "1955": {
+    "id": 1955,
+    "title": "Reactive Brain Waves",
+    "description": "Our brain is a fascinating machine. Thanks to recent advancements in EEG technology, we are finally able to begin interfacing with it and build \"thought-controlled\" interfaces. In this talk, we are going to experiment in connecting our brains to an Angular app, using an affordable consumer EEG headset and Web Bluetooth, and then use RxJS to process the brain signals and feed them as events to our components. This gives a whole new meaning to the term \"Smart Component\", in a mind bending way.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2579
+    ]
+  },
+  "1957": {
+    "id": 1957,
+    "title": "Créer une application Vue avec Apollo GraphQL",
+    "description": "Live coding d'une petite application Vue.js avec un serveur GraphQL déjà prêt et Apollo GraphQL (+ vue-apollo et vue-supply).",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2681
+    ]
+  },
+  "1958": {
+    "id": 1958,
+    "title": "Lab interne, espace d'innovation porté par l'intelligence collective",
+    "description": "U GIE IRIS est en charge de l'informatique du groupement U (1 600 magasins, 28 entrepôts)\nDans un contexte hyper-évolutif et concurrentiel, nous devons innover, définir de nouvelles manière de faire. Dans le cadre de notre démarche d'innovation, nous avons ouvert un \"fablab\" interne début 2016 : \"IRISlab\" . Cet espace interne, dédié à l'innovation, est ouvert à l'ensemble des 400 collaborateurs. Il met à disposition les conditions requises pour passer de l'idée à l'expérimentation. Au travers cet espace collaboratif, c'est la réussite d'une communauté active et bienveillante, qui se retrouve pour porter l'innovation tant technologique que sur la manière de faire. Notre démarche autour du LAB induit donc une véritable transformation culturelle. Immergez-vous dans cet espace, rencontrez cette communauté de \"makers\" porteuse d'innovation et échangeons ensemble sur les facteurs clés de succès.\n\nCette conférence abordera les conditions de mise en oeuvre d'un \"FabLab\" interne, les expérimentations menées, les modalités d'animation, les valeurs partagées au sein de la communauté et l'ouverture de la démarche vers l'écosystème du Grand Ouest et plus.",
+    "type": "quicky",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2386
+    ]
+  },
+  "1962": {
+    "id": 1962,
+    "title": "mobx-state-tree, ne vous mettez plus dans tous vos états !",
+    "description": "Vous en avez marre de devoir créer 300 fonctions pour mettre à jour une simple variable dans votre store Redux ?\nImaginez un monde où le store pourrait simplement se mettre à jour comme s’il s’agissait d’une variable mutable MAIS avec les avantages d’un store immutable, et rejouable… haa le paradis des développeurs React :)\n\nEt bien c’est possible ! (Vous nous avez vu venir ?!)\n\nSuivez nous dans cette présentation de mobx-state-tree, une bibliothèque créée par Michel Weststrate, le créateur de MobX.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      780,
+      1842
+    ]
+  },
+  "1970": {
+    "id": 1970,
+    "title": "Développez vos propres supers-pouvoirs dans une réalité mixte... et avec des Hololens",
+    "description": "**Envie de jouer d'égal à égal avec Superman ou d'autres super-héros ?**\n\nVenez découvrir l'essentiel des **prérequis et techniques de développement** de projets en réalité mixte (Holographique) sous Hololens.\n\nNous utiliserons ``Unity 3D``, ``Visual Studio 2017``, du ``C#`` et quelques services du cloud si besoin d'intelligence artificielle.\n\nVous pourrez ainsi défier les **Marvel** dans votre réalité \"parallèle\", juste le temps d'un lab.",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Codelab"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2647,
+      2690
+    ]
+  },
+  "1999": {
+    "id": 1999,
+    "title": "Npm, Yarn Et si la vérité était ailleurs ?",
+    "description": "En matière de gestionnaire de package Javascript, tout le monde connait NPM ou YARN (au moins de nom :)). Désormais, PNPM, un nouveau challenger vient bousculer leur petit confort. PNPM apporte tellement de bonnes surprises qu'il les pousse à se réveiller et s'en inspirer. Il s'offre même le luxe d'être plus rapide qu'eux ! Et si le futur de NPM ou YARN passait par PNPM? Nous parlerons de cet outil, mais aussi de l'écosystème foisonnant des gestionnaires de paquet.",
+    "type": "quicky",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1497
+    ]
+  },
+  "2017": {
+    "id": 2017,
+    "title": "Ethdroid, le nouveau super pouvoir du mobile !",
+    "description": "Ethdroid 2.0 est un nouveau super-héro dont le pouvoir est de connecter votre *device* Android préféré au monde décentralisé.\n\nJe vous propose de venir découvrir cette librairie Android qui va, à coups sûrs, faciliter le développement de vos **ÐApps Ethereum**.\n\nNous verrons ensemble qu'il devient ultra simple de connecter une application Android à une blockchain publique et encore plus d'interagir avec les nombreux ***smart-contracts*** déjà déployés.\n\nPréparez-vous à une arrivée de la **transparence** dans vos apps mobiles ! \n\n*Prenez un peu d'avance sur [ethmobile.io/ethdroid](http://ethmobile.io/ethdroid)*",
+    "type": "quicky",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      1557
+    ]
+  },
+  "2021": {
+    "id": 2021,
+    "title": "Plateforme economy: augmenter l'offre et la demande grâce à l'UX",
+    "description": "Depuis 2014, une startup sur 3 créée en France est une place de marché. Tourisme, alimentation, services... le développement de nouveaux modes de consommation touche chaque secteur, l'un après l'autre. Stripe, en tant que partenaire de paiements des startups les plus innovantes du monde (Deliveroo, Kickstarter, Drivy, Heetch, Instacart...), observe de près les stratégies et avantages compétitifs développés par les leaders de chaque secteur. Et si la partie \"Demande\" (produit, design, marketing) est une part évidente de leur succès, l'\"Offre\" et l'expérience des  marchands (vendeurs, livreurs, restaurants, porteurs de projet,...) sur la plateforme est sans aucun doute ce qui fait toute la différence entre un bon et un excellent produit. Lors de ce workshop, nous présenterons des conseils et des exemples concrets pour améliorer l'expérience utilisateur sur une plateforme, pour les consommateurs, comme pour le marchants. Nous aborderons dans un premier temps les tactiques adoptées lors des premières années de la place de marché (e.g., du lancement au moment où une masse critique est atteinte) où des initiatives non-scalables pour constituer rapidement une offre de qualité sont adoptées. Nous présenterions ensuite les stratégies mises en place lors du développement (post-masse critique) pour étendre son leadership, maintenir un équilibre offre/demande et s'étendre à l'étranger.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2719
+    ]
+  },
+  "2028": {
+    "id": 2028,
+    "title": "Real World Kotlin-Powered Android",
+    "description": "Kotlin has been picking up steam as the preferred way to make Android apps bringing a wealth of features to Android development, including null safety, data classes with automatic property accessors/modifiers, first-class functions, and lambdas. Even with all those clear benefits, starting from scratch can be intimidating.\n\nIn this session, we'll convert a running Android app written in Java to Kotlin bit by bit.",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2389
+    ]
+  },
+  "2034": {
+    "id": 2034,
+    "title": "Past, Present, and Future of Web Assembly",
+    "description": "The Web Assembly innovation is now supported by all modern browsers. Some people see in it a way to develop on the web without JavaScript while others are quite excited by the performance promise.To better understand what this technology is about, I invite to a journey from its origins to the present and will propose you a vision of concrete impacts it can have in the very next years.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "web",
+    "language": "fr",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      1996
+    ]
+  },
+  "2038": {
+    "id": 2038,
+    "title": "Designing User Interfaces with Android Studio and ConstraintLayout",
+    "description": "This talk will present new and current design tools in Android Studio, allowing you to easily test and create User Interfaces. We will also cover various use cases of ConstraintLayout, an unbundled, flexible and efficient layout manager, and show you how to take advantage of both this library and the design tools to quickly create modern UI and animations for your mobile application.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "mobile",
+    "language": "en",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2648
+    ]
+  },
+  "2040": {
+    "id": 2040,
+    "title": "Debugging Go programs with Delve",
+    "description": "Debugging Go can be a difficult task, especially with traditional debuggers such as 'gdb' or 'lldb'. The language has a lot of powerful features which while incredibly useful, can make debugging tough problems tricky. In this talk I will begin by introducing Delve, a Go-specific debugger. Following the introduction I will discuss what makes Go different from other languages, how Delve is different from other debuggers, how it works, and how you can use it to debug your own Go programs.\n\nTo explain what makes Go different from other languages, I will take a deep dive into the Go runtime, and other aspects of Go that set it apart and, consequently, can make it difficult to debug. From there I will explain the internals of Delve and how it works under the hood. Finally, I'll talk through how to use Delve to help fix difficult bugs in your own Go code.\n\nThis talk will be very beneficial for beginner to expert Go programmers.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "cloud",
+    "language": "en",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2671
+    ]
+  },
+  "2043": {
+    "id": 2043,
+    "title": "Faire du Machine Learning sans Data Scientist",
+    "description": "Le succès du machine learning passera par une démocratisation de son utilisation. Ceci ne pourra pas se faire si les techniques actuelles ne deviennent pas plus accessibles et que ces technologies restent une affaire de spécialistes.\nCette présentation issus de nombreux retour d'expériences expliquera comment il faut s'y prendre pour repenser le métier de son entreprise en s'appuyant sur du machine learning sans pour autant sombrer dans les difficultés théoriques.",
+    "type": "quicky",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      282
+    ]
+  },
+  "2048": {
+    "id": 2048,
+    "title": "On the path to WebAR",
+    "description": "WebAR is coming! And some will argue it's already here. Developing augmented reality on the web can sound very complex. We have developed a way to make it easy for anyone to do AR - and we want to share it with you! In this talk, we will take you through what WebAR is, what are its possibilities, and its challenges. We will also look at other efforts that exist, and share some demos made with AR.js, our open-source solution to do efficient augmented reality on the web.",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "web",
+    "language": "en",
+    "tags": [
+      "Web",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2721,
+      2749
+    ]
+  },
+  "2051": {
+    "id": 2051,
+    "title": "Robot collaboratif IIWA : REX d'un développeur Java SI de son expérience dans l'industrie 4.0",
+    "description": "En tant que développeur Java orienté système d'information j'ai eu la chance de travailler 6 mois avec la société Kuka sur le premier **robot collaboratif industriel, l'IIWA**.\n\n![IIWA](https://bit.ly/2wm5ZVf) \n\nCe retour d’expérience aura pour but d'expliquer :\n- les principes fondamentaux des **cinématiques robot** (asservissement par position et par effort, etc.)\n- les problématiques des développeurs roboticiens et la démystification de la **programmation robotique en Java**\n- les **enjeux de l'industrie 4.0** qui cherche à se rapprocher des pratiques des Systèmes d'Information \n\n**Alors partons à la rencontre de ce secteur qui aujourd'hui à besoin de notre expérience et pourtant a beaucoup à nous apprendre**.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2587,
+      2765
+    ]
+  },
+  "2056": {
+    "id": 2056,
+    "title": "Ma première application Android en Kotlin",
+    "description": "Apprendre à utiliser Kotlin pour faire une application Android de gestion de collection de bande dessinées (ceci est un alibi). Kotlin, un nouveau langage issu principalement des développeurs de JetBrains, qui est officiellement supporté sur la plate-forme Android.\n\nL'objectif du codelab est de réaliser cette application Android en apprenant les bases de ce nouveau langage et son intégration à l'écosystème Android.\n\nPrérequis, avoir installé sur son ordinateur portable Android Studio 3.0",
+    "type": "codelab",
+    "track": {
+      "title": "Les machines"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Codelab"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2693
+    ]
+  },
+  "2061": {
+    "id": 2061,
+    "title": "Libérée! Délivrée! ou Comment devenir développeuse open source ?",
+    "description": "On parle de diversité, un peu partout dans les communautés open source maintenant mais pour la plupart cela se résume à avoir un code of conduct. C’est loin d’être suffisant! Et si on regardait ce que l’on peut faire pour s’ouvrir aux gens de tous horizons ? Dans les entreprises ? Au sein des projets open source ? Et si vous veniez comprendre comment j’en suis arrivée à devenir développeuse de logiciels libres ? Ce talk est un retour d’expérience sur quand, pourquoi et comment je suis tombée dans l’open source. Et finalement pourquoi j’ai décidé de continuer dans cette voie.",
+    "type": "quicky",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Quickie"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2742,
+      5004
+    ]
+  },
+  "2064": {
+    "id": 2064,
+    "title": "Android Architecture Components, une nouvelle façon de faire des applis Android",
+    "description": "Tous les développeurs Android se sont retrouvés confrontés aux mêmes problèmes : complexité du cycle de vie des Fragments et des Activités ; couplage fort entre l'UI, le modèle et le contrôleur qui rend le code difficilement maintenable et testable ; ou encore verbosité et développement non-objet des bases de données natives Android.\nNombre de solutions tierces ont été mises au point par la communauté pour palier à ces problèmes et aujourd'hui, des bibliothèques comme Dagger, Realm ou EventBus sont largement utilisées dans les applications professionnelles.\nAndroid Architecture Components, développé directement par les équipes Android, prend en compte tous les soucis inhérents à l'architecture de base d'Android et propose une solution élégante et extrêmement bien intégrée pour les résoudre.\nBasée sur 4 grands composants interopérables : Lifecycle, LiveData, ViewModel et Room, cette architecture permet de découpler les briques de code afin de créer du code maintenable, extensible et testable. Les Activités ne sont finalement plus que chargées de modifier l'UI, alors que le modèle de données est maintenu en mémoire et facilement partageable entre les éléments graphiques. Enfin, la persistence devient aisée grâce à l'ORM Room qui surcouche le connecteur SQLite natif.\nNous vous proposons de passer en revue ces éléments, de montrer comment il est facile de les intégrer dans les applis, et de prouver en quoi ils permettent de produire des applis plus performantes.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "mobile",
+    "language": "fr",
+    "tags": [
+      "Mobile",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2495
+    ]
+  },
+  "2074": {
+    "id": 2074,
+    "title": "La place du numérique dans l'hôpital de demain",
+    "description": "Parce que même les super-héros ont parfois besoin d'être soignés, le CHU de Nantes est en train de concevoir son hôpital du futur.\nMais qu'est ce que ça veut dire ? Une intelligence artificielle qui ferait passer Dr House pour un stagiaire ? Des robots qui veillent sur les patients ? Des smartphones pour diagnostiquer les problèmes ? Comment garder le coté humain dans un hôpital numérique ?\nVoici un extrait des questions auxquelles les équipes du CHU doivent répondre.\nNous vous proposons un aperçu de ce qui vous attend dans 10 ans sur l'Ile de Nantes",
+    "type": "talk",
+    "track": {
+      "title": "Belem"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      2757,
+      2741
+    ]
+  },
+  "2080": {
+    "id": 2080,
+    "title": "L'UX a sauvé mon DevOps",
+    "description": "Elle s’appelle UX, lui s’appelle Devops.  \nIls sont amoureux mais sont au coeur de disputes entre deux familles rivales tels les Capulet et les Montaigu.  \nElle partage beaucoup de points communs avec lui :\n   - Ils ne voient jamais un projet dans son intégralité.\n   - Les deux sont des concepts émergeants des années 2010 au sein de l’IT.\n   - Ils sont tous les deux au centre des équipes et servent de liant entre les développeurs.\nMais malgré tout, tout les sépare !  \n  \nCependant, les choses ont changé et les meurs ont évolué.  \n  \nUn jour, alors que notre Devops tentait en vain de convaincre sa hiérarchie, de désespoir, il se tourna vers UX et pria pour son assistance.  Ce qu’il vit alors l’enchanta et il compris … Ses faiblesses étaient ses forces et il pouvait lui apporter autant.  \nSon idéation était semblable à son automatisation.  \nQuand il lui parlait de Scale, elle comprenait même si ce n’était pas la même chose (analytics scale) et leurs objectifs étaient beaucoup trop semblables pour que ce soit une coincidence …  \n  \nVenez voir l’histoire d’amour la plus improbable des ces 10 dernières années !",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      191,
+      2759
+    ]
+  },
+  "2088": {
+    "id": 2088,
+    "title": "Les API gateway avec Kong",
+    "description": "Nous vous présenterons comment nous avons mis en place Kong comme API Gateway en front d’une architecture micro-service et pourquoi il nous change la vie ! Nous ferons un retour d'experience sur notre API et notamment la capacité à scaler jusqu'à des dizaines de millions de requêtes par jour.",
+    "type": "talk",
+    "track": {
+      "title": "Graslin"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2764
+    ]
+  },
+  "2094": {
+    "id": 2094,
+    "title": "The great SOA migration",
+    "description": "How did Uber go from a 300,000 lines monolithic Python application to a service oriented architecture with more than 1,000 microservices? We will go through both technical, cultural, and management aspects of the migration which took about five years.",
+    "type": "quicky",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "cloud",
+    "language": "en",
+    "tags": [
+      "Cloud",
+      "Quickie"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2547
+    ]
+  },
+  "2099": {
+    "id": 2099,
+    "title": "La blockchain du crétacé à l'an 3000",
+    "description": "Venez découvrir la blockchain, son histoire et son actualité dans une conférence un peu décalée, visant à vulgariser cette technologie qui fait souvent un peu peur.\n\nVous apprendrez tout sur la genèse de la blockchain, quel impact ça a eu sur les dinosaures,  comment ça fonctionne, à quoi ça sert maintenant et qu'est-ce qu'on en fera en l'an 3000.\n\nVous en sortirez galvanisé et prêt à investir vos économies de toute une vie pour tenter de devenir riche en boursicotant sur les crypto-monnaies.\n\nSi vous ne devez voir qu’une conf dans votre vie…bon choisissez p’tet autre chose, mais elle reste bien quand même !",
+    "type": "talk",
+    "track": {
+      "title": "Titan"
+    },
+    "category": "discovery",
+    "language": "fr",
+    "tags": [
+      "Discovery",
+      "Conference"
+    ],
+    "complexity": "Beginner",
+    "speakers": [
+      568
+    ]
+  },
+  "2107": {
+    "id": 2107,
+    "title": "DDD & Event Sourcing à la rescousse pour implémenter la GDPR ?",
+    "description": "La General Data Protection Regulation (GDPR) est le nouveau dispositif légal pour la protection des données en Europe, qui entrera en vigueur le 25 mai 2018.\nDurant ce retour d'expérience, nous introduirons les grands principes de ce dispositif, tels que le consentement explicite, la portabilité de la donnée, etc. Nous présenterons également les notions d'anonymisation, de pseudonymisation, et de durée de rétention des données, ainsi que d'autres standards nécessaires pour se conformer à la nouvelle réglementation. \nUne fois le problème présenté, nous vous montrerons comment le Domain Driven Design et les patterns compatibles, tel qu'Event Sourcing nous ont aidés à appréhender les changements les plus importants pour les SI, résultant de l'application de la GDPR.",
+    "type": "talk",
+    "track": {
+      "title": "Bretagne"
+    },
+    "category": "cloud",
+    "language": "fr",
+    "tags": [
+      "Cloud",
+      "Conference"
+    ],
+    "complexity": "Intermediate",
+    "speakers": [
+      2760,
+      911
+    ]
+  }
 }
