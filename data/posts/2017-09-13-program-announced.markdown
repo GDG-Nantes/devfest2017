@@ -10,8 +10,8 @@ Sachez que cette année, le DevFest Nantes 2017 c’est :
 	* 16 Quickies
 	* 6 Codelabs
 	* 2 Keynotes
-* 30% du contenu en Anglais et le reste en Français
-* 2 zones de rediffusion en cas de salles trop pleines ;)
+	* 30% du contenu en Anglais et le reste en Français
+	* 2 zones de rediffusion en cas de salles trop pleines ;)
 * 1 After-Party sponsorisé
 * 1400 participants pour le moment :)
 
