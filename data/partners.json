@@ -178,6 +178,12 @@
       "url": "https://github.com/",
       "logoUrl": "../images/logos/github.png",
       "width": 220
+    },
+    {
+      "name": "Aspose",
+      "url": "https://www.aspose.com/",
+      "logoUrl": "../images/logos/aspose.png",
+      "width": 220
     }
   ]
 }, {
