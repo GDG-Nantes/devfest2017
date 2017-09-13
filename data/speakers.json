@@ -1109,6 +1109,10 @@
     "tags": ["Cloud"],
     "badges": [],
     "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/d3in"
+      },{
       "icon": "github",
       "name": "Github",
       "link": "https://github.com/charlax/"
