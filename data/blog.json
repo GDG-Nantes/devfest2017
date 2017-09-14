@@ -33,5 +33,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/cfp-closed.jpg",
     "brief": "Merci à toutes les personnes qui ont posté un sujet dans le CFP."
+  },
+  {
+    "id": "program-announced",
+    "title": "Guide du Dev-Hero : Chapitre 5",
+    "posted": "2017-09-13",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/program-announced.jpg",
+    "brief": "Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2017 est disponible "
   }
 ]
