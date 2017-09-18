@@ -136,7 +136,7 @@
   },
   "1629": {
     "id": 1629,
-    "title": "Angular (2) et performances",
+    "title": "Angular et performances",
     "description": "Il nous aura fallu attendre 2 ans pour avoir cette nouvelle version du fameux framework de Google. L'objectif est ambitieux: devenir le framework front le plus performant. Nous vous proposons de naviguer sur un projet Angular pour comprendre ce qui le rend plus rapide. Nous parlerons de ce qui est proposé en natif (détection du changement, lazy loading et pre loading, compilation...) mais aussi de ce que vous pouvez mettre en place (compilation AOT, tree shaking, universal...)",
     "type": "talk",
     "track": {
@@ -463,7 +463,7 @@
   },
   "1837": {
     "id": 1837,
-    "title": "Ok Google, is there any presentations about ChatBots?",
+    "title": "Ok Google, is there any presentation about ChatBots?",
     "description": "Ever wanted to build a chatbot? What if you could use a voice assistant to manage your agenda for the conference? Know if there are any presentations on Machine Learning, or Docker, or your favorite programming language? Find out more about a speaker...etc.\n\nIn this session, we will look at how to build our own voice assistant, using Google Cloud's natural speech and voice recognition APIs with API.AI services, and Google Cloud Functions to implement Necessary business logic.\n\nGrab some popcorn and enjoy!",
     "type": "talk",
     "track": {
