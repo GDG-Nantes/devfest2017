@@ -944,7 +944,7 @@
     "company": "SOAT",
     "companyLogo": "/images/logos/soat.svg",
     "country": "France",
-    "photoUrl": "/images/speakers/Ouadie_lahdioui.png",
+    "photoUrl": "/images/speakers/Ouadie_lahdioui.jpg",
     "shortBio": "Développeur passionné par les challenges techniques de toutes sortes, Ouadie intervient en tant que consultant IT chez SOAT sur des missions diverses et variées, il s’est construit d'une forte expérience dans écosystèmes Java et JavaScript ainsi qu'une conviction sur les pratiques agiles et l'artisanat logiciel",
     "bio": "Développeur passionné par les challenges techniques de toutes sortes, Ouadie intervient en tant que consultant IT chez SOAT sur des missions diverses et variées, il s’est construit d'une forte expérience dans écosystèmes Java et JavaScript ainsi qu'une conviction sur les pratiques agiles et l'artisanat logiciel. Il accompagne aujourd’hui ses clients dans la mise en place des ChatBots et les techniques de l'intelligence artificielle, il contribue régulièrement au projet open source [Botkit](https://github.com/howdyai/botkit/graphs/contributors).",
     "tags": ["Alexa", "Cloud"],
