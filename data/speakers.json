@@ -1109,10 +1109,10 @@
     "tags": ["Cloud"],
     "badges": [],
     "socials": [{
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/d3in"
-      },{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/d3in"
+    }, {
       "icon": "github",
       "name": "Github",
       "link": "https://github.com/charlax/"
@@ -1404,7 +1404,7 @@
     "photoUrl": "/images/speakers/Hugo_Mougard.jpg",
     "shortBio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte",
     "bio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte. Dans son temps libre, il est formateur au sein de ML Week.",
-    "tags": ["Machine Learning"],
+    "tags": ["Machine Learning", "Cloud"],
     "badges": [],
     "socials": [{
       "icon": "github",
