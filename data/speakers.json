@@ -11,7 +11,7 @@
     "tags": ["Tensor Flow", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -124,7 +124,7 @@
     "tags": ["Cloud", "Machine Learning", "GAE"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -167,7 +167,7 @@
     "tags": ["Typescript", "NodeJS", "Web"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -193,7 +193,7 @@
     "tags": ["Design", "UX", "Discovery"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -282,12 +282,12 @@
     "companyLogo": "/images/logos/sfeir.png",
     "country": "France",
     "photoUrl": "/images/speakers/cyril_balit.jpg",
-    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web",
-    "bio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
+    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web",
+    "bio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
     "tags": ["Angular", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -334,10 +334,13 @@
     "name": "Gautier Mechling",
     "country": "France",
     "photoUrl": "/images/speakers/Gautier_Mechling.jpg",
-    "shortBio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier",
-    "bio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier. Depuis, il est Scrum master certifié (enfin c'est ce qu'il croit)",
+    "shortBio": "Développeur Android de jour, et chasseur de reptiliens la nuit.",
+    "bio": "Développeur Android de jour, et chasseur de reptiliens la nuit. Google Developer Expert IoT.",
     "tags": ["Android", "IoT"],
-    "badges": [],
+    "badges": [{
+      "name": "GDE",
+      "description": "Google Developer Expert"
+    }],
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
@@ -390,7 +393,7 @@
     "tags": ["GAE", "Assistant", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -518,7 +521,7 @@
     "tags": ["Angular", "Assistant", "Cloud"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -540,7 +543,7 @@
     "country": "France",
     "photoUrl": "/images/speakers/Sylvain_LEQUEUX.jpg",
     "shortBio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java",
-    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developper. Sylvain est également passionné par le craftsmanship.",
+    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developer. Sylvain est également passionné par le craftsmanship.",
     "tags": ["Tensor Flow", "Android", "Mobile"],
     "badges": [],
     "socials": [{
@@ -824,7 +827,7 @@
     "tags": ["Discovery", "Games", "Mobile SDK"],
     "badges": [{
       "name": "GDG",
-      "description": "Google Developper Group"
+      "description": "Google Developer Group"
     }],
     "socials": [{
         "icon": "twitter",
@@ -901,7 +904,7 @@
     "tags": ["Tango", "Android", "Mobile"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1130,7 +1133,7 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1206,7 +1209,7 @@
     "tags": ["Cloud", "MicroServices"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1237,7 +1240,7 @@
     "tags": ["Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1289,7 +1292,7 @@
     "tags": ["Android", "Mobile", "Discovery"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -1361,7 +1364,7 @@
     "tags": ["CSS", "HTML5", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1714,8 +1717,8 @@
     "companyLogo": "/images/logos/chu.png",
     "country": "France",
     "photoUrl": "/images/speakers/default.jpg",
-    "shortBio": "Lead Developper pour le CHU Nantes",
-    "bio": "Lead Developper pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
+    "shortBio": "Lead Developer pour le CHU Nantes",
+    "bio": "Lead Developer pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
     "tags": ["Discovery"],
     "badges": [],
     "socials": []
@@ -1875,7 +1878,7 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",

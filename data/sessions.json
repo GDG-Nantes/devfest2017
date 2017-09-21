@@ -194,8 +194,8 @@
   },
   "1655": {
     "id": 1655,
-    "title": "Découvrir Android Things, et exterminer les reptiliens",
-    "description": "Que vous y croyez ou non, les reptiliens sont partout, et on n'a jamais été vraiment prêt à pouvoir les affronter.  \nOn **N'ÉTAIT** pas prêt... Mais maintenant qu'*Android Things* est sorti, ils vont moins faire les malins, vous allez voir.  \n\nC'est sûr que, lorsqu'on a enfin réussi à faire des applications pour mobile qui déchirent, ça les dérangeait pas trop, eux... Mais maintenant qu'on peut utiliser la puissance d'Android pour créer des objets physiques, on va moins les entendre.\n\nEnsemble, nous allons découvrir Android Things, et voir comment nous pouvons créer une machine se déplaçant, et permettant de détecter les reptiliens (avec des capteurs tactiles, de température, et du machine learning), mais aussi permettant de les exterminer (d'ailleurs si les orgas pouvaient me prêter un lance flamme, ça ferait une super démo).\n\nComment ? Avec un Raspberry Pi, un Arduino, et en découvrant et utilisant toutes les APIs spécifiques à Android Things : gpio, pwm, i2c, spi, uart, permettant d’interagir avec des composants du monde réel (enfin, \"réel\", vous m'avez compris...).\n\nCe talk est d'utilité publique, et pour tout niveau.  \nSi *ahaha* vous pensez qu'on est *ahah*  dans la conspiration, venez quand même ça peut toujours vous être utile.  \n*ahahah conspiration ahahaha*",
+    "title": "Utiliser Android Things pour détecter et exterminer les reptiliens",
+    "description": "Ensemble, nous allons découvrir Android Things, et voir comment nous pouvons créer une machine capable de détecter et d'exterminer les reptiliens, avec des capteurs et du machine learning.\n\nComment ? À l'aide d'un Raspberry Pi, d'un Arduino, et en utilisant les APIs existantes d'Android, couplées aux nouvelles APIs apportées par Android Things nous permettant de communiquer avec des périphériques externes via GPIO, PWM, I²C, et autres.\n\nD'ailleurs, si les orgas pouvaient me prêter un lance-flamme, ça ferait une super démo.",
     "type": "talk",
     "track": {
       "title": "Graslin"
