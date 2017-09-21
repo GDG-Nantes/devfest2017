@@ -11,7 +11,7 @@
     "tags": ["Tensor Flow", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -124,7 +124,7 @@
     "tags": ["Cloud", "Machine Learning", "GAE"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -167,7 +167,7 @@
     "tags": ["Typescript", "NodeJS", "Web"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -193,7 +193,7 @@
     "tags": ["Design", "UX", "Discovery"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -287,7 +287,7 @@
     "tags": ["Angular", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -339,7 +339,7 @@
     "tags": ["Android", "IoT"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -393,7 +393,7 @@
     "tags": ["GAE", "Assistant", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -521,7 +521,7 @@
     "tags": ["Angular", "Assistant", "Cloud"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -543,7 +543,7 @@
     "country": "France",
     "photoUrl": "/images/speakers/Sylvain_LEQUEUX.jpg",
     "shortBio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java",
-    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developper. Sylvain est également passionné par le craftsmanship.",
+    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developer. Sylvain est également passionné par le craftsmanship.",
     "tags": ["Tensor Flow", "Android", "Mobile"],
     "badges": [],
     "socials": [{
@@ -827,7 +827,7 @@
     "tags": ["Discovery", "Games", "Mobile SDK"],
     "badges": [{
       "name": "GDG",
-      "description": "Google Developper Group"
+      "description": "Google Developer Group"
     }],
     "socials": [{
         "icon": "twitter",
@@ -904,7 +904,7 @@
     "tags": ["Tango", "Android", "Mobile"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1133,7 +1133,7 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1209,7 +1209,7 @@
     "tags": ["Cloud", "MicroServices"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1240,7 +1240,7 @@
     "tags": ["Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1292,7 +1292,7 @@
     "tags": ["Android", "Mobile", "Discovery"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -1364,7 +1364,7 @@
     "tags": ["CSS", "HTML5", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1717,8 +1717,8 @@
     "companyLogo": "/images/logos/chu.png",
     "country": "France",
     "photoUrl": "/images/speakers/default.jpg",
-    "shortBio": "Lead Developper pour le CHU Nantes",
-    "bio": "Lead Developper pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
+    "shortBio": "Lead Developer pour le CHU Nantes",
+    "bio": "Lead Developer pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
     "tags": ["Discovery"],
     "badges": [],
     "socials": []
@@ -1878,7 +1878,7 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
