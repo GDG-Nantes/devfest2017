@@ -334,10 +334,13 @@
     "name": "Gautier Mechling",
     "country": "France",
     "photoUrl": "/images/speakers/Gautier_Mechling.jpg",
-    "shortBio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier",
-    "bio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier. Depuis, il est Scrum master certifié (enfin c'est ce qu'il croit)",
+    "shortBio": "Développeur Android de jour, et chasseur de reptiliens la nuit.",
+    "bio": "Développeur Android de jour, et chasseur de reptiliens la nuit. Google Developer Expert IoT.",
     "tags": ["Android", "IoT"],
-    "badges": [],
+    "badges": [{
+      "name": "GDE",
+      "description": "Google Developper Expert"
+    }],
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
