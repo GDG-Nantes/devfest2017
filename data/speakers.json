@@ -282,8 +282,8 @@
     "companyLogo": "/images/logos/sfeir.png",
     "country": "France",
     "photoUrl": "/images/speakers/cyril_balit.jpg",
-    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web",
-    "bio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
+    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web",
+    "bio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
     "tags": ["Angular", "Web"],
     "badges": [{
       "name": "GDE",
