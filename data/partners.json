@@ -235,6 +235,12 @@
       "url": "https://www.stereolux.org/",
       "logoUrl": "../images/logos/stereolux.png",
       "width": 180
+    },
+    {
+      "name": "SpeechLess Live",
+      "url": "http://speechlesslive.com/",
+      "logoUrl": "../images/logos/Speechless_Logo.png",
+      "width": 180
     }
   ]
 }]
