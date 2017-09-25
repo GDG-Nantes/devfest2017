@@ -794,15 +794,15 @@
   },
   "1937": {
     "id": 1937,
-    "title": "Keynote de fermeture",
+    "title": "SpeechLess Live @ Nantes",
     "image": "/images/backgrounds/keynote.jpg",
-    "description": "Description à venir bientôt",
+    "description": "SpeechLess Live a été créé dans la Silicon Valley et s'exporte maintenant dans le monde il s'agira donc d'une grande première en France. L'objectif est simple : faire s'affronter des speakers dans un exercice d'improvisation ! Cette session est donc avant tout une performance et un bon moyen de se détendre après une journée de conférences techniques.",
     "type": "talk",
     "track": {
       "title": "Titan"
     },
     "category": "discovery",
-    "language": "fr",
+    "language": "en",
     "tags": [
       "Discovery",
       "Conference"
