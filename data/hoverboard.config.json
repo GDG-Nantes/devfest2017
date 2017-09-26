@@ -334,7 +334,7 @@
   "hotelText": "hotel-text",
   "hotels" : [
     {
-      "name": "Hôtel Residhome",
+      "name": "Hôtel Resid'Home",
       "adress": "3 allée Jacques Berque",
       "city": "44000 Nantes",
       "mapUrl": "https://www.google.fr/maps/place/Residhome+Nantes+Berges+de+la+Loire/@47.2122877,-1.5388464,15z/data=!4m2!3m1!1s0x0:0x2b56e1873da0f956",
