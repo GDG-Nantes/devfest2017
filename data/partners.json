@@ -184,6 +184,12 @@
       "url": "https://www.aspose.com/",
       "logoUrl": "../images/logos/aspose.png",
       "width": 220
+    },
+    {
+      "name": "Saagie",
+      "url": "https://www.saagie.com/",
+      "logoUrl": "../images/logos/saagie.svg",
+      "width": 220
     }
   ]
 }, {
