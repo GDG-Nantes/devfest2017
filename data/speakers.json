@@ -989,13 +989,13 @@
   },
   "2386": {
     "id": 2386,
-    "name": "Peggy Aufray",
+    "name": "Peggy Auffray",
     "company": "U GIE IRIS",
     "companyLogo": "/images/logos/systemeu.png",
     "country": "France",
     "photoUrl": "/images/speakers/Peggy_AUFFRAY.jpg",
-    "shortBio": "Directeur de projets Innovation à U GIE IRIS\n\nParticipant au développement de la stratégie d’innovation, je pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…)",
-    "bio": "Directeur de projets Innovation à U GIE IRIS\n\nParticipant au développement de la stratégie d’innovation, je pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…). Je coordonne des expérimentations innovantes dans le large terrain de jeux qu’offre le Groupement U.",
+    "shortBio": "Peggy Auffray est directrice de projets Innovation à U GIE IRIS",
+    "bio": "Peggy Auffray est directrice de projets Innovation à U GIE IRIS. Participant au développement de la stratégie d’innovation, elle pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…). Elle coordonne des expérimentations innovantes dans le large terrain de jeux qu’offre le Groupement U.",
     "tags": ["Discovery"],
     "badges": [],
     "socials": [{
@@ -1921,5 +1921,28 @@
     "tags": [],
     "badges": [],
     "socials": []
+  },
+  "5006": {
+    "id": 5006,
+    "name": "Pierre Legendre",
+    "company": "U GIE IRIS",
+    "companyLogo": "/images/logos/systemeu.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Pierre_LEGENDRE.jpg",
+    "shortBio": "Pierre est chef de projet expérimenté chez U GIE IRIS, spécialiste du e-commerce alimentaire",
+    "bio": "Pierre est chef de projet expérimenté chez U GIE IRIS, spécialiste du e-commerce alimentaire. Il s'inscrit aujourd'hui dans l'esprit d'innovation d'U GIE IRIS. et a lancé, en 2017, un projet d'assistance à la préparation en Drive dans le cadre du Lab interne. L'esprit collaboratif et d'intrapreneuriat porté par l'équipe a séduit la direction et les salariés. Prochaine étape : convaincre les magasins.",
+    "tags": ["Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/pielegendre"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/pierre-legendre-9b2418/"
+      }
+    ]
   }
 }
