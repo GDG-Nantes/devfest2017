@@ -59,8 +59,8 @@
   "title": "after-partner",
   "logos": [{
     "name": "U GIE-IRIS",
-    "url": "http://www.viadeo.com/fr/company/u-gie-iris/",
-    "logoUrl": "../images/logos/systemeu.png",
+    "url": "hhttp://ugieiris.fr/",
+    "logoUrl": "../images/logos/systemeu.jpg",
     "width": 250
   }]
 }, {
@@ -160,6 +160,36 @@
       "url": "https://www.fr.sogeti.com/",
       "logoUrl": "../images/logos/sogeti.png",
       "width": 220
+    },
+    {
+      "name": "Sparklane",
+      "url": "https://www.sparklane-group.com/",
+      "logoUrl": "../images/logos/sparklane.jpg",
+      "width": 220
+    },
+    {
+      "name": "TheTribe",
+      "url": "http://thetribe.io/",
+      "logoUrl": "../images/logos/thetribe.png",
+      "width": 220
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/",
+      "logoUrl": "../images/logos/github.png",
+      "width": 220
+    },
+    {
+      "name": "Aspose",
+      "url": "https://www.aspose.com/",
+      "logoUrl": "../images/logos/aspose.png",
+      "width": 220
+    },
+    {
+      "name": "Saagie",
+      "url": "https://www.saagie.com/",
+      "logoUrl": "../images/logos/saagie.svg",
+      "width": 220
     }
   ]
 }, {
@@ -186,6 +216,36 @@
       "name": "Editions ENI",
       "url": "http://www.editions-eni.fr/",
       "logoUrl": "../images/logos/editions-eni.png",
+      "width": 180
+    },
+    {
+      "name": "Billetweb",
+      "url": "https://www.billetweb.fr/",
+      "logoUrl": "../images/logos/billetweb.png",
+      "width": 180
+    },
+    {
+      "name": "LIUM",
+      "url": "http://www-lium.univ-lemans.fr",
+      "logoUrl": "../images/logos/lium.png",
+      "width": 180
+    },
+    {
+      "name": "Choose Your Boss",
+      "url": "https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2017",
+      "logoUrl": "../images/logos/cyb.png",
+      "width": 180
+    },
+    {
+      "name": "Stéréolux",
+      "url": "https://www.stereolux.org/",
+      "logoUrl": "../images/logos/stereolux.png",
+      "width": 180
+    },
+    {
+      "name": "SpeechLess Live",
+      "url": "http://speechlesslive.com/",
+      "logoUrl": "../images/logos/Speechless_Logo.png",
       "width": 180
     }
   ]

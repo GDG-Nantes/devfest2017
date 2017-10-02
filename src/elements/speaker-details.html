@@ -29,7 +29,26 @@
 
   <template>
 
-    <style include="shared-styles dialog-styles"></style>
+    <style include="shared-styles dialog-styles">
+      .company-logo-container {
+        flex: 1;
+        display: flex;
+      }
+      .company-logo {
+        margin: 0 auto 10px;
+        width: 110px;
+        height: 25px;
+        align-self: center;
+      }
+      @media (min-width: 601px) {
+        .company-logo {
+          margin: 0 auto 10px;
+          width: 220px;
+          height: 50px;
+          align-self: center;
+        }
+      }
+    </style>
 
      <app-header-layout id="scrollHeaderPanel" fullbleed has-scrolling-region>
            <app-header fixed waterfall id="detailsHeader">
@@ -53,12 +72,22 @@
             <div class="photo" style$="background-image: url('[[speaker.photoUrl]]')" hidden$="{{app.isPhoneSize}}"></div>
             <div class="info">
               <h1 class="main-title" hidden$="{{app.isPhoneSize}}">[[speaker.name]]</h1>
-              <div class="meta highlight">[[speaker.company]], [[speaker.country]]</div>
+              <template is="dom-if" if="{{speaker.company}}">
+                <div class="meta highlight">[[speaker.company]], [[speaker.country]]</div>
+              </template>
+              <template is="dom-if" if="{{!speaker.company}}">
+                <div class="meta highlight">[[speaker.country]]</div>
+              </template>
               <div class="meta">
                 <template is="dom-repeat" items="[[speaker.badges]]" as="badge">
                   <a class="badge" href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.description]]</a>
                 </template>
               </div>
+            </div>
+            <div class="company-logo-container">
+              <template is="dom-if" if="{{speaker.companyLogo}}">
+                <iron-image class="company-logo" src="{{speaker.companyLogo}}" sizing="contain"></iron-image>
+              </template>
             </div>
           </div>
         </div>
@@ -153,7 +182,7 @@
           this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();
           HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue('--' + generatedClass));
 
-          if (this.app.isPhoneSize) {
+          if (this.app.isPhoneSize && this.$.scrollHeaderPanel.$.headerBg) {
             this.$.scrollHeaderPanel.$.headerBg.style.background = 'linear-gradient(to top, rgba(0, 0, 0, 0.4) -10%, rgba(0, 0, 0, 0.1) 50%), url(' + this.speaker.photoUrl + ') 0 / cover no-repeat';
           }
           this.updateStyles();
@@ -164,10 +193,10 @@
             this.backdropElement.open();
           }
           this.playAnimation('entry');
-          this.async(function () {
+          /*this.async(function () {
             this.$.scrollHeaderPanel.scroll(1, true);
             this.$.scrollHeaderPanel.notifyResize();
-          });
+          });*/
           HOVERBOARD.Analytics.trackEvent('speaker', 'open details', this.speaker.name);
         },
 

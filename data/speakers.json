@@ -3,6 +3,7 @@
     "id": 101,
     "name": "Yufeng Guo",
     "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
     "country": "USA",
     "photoUrl": "/images/speakers/Yufeng_Guo.png",
     "shortBio": "Yufeng is a Developer Advocate for the Google Cloud Platform",
@@ -10,7 +11,7 @@
     "tags": ["Tensor Flow", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -23,6 +24,7 @@
     "name": "Patrick Chanezon",
     "featured": true,
     "company": "Docker",
+    "companyLogo": "/images/logos/docker.png",
     "country": "USA",
     "photoUrl": "/images/speakers/Patrick_Chanezon.jpg",
     "shortBio": "Chief Developer Advocate, Docker Inc",
@@ -40,6 +42,7 @@
     "name": "Chet Haase",
     "featured": true,
     "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
     "country": "USA",
     "photoUrl": "/images/speakers/Chet_Haase.png",
     "shortBio": "Chet leads the Android UI Toolkit team at Google",
@@ -62,6 +65,7 @@
     "id": 191,
     "name": "Francois Teychene",
     "company": "TabMo",
+    "companyLogo": "/images/logos/tabmo.png",
     "country": "France",
     "photoUrl": "/images/speakers/Francois_Teychene.jpg",
     "shortBio": "Devops la journée, JUG Leader le soir sur Montpellier, j'aime parler et discuter de developpements et surtout de Docker",
@@ -89,6 +93,7 @@
     "id": 227,
     "name": "Emmanuel Demey",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Emmanuel_DEMEY.jpg",
     "shortBio": "Consultant et Formateur Web chez Zenika Lille depuis avril 2015",
@@ -109,16 +114,17 @@
   },
   "282": {
     "id": 282,
-    "name": "Girard Didier",
+    "name": "Didier Girard",
     "country": "France",
     "company": "Sfeir",
+    "companyLogo": "/images/logos/sfeir.png",
     "photoUrl": "/images/speakers/Girard_Didier.jpg",
     "shortBio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
     "bio": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon",
     "tags": ["Cloud", "Machine Learning", "GAE"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -130,6 +136,7 @@
     "id": 328,
     "name": "Christophe Jollivet",
     "company": "Apside",
+    "companyLogo": "/images/logos/apside.png",
     "country": "France",
     "photoUrl": "/images/speakers/Christophe_Jollivet.jpg",
     "shortBio": "Agitateur technique chez Apside",
@@ -152,6 +159,7 @@
     "id": 545,
     "name": "Sébastien Pertus",
     "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
     "country": "France",
     "photoUrl": "/images/speakers/Sébastien_Pertus.jpg",
     "shortBio": "**Evangéliste technique** chez **Microsoft France**",
@@ -159,7 +167,7 @@
     "tags": ["Typescript", "NodeJS", "Web"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -177,14 +185,15 @@
     "id": 546,
     "name": "Michel Rousseau",
     "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
     "country": "France",
-    "photoUrl": "/images/speakers/michel_Rousseau.jpeg",
+    "photoUrl": "/images/speakers/michel_Rousseau.jpg",
     "shortBio": "Passionné par le design et l'UX, je travaille chez Microsoft",
     "bio": "Passionné par le design et l'UX, je travaille chez Microsoft à propager les messages inhérents à ce domaine auprès des développeurs, des décideurs, des startupeurs. Je suis avant tout un créateur de pixels le jour, en 2D, en 3D, en temps réel, en statique ou en dynamique, et destructeur de pixel la nuit, surtout sur les jeux vidéo à la première personne.",
     "tags": ["Design", "UX", "Discovery"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
@@ -194,26 +203,29 @@
   },
   "551": {
     "id": 551,
-    "name": "Julien Corioland",
+    "name": "Pascal Sauliere",
     "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
     "country": "France",
-    "photoUrl": "/images/speakers/JULIEN_CORIOLAND.jpg",
-    "shortBio": "Julien Corioland est développeur et speaker",
-    "bio": "Julien Corioland est développeur et speaker. Après avoir passé 6 ans à travailler en tant que consultant sur des technologies Web et Cloud, il a rejoint Microsoft France en tant qu’évangéliste technique où il accompagne les développeurs dans la prise en main de la plateforme applicative Microsoft Azure et dans la mise en place d’architectures modernes pensées pour le cloud. Retrouvez le sur Twitter @jcorioland ou sur son blog https://aka.ms/jcorioland",
-    "tags": ["Docker", "Kubernetes", "Cloud"],
-    "badges": [{
-      "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
-    }],
+    "photoUrl": "/images/speakers/Pascal_Sauliere.jpg",
+    "shortBio": "Evangéliste technique chez Microsoft France",
+    "bio": "Evangéliste technique chez Microsoft France, Pascal accompagne les clients et communautés sur le cloud et DevOps, avec un penchant pour les architectures, l'automatisation, la sécurité et les solutions open source. A ses heures perdus il anime ITcast, le podcast de l'IT.",
+    "tags": ["Devops", "Cloud", "Azure"],
+    "badges": [],
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/jcorioland"
+        "link": "https://twitter.com/psauliere"
       },
       {
         "icon": "github",
         "name": "Github",
-        "link": "https://github.com/jcorioland"
+        "link": "https://github.com/pascals-msft"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://itcast.io"
       }
     ]
   },
@@ -221,11 +233,12 @@
     "id": 568,
     "name": "Benjamin Fontaine",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/benjamin_fontaine.jpg",
     "shortBio": "Développeur fullstack JEE et web",
     "bio": "Développeur fullstack JEE et web depuis une petite dizaine d'années et passionné de blockchain depuis quelques années, je suis récemment devenu expert technique blockchain pour Zenika Nantes. Je me suis lancé dans une mission d'évangélisation :) pour faire rayonner la connaissance de cette techno (speaker et co-fondateur du meetup blockchain à Nantes, codelab au devoxx et au devfest) qui est à mon sens l'une des plus révolutionnaires à l'heure actuelle.",
-    "tags": ["Discovery", "Blockchain"],
+    "tags": ["Blockchain", "Discovery"],
     "badges": [],
     "socials": [{
         "icon": "twitter",
@@ -243,6 +256,7 @@
     "id": 571,
     "name": "Eric Briand",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Eric_Briand.jpg",
     "shortBio": "Développeur touche à tout depuis plus de 10 ans",
@@ -265,14 +279,15 @@
     "id": 699,
     "name": "Cyril Balit",
     "company": "Sfeir",
+    "companyLogo": "/images/logos/sfeir.png",
     "country": "France",
-    "photoUrl": "/images/speakers/cyril_balit.jpeg",
-    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web",
-    "bio": "Cyril Balit est CTO Front chez SFEIR et Goole Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
+    "photoUrl": "/images/speakers/cyril_balit.jpg",
+    "shortBio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web",
+    "bio": "Cyril Balit est CTO Front chez SFEIR et Google Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Polymer  et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés.",
     "tags": ["Angular", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -290,6 +305,7 @@
     "id": 780,
     "name": "Fabien Juif",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Fabien_JUIF.jpg",
     "shortBio": "Fabien JUIF a baigné dans l’informatique depuis son adolescence",
@@ -316,13 +332,15 @@
   "852": {
     "id": 852,
     "name": "Gautier Mechling",
-    "company": "Unknown",
     "country": "France",
     "photoUrl": "/images/speakers/Gautier_Mechling.jpg",
-    "shortBio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier",
-    "bio": "Il y a fort longtemps, Gautier rencontra Jeff Sutherland, un vieux monsieur, qui lui apprit à faire des avions en papier. Depuis, il est Scrum master certifié (enfin c'est ce qu'il croit)",
+    "shortBio": "Développeur Android de jour, et chasseur de reptiliens la nuit.",
+    "bio": "Développeur Android de jour, et chasseur de reptiliens la nuit. Google Developer Expert IoT.",
     "tags": ["Android", "IoT"],
-    "badges": [],
+    "badges": [{
+      "name": "GDE",
+      "description": "Google Developer Expert"
+    }],
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
@@ -344,6 +362,7 @@
     "id": 911,
     "name": "Guillaume Lours",
     "company": "Saagie",
+    "companyLogo": "/images/logos/saagie.svg",
     "country": "France",
     "photoUrl": "/images/speakers/Guillaume_LOURS.jpg",
     "shortBio": "Developpeur Senior à Saagie",
@@ -366,14 +385,15 @@
     "id": 1028,
     "name": "Guillaume Laforge",
     "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
     "country": "France",
-    "photoUrl": "/images/speakers/Guillaume_Laforge.jpeg",
+    "photoUrl": "/images/speakers/Guillaume_Laforge.jpg",
     "shortBio": "Le jour, Guillaume Laforge est Developer Advocate chez Google",
     "bio": "Le jour, Guillaume Laforge est Developer Advocate chez Google, sur les solutions cloud, et de nuit, il reprends sa casquette de contributeur au projet Apache Groovy. Guillaume est également un des membres du podcast Les Cast Codeurs",
     "tags": ["GAE", "Assistant", "Cloud"],
     "badges": [{
       "name": "Google Advocate",
-      "description": "Google Developper Advocate"
+      "description": "Google Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -396,6 +416,7 @@
     "id": 1120,
     "name": "Jeremie Martinez",
     "company": "TrustBK",
+    "companyLogo": "/images/logos/trustbk.png",
     "country": "France",
     "photoUrl": "/images/speakers/Jeremie_Martinez.jpg",
     "shortBio": "Jérémie travaille aujourd'hui chez TrustBK",
@@ -412,6 +433,7 @@
     "id": 1130,
     "name": "Houssem Belhadj Ahmed",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Houssem_BELHADJ AHMED.jpg",
     "shortBio": "Développeur",
@@ -426,7 +448,7 @@
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/houssemba"
+        "link": "https://github.com/houssemba"
       }
     ]
   },
@@ -434,6 +456,7 @@
     "id": 1131,
     "name": "Mickael Jeanroy",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Mickael_Jeanroy.jpg",
     "shortBio": "Développeur le jour, open-source addict la nuit",
@@ -450,6 +473,7 @@
     "id": 1143,
     "name": "Raphael Goetter",
     "company": "Alsacreations",
+    "companyLogo": "/images/logos/alsacreations.png",
     "country": "France",
     "photoUrl": "/images/speakers/Raphael_Goetter.jpg",
     "shortBio": "Intégrateur du Dimanche, dompteur de CSS et tripoteur de HTML",
@@ -472,11 +496,12 @@
     "id": 1173,
     "name": "Manon Gruaz",
     "company": "ARCBEES",
+    "companyLogo": "/images/logos/arcbees.png",
     "country": "Canada",
     "photoUrl": "/images/speakers/manon_gruaz.jpg",
     "shortBio": "Manon est stratège/designer de Marque et d’interfaces chez Arcbees",
     "bio": "Manon est stratège/designer de Marque et d’interfaces chez Arcbees.\nAventurière de la Marque, elle met l’émotion et le sens au coeur de tous ses travaux. \nElle cherche sans relâche le sens profond dans toutes les choses dans la vie, et définit son travail comme « être à l'intérieur des cerveaux des utilisateurs ». \nGeekette curieuse et entourée au quotidien de développeurs de génie, c’est tout naturellement qu’elle a fusionné son obsession pour la Marque avec son envoûtement par les technologies, tout particulièrement l’intelligence artificielle. \nVoyageuse invétérée et enthousiaste de défis impossibles, elle essaye d’évangéliser chaque développeur et tout autre être vivant qu’elle croise à la Marque et son importance à travers sa précédente conférence : Marc, marque et Marques. C’est avec un humour parfois douteux qu’elle l’a déjà présenté au devFest de Nantes, au GWTcon de Florence et aux soirées UX à Québec. Son mot préféré est Authentique. Née française, élevée en tant que citoyenne du monde, elle est maintenant sarcastique et romantique par choix.",
-    "tags": ["Discovery"],
+    "tags": ["Marketing", "Discovery"],
     "badges": [],
     "socials": [{
       "icon": "twitter",
@@ -488,6 +513,7 @@
     "id": 1222,
     "name": "Wassim Chegham",
     "company": "Sfeir",
+    "companyLogo": "/images/logos/sfeir.png",
     "country": "France",
     "photoUrl": "/images/speakers/Wassim_Chegham.jpg",
     "shortBio": "Wassim (aka manekinekko on Twitter/Github) is a Developer Advocate",
@@ -495,7 +521,7 @@
     "tags": ["Angular", "Assistant", "Cloud"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -513,10 +539,11 @@
     "id": 1233,
     "name": "Sylvain Lequeux",
     "company": "Xebia",
+    "companyLogo": "/images/logos/xebia.png",
     "country": "France",
     "photoUrl": "/images/speakers/Sylvain_LEQUEUX.jpg",
     "shortBio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java",
-    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developper. Sylvain est également passionné par le craftsmanship.",
+    "bio": "Sylvain a 7 ans d'expérience en développement d'applicatif backend, principalement Java. Depuis 2 ans, il s'investit autour des technologies BigData et a rejoint Xebia à ce titre en 2015.\nIl dispense la formation certifiante Cloudera Administrateur et est certifié Cloudera Developer. Sylvain est également passionné par le craftsmanship.",
     "tags": ["Tensor Flow", "Android", "Mobile"],
     "badges": [],
     "socials": [{
@@ -529,6 +556,7 @@
     "id": 1263,
     "name": "Jeff Abrahamson",
     "company": "Jellybooks",
+    "companyLogo": "/images/logos/jellybooks.png",
     "country": "France",
     "photoUrl": "/images/speakers/Jeff_Abrahamson.jpg",
     "shortBio": "Jeff Abrahamson (ré)invente l'analyse de livres électroniques chez Jellybooks",
@@ -543,7 +571,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+JeffAbrahamson"
+        "link": "https://google.com/+JeffAbrahamson"
       },
       {
         "icon": "github",
@@ -556,6 +584,7 @@
     "id": 1439,
     "name": "Sara Harkousse",
     "company": "Dassault Systèmes",
+    "companyLogo": "/images/logos/dassault.png",
     "country": "France",
     "photoUrl": "/images/speakers/Sara_HARKOUSSE.jpg",
     "shortBio": "Sara Harkousse is a Technical Lead, front-end Web developer at Dassault Systèmes",
@@ -578,6 +607,7 @@
     "id": 1497,
     "name": "Vincent Piard",
     "company": "SQLI",
+    "companyLogo": "/images/logos/sqli.png",
     "country": "France",
     "photoUrl": "/images/speakers/Vincent_PIARD.jpg",
     "shortBio": "Biberonné aux joies du Cobol, engraissé aux compotes Php, gavé de Java, sustenté aux sucreries C#, repu au Flex et finalement dernièrement nourri en intraveineuse de JS, je me délecte en ce moment d'IOT",
@@ -600,6 +630,7 @@
     "id": 1557,
     "name": "Guillaume Nicolas",
     "company": "SQLI",
+    "companyLogo": "/images/logos/sqli.png",
     "country": "France",
     "photoUrl": "/images/speakers/Guillaume_NICOLAS.jpg",
     "shortBio": "Depuis longtemps adepte des nouvelles technologies, j'ai découvert récemment le concept de blockchain",
@@ -622,8 +653,9 @@
     "id": 1721,
     "name": "Yoann Benoit",
     "company": "Xebia",
+    "companyLogo": "/images/logos/xebia.png",
     "country": "France",
-    "photoUrl": "/images/speakers/Yoann_Benoit.jpeg",
+    "photoUrl": "/images/speakers/Yoann_Benoit.jpg",
     "shortBio": "Yoann est Data Scientist chez Xebia",
     "bio": "Yoann est Data Scientist chez Xebia, en ayant pour rôle d’implémenter des projets de Data Science de bout en bout, de l’exploration à la mise en production. Il travaille au quotidien avec des technologies autour du Machine Learning, du Deep Learning et du Big Data. Il intervient de plus en tant que formateur sur l’Analyse de Données et le Machine Learning sur Spark.",
     "tags": ["Tensor Flow", "Android", "Mobile"],
@@ -644,6 +676,7 @@
     "id": 1727,
     "name": "Aline Deschamps",
     "company": "DACTA",
+    "companyLogo": "/images/logos/dacta.png",
     "country": "France",
     "photoUrl": "/images/speakers/Aline_Deschamps.jpg",
     "shortBio": "Data Détective au grand cœur, j’aime jouer avec la donnée et tenter de découvrir tous ses secrets bien cachés",
@@ -666,6 +699,7 @@
     "id": 1802,
     "name": "Mickael Debonnaire",
     "company": "APSIDE TOP",
+    "companyLogo": "/images/logos/apside.png",
     "country": "France",
     "photoUrl": "/images/speakers/MICKAEL_DEBONNAIRE.jpg",
     "shortBio": "Lead Developer chez Apside Top à Tours",
@@ -688,6 +722,7 @@
     "id": 1807,
     "name": "Alexis Jacomy",
     "company": "Matlo",
+    "companyLogo": "/images/logos/matlo.png",
     "country": "France",
     "photoUrl": "/images/speakers/Alexis_Jacomy.jpg",
     "shortBio": "Je suis développeur spécialisé dans la visualisation de données sur le web",
@@ -710,6 +745,7 @@
     "id": 1842,
     "name": "Delphine Millet",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Delphine_Millet.jpg",
     "shortBio": "Attirée à la fois par le design et la programmation, c’est tout naturellement que je me suis orientée vers le développement front-end",
@@ -732,6 +768,7 @@
     "id": 1856,
     "name": "Qian Jin",
     "company": "Xebia France",
+    "companyLogo": "/images/logos/xebia.png",
     "country": "France",
     "photoUrl": "/images/speakers/QIAN_JIN.jpg",
     "shortBio": "Android developer, Pythonista, IoT maker",
@@ -754,6 +791,7 @@
     "id": 1996,
     "name": "Alexandre Morgaut",
     "company": "Wiztivi",
+    "companyLogo": "/images/logos/wiztivi.png",
     "country": "France",
     "photoUrl": "/images/speakers/Alexandre_Morgaut.png",
     "shortBio": "Alexandre Morgaut is a Senior Web Architect who contributed to different Web Standards and Web Project developments",
@@ -779,16 +817,17 @@
   },
   "2226": {
     "id": 2226,
-    "name": "Zasadnyy Vitaliy",
+    "name": "Vitaliy Zasadnyy",
     "company": "GetSocial",
+    "companyLogo": "/images/logos/getsocial.png",
     "country": "Ukraine",
     "photoUrl": "/images/speakers/Zasadnyy_Vitaliy.jpg",
     "shortBio": "Vitaliy’s background includes mobile application and game development",
     "bio": "Vitaliy’s background includes mobile application and game development. Nowadays, he is leading the development of the next generation in-app marketing tools at GetSocial. He is a frequent speaker at world class tech conferences and TEDx. Founder of the Google Developers Group Lviv.",
-    "tags": ["Discovery", "SDK"],
+    "tags": ["Discovery", "Games", "Mobile SDK"],
     "badges": [{
       "name": "GDG",
-      "description": "Google Developper Group"
+      "description": "Google Developer Group"
     }],
     "socials": [{
         "icon": "twitter",
@@ -806,6 +845,7 @@
     "id": 2241,
     "name": "Fabien Rassinier",
     "company": "Talend",
+    "companyLogo": "/images/logos/talend.png",
     "country": "France",
     "photoUrl": "/images/speakers/Fabien_RASSINIER.jpg",
     "shortBio": "Développeur front-end chez Talend où il travaille essentiellement avec Angular et React",
@@ -833,6 +873,7 @@
     "id": 2246,
     "name": "Franck Abgrall",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Franck_Abgrall.jpg",
     "shortBio": "Consultant et formateur à Zenika Nantes, Franck est un fan incontesté de JavaScript et de son écosystème",
@@ -855,6 +896,7 @@
     "id": 2248,
     "name": "Etienne Caron-Petit-Pas",
     "company": "Shopify",
+    "companyLogo": "/images/logos/shopify.png",
     "country": "Canada",
     "photoUrl": "/images/speakers/Etienne_Caron-Petit-Pas.jpg",
     "shortBio": "Etienne is a software developer who’s worked on all tiers (server, web, mobile and embedded) of large scale software platforms",
@@ -862,7 +904,7 @@
     "tags": ["Tango", "Android", "Mobile"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -878,8 +920,9 @@
   },
   "2330": {
     "id": 2330,
-    "name": "Pierre-yves Baloche",
+    "name": "Pierre-Yves Baloche",
     "company": "Gfi Informatique",
+    "companyLogo": "/images/logos/gfi.png",
     "country": "France",
     "photoUrl": "/images/speakers/Pierre-yves_Baloche.jpg",
     "shortBio": "Workwise, i'm a solution architect in trendy areas like IOT, ChatBots and most of all, applications for Pepper The Robot (and relatives ;), but as soon as I'm out, beside putting on my super-dad costume at home, I just love to hack around with Raspberry Pi modules and makers toys like 3D printing",
@@ -900,10 +943,11 @@
   },
   "2351": {
     "id": 2351,
-    "name": "Ouadie lahdioui",
+    "name": "Ouadie Lahdioui",
     "company": "SOAT",
+    "companyLogo": "/images/logos/soat.svg",
     "country": "France",
-    "photoUrl": "/images/speakers/Ouadie_lahdioui.png",
+    "photoUrl": "/images/speakers/Ouadie_lahdioui.jpg",
     "shortBio": "Développeur passionné par les challenges techniques de toutes sortes, Ouadie intervient en tant que consultant IT chez SOAT sur des missions diverses et variées, il s’est construit d'une forte expérience dans écosystèmes Java et JavaScript ainsi qu'une conviction sur les pratiques agiles et l'artisanat logiciel",
     "bio": "Développeur passionné par les challenges techniques de toutes sortes, Ouadie intervient en tant que consultant IT chez SOAT sur des missions diverses et variées, il s’est construit d'une forte expérience dans écosystèmes Java et JavaScript ainsi qu'une conviction sur les pratiques agiles et l'artisanat logiciel. Il accompagne aujourd’hui ses clients dans la mise en place des ChatBots et les techniques de l'intelligence artificielle, il contribue régulièrement au projet open source [Botkit](https://github.com/howdyai/botkit/graphs/contributors).",
     "tags": ["Alexa", "Cloud"],
@@ -924,6 +968,7 @@
     "id": 2374,
     "name": "Grégory Bévan",
     "company": "Zenika Nantes",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Grégory_Bévan.jpg",
     "shortBio": "Développeur passionné depuis 14 ans, Grégory est aujourd'hui consultant/formateur chez Zenika Nantes pour mettre à profit son expérience du monde de l'édition de logiciels Web",
@@ -933,7 +978,7 @@
     "socials": [{
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/gregory_b3van"
+        "link": "https://twitter.com/gr3gory_b3van"
       },
       {
         "icon": "github",
@@ -944,12 +989,13 @@
   },
   "2386": {
     "id": 2386,
-    "name": "Peggy Aufray",
+    "name": "Peggy Auffray",
     "company": "U GIE IRIS",
+    "companyLogo": "/images/logos/systemeu.png",
     "country": "France",
     "photoUrl": "/images/speakers/Peggy_AUFFRAY.jpg",
-    "shortBio": "Directeur de projets Innovation à U GIE IRIS\n\nParticipant au développement de la stratégie d’innovation, je pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…)",
-    "bio": "Directeur de projets Innovation à U GIE IRIS\n\nParticipant au développement de la stratégie d’innovation, je pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…). Je coordonne des expérimentations innovantes dans le large terrain de jeux qu’offre le Groupement U.",
+    "shortBio": "Peggy Auffray est directrice de projets Innovation à U GIE IRIS",
+    "bio": "Peggy Auffray est directrice de projets Innovation à U GIE IRIS. Participant au développement de la stratégie d’innovation, elle pilote le “FabLab” interne où les collaborateurs de toute l’entreprise se croisent, développent des projets et s’acculturent aux technologies émergentes mais aussi aux nouvelles façons de faire (créativité, intelligence collective, facilitation…). Elle coordonne des expérimentations innovantes dans le large terrain de jeux qu’offre le Groupement U.",
     "tags": ["Discovery"],
     "badges": [],
     "socials": [{
@@ -960,7 +1006,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+PeggyAuffray"
+        "link": "https://google.com/+PeggyAuffray"
       }
     ]
   },
@@ -968,6 +1014,7 @@
     "id": 2389,
     "name": "James Williams",
     "company": "Udacity",
+    "companyLogo": "/images/logos/udacity.png",
     "country": "USA",
     "photoUrl": "/images/speakers/James_Williams.jpg",
     "shortBio": "James Williams works as the Android Curriculum Lead at Udacity where he shapes the development of Android content for the company",
@@ -982,12 +1029,12 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "google.com/+JamesWilliams"
+        "link": "https://google.com/+JamesWilliams"
       },
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/jwill"
+        "link": "https://github.com/jwill"
       }
     ]
   },
@@ -995,6 +1042,7 @@
     "id": 2487,
     "name": "Steven Watremez",
     "company": "Niji",
+    "companyLogo": "/images/logos/niji.png",
     "country": "France",
     "photoUrl": "/images/speakers/Steven_Watremez.jpg",
     "shortBio": "Steven Watremez est développeur d’application mobile Android et iOS à Niji Rennes",
@@ -1022,8 +1070,9 @@
     "id": 2495,
     "name": "David Fournier",
     "company": "Smart&Soft",
+    "companyLogo": "/images/logos/smart-soft.png",
     "country": "France",
-    "photoUrl": "/images/speakers/David_Fournier.jpeg",
+    "photoUrl": "/images/speakers/David_Fournier.jpg",
     "shortBio": "After a PhD in Computer Science, David Fournier started working for a quantitative optimization software company, making Java applications and softwares to optimize energy consumptions of cities, reduce delays in trains or decrease the number of operations on super tankers",
     "bio": "After a PhD in Computer Science, David Fournier started working for a quantitative optimization software company, making Java applications and softwares to optimize energy consumptions of cities, reduce delays in trains or decrease the number of operations on super tankers. Making Android applications during his past time, he eventually took his chance to develop them as a professional and was hired last year at Smart & Soft where he develop mobile apps on a daily basis.",
     "tags": ["Android", "Mobile"],
@@ -1038,6 +1087,7 @@
     "id": 2519,
     "name": "Pierre Salmon",
     "company": "Asmodée Digital / Days Of Wonder",
+    "companyLogo": "/images/logos/asmodee.png",
     "country": "France",
     "photoUrl": "/images/speakers/Pierre_Salmon.png",
     "shortBio": "Ingénieur passionné de jeux de société et de technologie ancestral comme le C++",
@@ -1054,6 +1104,7 @@
     "id": 2547,
     "name": "Charles-Axel Dein",
     "company": "Uber",
+    "companyLogo": "/images/logos/uber.png",
     "country": "USA",
     "photoUrl": "/images/speakers/Charles-Axel_Dein.jpg",
     "shortBio": "Charles-Axel is an Engineering Manager at Uber and currently leads its Payments Onboarding Platform",
@@ -1061,6 +1112,10 @@
     "tags": ["Cloud"],
     "badges": [],
     "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/d3in"
+    }, {
       "icon": "github",
       "name": "Github",
       "link": "https://github.com/charlax/"
@@ -1070,6 +1125,7 @@
     "id": 2557,
     "name": "Simona Cotin",
     "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
     "country": "England",
     "photoUrl": "/images/speakers/Simona_Cotin.jpg",
     "shortBio": "Communities power Simona up and that’s why she is co-organising the Javascript London meetup",
@@ -1077,7 +1133,7 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1101,7 +1157,7 @@
     "name": "Sébastien Charrier",
     "company": "It Ducks (Ancien de Captain Train)",
     "country": "France",
-    "photoUrl": "/images/speakers/Sébastien_CHARRIER.jpeg",
+    "photoUrl": "/images/speakers/Sébastien_CHARRIER.jpg",
     "shortBio": "Sébastien Charrier est développeur, entrepreneur, musicien et papa",
     "bio": "Sébastien Charrier est développeur, entrepreneur, musicien et papa. Il aime créer des produits simples et efficaces. Après avoir passé deux années dans l'équipe de Capitaine Train, il a décidé de sauter le pas de se lancer dans l'aventure de l'entreprenariat.",
     "tags": ["Discovery"],
@@ -1122,6 +1178,7 @@
     "id": 2572,
     "name": "Erwan Richard",
     "company": "Le Phare",
+    "companyLogo": "/images/logos/lephare.svg",
     "country": "France",
     "photoUrl": "/images/speakers/Erwan_Richard.jpg",
     "shortBio": "Développeur PHP depuis 2006",
@@ -1144,6 +1201,7 @@
     "id": 2578,
     "name": "Alex Van Boxel",
     "company": "Vente-Exclusive.com",
+    "companyLogo": "/images/logos/venteexclusive.png",
     "country": "Belgium",
     "photoUrl": "/images/speakers/Alex_Van Boxel.jpg",
     "shortBio": "Alex is a Google Developer Expert Cloud, polyglot, technology enthusiast and works as Big Data Architect at Vente-Exclusive",
@@ -1151,7 +1209,7 @@
     "tags": ["Cloud", "MicroServices"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1174,6 +1232,7 @@
     "id": 2579,
     "name": "Uri Shaked",
     "company": "BlackBerry",
+    "companyLogo": "/images/logos/blackberry.png",
     "country": "Israel",
     "photoUrl": "/images/speakers/Uri_Uri Shaked.jpg",
     "shortBio": "Uri Shaked is a Google Developer Expert for Web Technologies",
@@ -1181,7 +1240,7 @@
     "tags": ["Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1204,6 +1263,7 @@
     "id": 2587,
     "name": "Maxence Labusquiere",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Maxence_Labusquiere.jpg",
     "shortBio": "Consultant-Formateur chez Zenika ayant travaillé dans de nombreux secteurs comme les banques (BNP), l'énergie (ENEDIS), l'industrie (KUKA) et les télécom (SFR)",
@@ -1226,14 +1286,13 @@
     "id": 2591,
     "name": "Cyril Mottier",
     "country": "France",
-    "company": "Unknown",
-    "photoUrl": "/images/speakers/Cyril_Mottier.jpeg",
+    "photoUrl": "/images/speakers/Cyril_Mottier.jpg",
     "shortBio": "Cyril has been leading and managing several mobile teams in the past",
     "bio": "Cyril has been leading and managing several mobile teams in the past. He is an expert in Android & mobile in general. Passionate about technology and design, Cyril is an avid lover of Android and a multi-skilled engineer. His motto: “Do less, but do it insanely great”",
     "tags": ["Android", "Mobile", "Discovery"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
       "icon": "twitter",
@@ -1245,6 +1304,7 @@
     "id": 2607,
     "name": "Mathieu Calba",
     "company": "LumApps",
+    "companyLogo": "/images/logos/lumapps.png",
     "country": "France",
     "photoUrl": "/images/speakers/Mathieu_Calba.jpg",
     "shortBio": "Mathieu est Lead Android Developer chez LumApps et GDG lead à Lyon avec le GDG Lyon Android",
@@ -1272,6 +1332,7 @@
     "id": 2608,
     "name": "Hubert Sablonnière",
     "company": "OpenDevise",
+    "companyLogo": "/images/logos/opendevise.png",
     "country": "France",
     "photoUrl": "/images/speakers/Hubert_SABLONNIÈRE.jpg",
     "shortBio": "Hubert est passionné par le Web",
@@ -1295,6 +1356,7 @@
     "name": "Rachel Andrew",
     "featured": true,
     "company": "edgeofmyseat.com",
+    "companyLogo": "/images/logos/edgeofmyseat.png",
     "country": "England",
     "photoUrl": "/images/speakers/Rachel_Andrew.jpg",
     "shortBio": "Rachel Andrew is a front and back-end web developer, author and speaker",
@@ -1302,7 +1364,7 @@
     "tags": ["CSS", "HTML5", "Web"],
     "badges": [{
       "name": "GDE",
-      "description": "Google Developper Expert"
+      "description": "Google Developer Expert"
     }],
     "socials": [{
         "icon": "twitter",
@@ -1317,7 +1379,7 @@
       {
         "icon": "github",
         "name": "Github",
-        "link": "github.com/rachelandrew"
+        "link": "https://github.com/rachelandrew"
       }
     ]
   },
@@ -1325,6 +1387,7 @@
     "id": 2625,
     "name": "Audrey Garreau",
     "company": "Yumigo",
+    "companyLogo": "/images/logos/yumigo.png",
     "country": "France",
     "photoUrl": "/images/speakers/Audrey_Garreau.jpg",
     "shortBio": "Audrey est Intégratrice Web senior",
@@ -1344,7 +1407,7 @@
     "photoUrl": "/images/speakers/Hugo_Mougard.jpg",
     "shortBio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte",
     "bio": "Hugo Mougard était doctorant à l’Université de Nantes puis ingénieur R&D dans une startup de Deep Learning avant de monter sa startup en analyse de texte. Dans son temps libre, il est formateur au sein de ML Week.",
-    "tags": ["GraphQL", "VueJS", "Web"],
+    "tags": ["Machine Learning", "Cloud"],
     "badges": [],
     "socials": [{
       "icon": "github",
@@ -1356,6 +1419,7 @@
     "id": 2631,
     "name": "Pierre-Yves Aillet",
     "company": "Zenika",
+    "companyLogo": "/images/logos/zenika.png",
     "country": "France",
     "photoUrl": "/images/speakers/Pierre-Yves_Aillet.jpg",
     "shortBio": "Je travaille dans l’informatique depuis 15 ans sur des technologies variées allant de PHP à Java en passant par Javascript",
@@ -1381,8 +1445,8 @@
     "country": "France",
     "photoUrl": "/images/speakers/Remi_Roche.jpg",
     "shortBio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies",
-    "bio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies. Il accompagne les entreprises soucieuses de réussir leur transformation digitale vers la blockchain. Auteur du livre \"Optimiser sa vie avec le mind map\", il contribue également au développement de l'association Yes Group France.",
-    "tags": ["Crypto", "Discovery"],
+    "bio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies. Il accompagne les entreprises soucieuses de réussir leur transformation digitale (big data, blockchain). Co-auteur du livre \"Mind Mapping Pour être efficace au travail et dans les études\", il contribue également au développement de l'association Yes Group France.",
+    "tags": ["Blockchain", "Discovery"],
     "badges": [],
     "socials": []
   },
@@ -1390,6 +1454,7 @@
     "id": 2647,
     "name": "Sébastien Ravoux",
     "company": "Onepoint",
+    "companyLogo": "/images/logos/onepoint.png",
     "country": "France",
     "photoUrl": "/images/speakers/SEBASTIEN_RAVOUX.jpg",
     "shortBio": "Leader Expertises & Innovations @ Onepoint Atlantique\n17 ans d'expériences dans les technos du web et autres\nJ'anime des équipes d'experts transverses pour développer l'innovation, l'industrialisation, la capitalisation sur des projets de toutes tailles",
@@ -1412,6 +1477,7 @@
     "id": 2648,
     "name": "Nicolas Roard",
     "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
     "country": "USA",
     "photoUrl": "/images/speakers/Nicolas_Roard.jpg",
     "shortBio": "Nicolas worked over the years on various projects at Google, from the HTML5 support in Android Browser, implementing the webview hardware acceleration in Honeycomb, or writing a scalable and non-destructive photo editor in JB/KitKat",
@@ -1426,7 +1492,7 @@
       {
         "icon": "gplus",
         "name": "Google+",
-        "link": "plus.google.com/+NicolasRoard"
+        "link": "https://plus.google.com/+NicolasRoard"
       }
     ]
   },
@@ -1435,6 +1501,7 @@
     "name": "Romain Guy",
     "featured": true,
     "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
     "country": "USA",
     "photoUrl": "/images/speakers/Romain_Guy.jpg",
     "shortBio": "In this session you will discover why your application doesn't look the same across multiple devices and why your designer's mock looks different on your computer",
@@ -1460,8 +1527,9 @@
   },
   "2671": {
     "id": 2671,
-    "name": "Derek Derek Parker",
+    "name": "Derek Parker",
     "company": "CoreOS",
+    "companyLogo": "/images/logos/coreos.png",
     "country": "USA",
     "photoUrl": "/images/speakers/Derek_Derek Parker.jpg",
     "shortBio": "Derek is a Software Engineer at CoreOS hacking on Kubernetes and distributed systems related software",
@@ -1484,7 +1552,6 @@
     "id": 2681,
     "name": "Guillaume Chau",
     "country": "France",
-    "company": "Unknown",
     "photoUrl": "/images/speakers/Guillaume_Chau.jpg",
     "shortBio": "Membre de la Core Team de Vue",
     "bio": "Membre de la Core Team de Vue.js, Guillaume est le créateur d'intégrations avec Meteor ([vue-meteor](https://github.com/Akryum/vue-meteor/)) et Apollo GraphQL ([vue-apollo](https://github.com/Akryum/vue-apollo)) afin d'aider les développeurs à créer des applications Vue avec une forte intéractivité et du temps-réel. Il a également créé l'application vue-curated permettant de trouver les bonnes librairies pour développer une application, et il contribue à l'écosystème avec des outils comme [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) et [vue-supply](https://github.com/Akryum/vue-supply).",
@@ -1506,6 +1573,7 @@
     "id": 2690,
     "name": "Miguel Mathe",
     "company": "Onepoint",
+    "companyLogo": "/images/logos/onepoint.png",
     "country": "France",
     "photoUrl": "/images/speakers/Miguel_MATHE.jpg",
     "shortBio": "Expert sur les technologies Microsoft depuis plus de 10 ans, je me passionne actuellement pour tous les nouveaux types d'interfaces (AR, VR, MR, Robotique) et plus particulièrement sur l'émergence de la réalité mixte grâce au casque Hololens de Microsoft",
@@ -1522,6 +1590,7 @@
     "id": 2693,
     "name": "Stéphane Kermabon",
     "company": "Talend",
+    "companyLogo": "/images/logos/talend.png",
     "country": "France",
     "photoUrl": "/images/speakers/Stephane_Kermabon.jpg",
     "shortBio": "Développeur depuis plus de 20 ans dans le monde Java ou j'ai connue toutes les versions du langage je reste curieux de ce qui tourne autour du Java, que ce soit le front avec Angular et React, ou des autres langages",
@@ -1544,6 +1613,7 @@
     "id": 2719,
     "name": "Olivier Godement",
     "company": "Stripe",
+    "companyLogo": "/images/logos/stripe.png",
     "country": "France",
     "photoUrl": "/images/speakers/Olivier_Godement.jpg",
     "shortBio": "Olivier Godement est en charge des opérations et du développement de Stripe auprès des startups en France et en Europe du Sud",
@@ -1576,6 +1646,7 @@
     "id": 2741,
     "name": "Anthony Gorson",
     "company": "CHU Nantes",
+    "companyLogo": "/images/logos/chu.png",
     "country": "France",
     "photoUrl": "/images/speakers/Anthony_GORSON.jpg",
     "shortBio": "Ingénieur consultant au CHU de Nantes depuis plus d'une année, ayant travaillé dans des secteurs fonctionnellement complexes comme la sécurité informatique en milieu bancaire, j'apporte mon expertise au CHU afin de développer des solutions innovantes pour le futur hôpital numérique",
@@ -1588,11 +1659,12 @@
     "id": 2742,
     "name": "Mélanie Bats",
     "company": "Obeo",
+    "companyLogo": "/images/logos/obeo.png",
     "country": "France",
     "photoUrl": "/images/speakers/Mélanie_Bats.jpg",
     "shortBio": "I am Mélanie Bats and I work as a software developer at Obeo",
     "bio": "I am Mélanie Bats and I work as a software developer at Obeo. In my daily work, I am mainly focused on the development of modeling tools based on Eclipse with Sirius like UML Designer. I am also committer for 2 Eclipse projects: EEF and Sirius. In my free time I am interested in Arduino stuff and contribute some Eclipse plugins for cross compilation like the Buildroot Eclipse plugin. I am also a free software activist who has organized and participated in free software events in the Toulouse area.",
-    "tags": ["Open Stack", "Discovery"],
+    "tags": ["Eclipse", "Discovery"],
     "badges": [],
     "socials": [{
         "icon": "twitter",
@@ -1642,10 +1714,11 @@
     "id": 2757,
     "name": "Yannick Dautcourt",
     "company": "CHU Nantes",
+    "companyLogo": "/images/logos/chu.png",
     "country": "France",
-    "photoUrl": "",
-    "shortBio": "Lead Developper pour le CHU Nantes",
-    "bio": "Lead Developper pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
+    "photoUrl": "/images/speakers/default.jpg",
+    "shortBio": "Lead Developer pour le CHU Nantes",
+    "bio": "Lead Developer pour le CHU Nantes, nous mettons en place les solutions innovantes dans le secteur de la santé",
     "tags": ["Discovery"],
     "badges": [],
     "socials": []
@@ -1653,7 +1726,8 @@
   "2759": {
     "id": 2759,
     "name": "Estelle Landry",
-    "company": "TABMO",
+    "company": "TabMo",
+    "companyLogo": "/images/logos/tabmo.png",
     "country": "France",
     "photoUrl": "/images/speakers/Estelle_Landry.jpg",
     "shortBio": "Passionnée d'UX et PO à ces heures perdues",
@@ -1670,6 +1744,7 @@
     "id": 2760,
     "name": "Jérôme Avoustin",
     "company": "Saagie",
+    "companyLogo": "/images/logos/saagie.svg",
     "country": "France",
     "photoUrl": "/images/speakers/Jérôme_Avoustin.png",
     "shortBio": "Software craftsman, fan d'eXtreme Programming, de DDD et de rugby",
@@ -1692,8 +1767,9 @@
     "id": 2764,
     "name": "Mathieu Humbert",
     "company": "Accenture",
+    "companyLogo": "/images/logos/accenture.png",
     "country": "France",
-    "photoUrl": "/images/speakers/Mathieu_Humbert.jpeg",
+    "photoUrl": "/images/speakers/Mathieu_Humbert.jpg",
     "shortBio": "Tech lead @Accenture & développeur passionné depuis plus de 10 ans",
     "bio": "Tech lead @Accenture & développeur passionné depuis plus de 10 ans. J'ai la chance de pouvoir travailler sur un projet alliant innovation et challenges techniques avec une architecture distribuée, des bases de donnée NoSQL, un vrai mode agile et surtout une équipe fun !",
     "tags": ["Apis", "Cloud"],
@@ -1710,10 +1786,34 @@
       }
     ]
   },
+  "2765": {
+    "id": 2765,
+    "name": "Christian Verbrugge",
+    "company": "KUKA",
+    "companyLogo": "/images/logos/kuka.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Christian_VERBRUGGE.jpg",
+    "shortBio": "Diplômé de l’ENSAM, il est aujourd’hui Directeur Conseil & Innovation chez KUKA",
+    "bio": "Diplômé de l’ENSAM, il est aujourd’hui Directeur Conseil & Innovation chez KUKA groupe International de 12.000 Personnes. A travers ses différentes expériences à l’étranger (Chine, Etats-Unis, Allemagne, Japon), Christian a acquis des compétences dans le développement de stratégies marketing et commerciales à l’international. Son esprit créatif et innovant l’a amené à bâtir un lieu d’échange et de vie autour de l’industrie 4.0 : le Techlab 4.0. Dans ce lieu se mélange l’esprit Startup, l’Education et l’envie de Collaborer.",
+    "tags": ["Kuka", "Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/C_Verbrugge"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/christian-verbrugge-3672807/"
+      }
+    ]
+  },
   "5000": {
     "id": 5000,
     "name": "Philippe Charrière",
     "company": "Clever Cloud",
+    "companyLogo": "/images/logos/clever-cloud.svg",
     "country": "France",
     "photoUrl": "/images/speakers/Philippe_Charriere.jpg",
     "shortBio": "Tech Evangelist + CSO @Clever_Cloud",
@@ -1736,6 +1836,7 @@
     "id": 5001,
     "name": "Anaïs Vivion",
     "company": "BeeApp",
+    "companyLogo": "/images/logos/beapp.png",
     "country": "France",
     "photoUrl": "/images/speakers/Anais_Vivion.jpg",
     "shortBio": "Directrice Générale et Associée BeApp",
@@ -1752,6 +1853,7 @@
     "id": 5002,
     "name": "Thomas Gx",
     "company": "Krds / CommitStrip",
+    "companyLogo": "/images/logos/commitstrip.png",
     "country": "France",
     "photoUrl": "/images/speakers/Thomas_Gx.jpg",
     "shortBio": "Thomas Gx est le fondateur de CommitStrip",
@@ -1768,6 +1870,7 @@
     "id": 5003,
     "name": "Asim Hussain",
     "company": "Microsoft",
+    "companyLogo": "/images/logos/microsoft.png",
     "country": "England",
     "photoUrl": "/images/speakers/Asim_Hussain.png",
     "shortBio": "Cloud Developer Advocate",
@@ -1775,12 +1878,71 @@
     "tags": ["Angular", "Azure", "Cloud"],
     "badges": [{
       "name": "Microsoft Advocate",
-      "description": "Microsoft Developper Advocate"
+      "description": "Microsoft Developer Advocate"
     }],
     "socials": [{
       "icon": "twitter",
       "name": "Twitter",
       "link": "https://twitter.com/jawache"
     }]
+  },
+  "5004": {
+    "id": 5004,
+    "name": "Stéphane Bégaudeau",
+    "company": "Obeo",
+    "companyLogo": "/images/logos/obeo.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Stephane_Begaudeau.jpg",
+    "shortBio": "Stéphane Bégaudeau is currently working as an Eclipse Modeling consultant at Obeo",
+    "bio": "Stéphane Bégaudeau is currently working as an Eclipse Modeling consultant at Obeo, a strategic member of the Eclipse Foundation. He is involved in multiple open source projects of the Eclipse Foundation such as Acceleo, EEF and Eclipse Sirius. He also likes to work with web technologies like React and Angular and share his passion for open source in various conferences like EclipseCon.",
+    "tags": ["Eclipse", "Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/sbegaudeau"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/sbegaudeau"
+      }
+    ]
+  },
+  "5005": {
+    "id": 5005,
+    "name": "Pier Schneider",
+    "company": "1024 architecture",
+    "companyLogo": "/images/logos/1024.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/pier_schneider.jpg",
+    "shortBio": "Co-Foundateur de 1024 architecture",
+    "bio": "Architecte de formation, artiste de déformation, Pier Schneider est l’un des co fondateur du label créatif 1024 architecture. Il conçoit et produit des dispositifs artistiques ou se mêlent les limites entre espace physique et espace numérique.",
+    "tags": [],
+    "badges": [],
+    "socials": []
+  },
+  "5006": {
+    "id": 5006,
+    "name": "Pierre Legendre",
+    "company": "U GIE IRIS",
+    "companyLogo": "/images/logos/systemeu.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Pierre_LEGENDRE.jpg",
+    "shortBio": "Pierre est chef de projet expérimenté chez U GIE IRIS, spécialiste du e-commerce alimentaire",
+    "bio": "Pierre est chef de projet expérimenté chez U GIE IRIS, spécialiste du e-commerce alimentaire. Il s'inscrit aujourd'hui dans l'esprit d'innovation d'U GIE IRIS. et a lancé, en 2017, un projet d'assistance à la préparation en Drive dans le cadre du Lab interne. L'esprit collaboratif et d'intrapreneuriat porté par l'équipe a séduit la direction et les salariés. Prochaine étape : convaincre les magasins.",
+    "tags": ["Discovery"],
+    "badges": [],
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/pielegendre"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/pierre-legendre-9b2418/"
+      }
+    ]
   }
 }
