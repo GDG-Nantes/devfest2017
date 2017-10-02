@@ -51,5 +51,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/apside.png",
     "brief": "Merci au sponsor Apside pour son soutien."
+  },
+  {
+    "id": "talend",
+    "title": "Mot du super-sponsor : Talend",
+    "posted": "2017-10-03",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/talend.png",
+    "brief": "Merci au sponsor Talend pour son soutien."
   }
 ]
