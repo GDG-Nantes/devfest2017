@@ -190,6 +190,12 @@
       "url": "https://www.saagie.com/",
       "logoUrl": "../images/logos/saagie.svg",
       "width": 220
+    },
+    {
+      "name": "IPPON",
+      "url": "https://www.ippon.fr/",
+      "logoUrl": "../images/logos/ippon.png",
+      "width": 220
     }
   ]
 }, {
