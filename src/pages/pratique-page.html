@@ -57,7 +57,7 @@
       .details-right {
         margin-left: 20px;
       }
-      
+
       @media (min-width: 601px) {
         .details-icon {
           --iron-icon-height: 72px;
@@ -75,13 +75,29 @@
 
     <div class="container">
       <div class="details">
+        <template is="dom-if" if="{{app.isDesktopSize}}">
+          <div class="details-item" cascaded>
+            <iron-icon class="details-icon" icon="explore"></iron-icon>
+            <div class="details-info">
+              <h4 class="details-title">[[localize(app.data.indoorMapTitle)]]</h4>
+            </div>
+          </div>
+
+          <div class="details-item" cascaded>
+            <iron-image
+              class="fallback-image"
+              src="/images/indoor_map.png">
+            </iron-image>
+          </div>
+        </template>
+
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="location"></iron-icon>
           <h4 class="details-title">[[localize(app.data.location.pratiqueTitle)]]</h4>
         </div>
 
         <map-pratique-block app="{{app}}" cascaded></map-pratique-block>
-        
+
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="directions"></iron-icon>
           <h4 class="details-title">[[localize(app.data.transport.title)]]</h4>
@@ -115,22 +131,6 @@
             description="[[localize(hotel.description)]]"
             price-reservation-text="[[localize(hotel.priceReservationText)]]">
           </hotel-element>
-        </template>
-
-        <template is="dom-if" if="{{app.isDesktopSize}}"> 
-          <div class="details-item" cascaded>
-            <iron-icon class="details-icon" icon="explore"></iron-icon>
-            <div class="details-info">
-              <h4 class="details-title">[[localize(app.data.indoorMapTitle)]]</h4>
-            </div>
-          </div>
-
-          <div class="details-item" cascaded>
-            <iron-image
-              class="fallback-image"
-              src="/images/indoor_map.png">
-            </iron-image>
-          </div>
         </template>
       </div>
     </div>
