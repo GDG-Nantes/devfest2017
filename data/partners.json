@@ -253,6 +253,18 @@
       "url": "http://speechlesslive.com/",
       "logoUrl": "../images/logos/Speechless_Logo.png",
       "width": 180
+    },
+    {
+      "name": "NantesTech",
+      "url": "http://www.nantestech.fr",
+      "logoUrl": "../images/logos/nantestech.png",
+      "width": 180
+    },
+    {
+      "name": "Nantes Métropole",
+      "url": "http://www.nantesmetropole.fr",
+      "logoUrl": "../images/logos/nantesmetropole.png",
+      "width": 180
     }
   ]
 }]
