@@ -69,5 +69,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/systemeu.png",
     "brief": "Merci au sponsor U GIE Iris pour son soutien."
+  },
+  {
+    "id": "sqli",
+    "title": "Mot du super-sponsor : SQLI",
+    "posted": "2017-10-06",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/sqli.png",
+    "brief": "Merci au sponsor SQLI pour son soutien."
   }
 ]
