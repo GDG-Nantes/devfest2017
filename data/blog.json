@@ -39,7 +39,7 @@
     "title": "Guide du Dev-Hero : Chapitre 5",
     "posted": "2017-09-13",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
     "image": "/images/posts/program-announced.jpg",
     "brief": "Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2017 est disponible."
   },
@@ -48,7 +48,7 @@
     "title": "Mot du super-sponsor : Apside",
     "posted": "2017-10-02",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
     "image": "/images/posts/apside.png",
     "brief": "Merci au sponsor Apside pour son soutien."
   },
@@ -57,7 +57,7 @@
     "title": "Mot du super-sponsor : Talend",
     "posted": "2017-10-03",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#455A64",
+    "secondaryColor": "#5A7785",
     "image": "/images/posts/talend.png",
     "brief": "Merci au sponsor Talend pour son soutien."
   },
@@ -66,7 +66,7 @@
     "title": "Mot du super-sponsor : U GIE Iris",
     "posted": "2017-10-05",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
     "image": "/images/posts/systemeu.png",
     "brief": "Merci au sponsor U GIE Iris pour son soutien."
   },
@@ -78,5 +78,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/sqli.png",
     "brief": "Merci au sponsor SQLI pour son soutien."
+  },
+  {
+    "id": "creative",
+    "title": "Mot du super-sponsor : Groupe CREATIVE",
+    "posted": "2017-10-09",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/creative.png",
+    "brief": "Merci au sponsor Groupe CREATIVE pour son soutien."
   }
 ]
