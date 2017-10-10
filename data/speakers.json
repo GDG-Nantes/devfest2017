@@ -183,23 +183,61 @@
   },
   "546": {
     "id": 546,
-    "name": "Michel Rousseau",
-    "company": "Microsoft",
-    "companyLogo": "/images/logos/microsoft.png",
+    "name": "Victor Boquet",
+    "company": "Synergiz",
+    "companyLogo": "/images/logos/synergiz.png",
     "country": "France",
-    "photoUrl": "/images/speakers/michel_Rousseau.jpg",
-    "shortBio": "Passionné par le design et l'UX, je travaille chez Microsoft",
-    "bio": "Passionné par le design et l'UX, je travaille chez Microsoft à propager les messages inhérents à ce domaine auprès des développeurs, des décideurs, des startupeurs. Je suis avant tout un créateur de pixels le jour, en 2D, en 3D, en temps réel, en statique ou en dynamique, et destructeur de pixel la nuit, surtout sur les jeux vidéo à la première personne.",
+    "photoUrl": "/images/speakers/Victor_Boquet.png",
+    "shortBio": "Designer UX/UI chez Synergiz, explorateur des nouvelles technologies et de la culture maker et membre fondateur du collectif BBB",
+    "bio": "Designer UX/UI chez Synergiz, explorateur des nouvelles technologies et de la culture maker et membre fondateur du collectif BBB.",
     "tags": ["Design", "UX", "Discovery"],
-    "badges": [{
-      "name": "Microsoft Advocate",
-      "description": "Microsoft Developer Advocate"
-    }],
-    "socials": [{
-      "icon": "twitter",
-      "name": "Twitter",
-      "link": "https://twitter.com/rousseau_michel"
-    }]
+    "badges": [],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/VBoquet"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/victor-boquet-485aba84"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.victorboquet.com"
+      }
+    ]
+  },
+  "547": {
+    "id": 547,
+    "name": "Benjamin Launay",
+    "company": "Synergiz",
+    "companyLogo": "/images/logos/synergiz.png",
+    "country": "France",
+    "photoUrl": "/images/speakers/Benjamin_Launay.png",
+    "shortBio": "Designer spécialisé dans l’UX et l’ergonomie, particulièrement sur les interfaces Windows",
+    "bio": "Designer spécialisé dans l’UX et l’ergonomie, particulièrement sur les interfaces Windows. Il travaille également l'animation et le motion design, deux pratiques complémentaires au design d'applications. Benjamin est UX designer et chef de projet chez Synergiz, une entreprise française spécialisée dans les NUI et le développement d'applications innovantes pour l’écosystème Microsoft.",
+    "tags": ["Design", "UX", "Discovery"],
+    "badges": [],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/AieAieEye"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "www.linkedin.com/in/benjamin-launay-b74470106"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.aieaieeye.com"
+      }
+    ]
   },
   "551": {
     "id": 551,
