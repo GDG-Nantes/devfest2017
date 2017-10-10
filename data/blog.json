@@ -87,5 +87,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/creative.png",
     "brief": "Merci au sponsor Groupe CREATIVE pour son soutien."
+  },
+  {
+    "id": "epitech",
+    "title": "Mot du super-sponsor : Epitech",
+    "posted": "2017-10-10",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/epitech.png",
+    "brief": "Merci au sponsor Epitech pour son soutien."
   }
 ]
