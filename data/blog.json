@@ -96,5 +96,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/epitech.png",
     "brief": "Merci au sponsor Epitech pour son soutien."
+  },
+  {
+    "id": "capgemini",
+    "title": "Mot du super-sponsor : Capgemini",
+    "posted": "2017-10-12",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
+    "image": "/images/posts/capgemini.png",
+    "brief": "Merci au sponsor Capgemini pour son soutien."
   }
 ]
