@@ -105,5 +105,14 @@
     "secondaryColor": "#455A64",
     "image": "/images/posts/capgemini.png",
     "brief": "Merci au sponsor Capgemini pour son soutien."
+  },
+  {
+    "id": "zenika",
+    "title": "Mot du super-sponsor : Zenika",
+    "posted": "2017-10-13",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/zenika.png",
+    "brief": "Merci au sponsor Zenika pour son soutien."
   }
 ]
