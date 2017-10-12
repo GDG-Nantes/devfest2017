@@ -114,5 +114,14 @@
     "secondaryColor": "#5A7785",
     "image": "/images/posts/zenika.png",
     "brief": "Merci au sponsor Zenika pour son soutien."
+  },
+  {
+    "id": "venue",
+    "title": "Guide du Dev-Hero : Chapitre 6",
+    "posted": "2017-10-12",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/venue.jpg",
+    "brief": "Ca y est le DevFest arrive à grand pas, il est maintenant temps pour vous de vous organiser !"
   }
 ]
