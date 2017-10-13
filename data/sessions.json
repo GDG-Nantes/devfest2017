@@ -897,7 +897,7 @@
   "1970": {
     "id": 1970,
     "title": "Développez vos propres supers-pouvoirs dans une réalité mixte... et avec des Hololens",
-    "description": "**Envie de jouer d'égal à égal avec Superman ou d'autres super-héros ?**\n\nVenez découvrir l'essentiel des **prérequis et techniques de développement** de projets en réalité mixte (Holographique) sous Hololens.\n\nNous utiliserons ``Unity 3D``, ``Visual Studio 2017``, du ``C#`` et quelques services du cloud si besoin d'intelligence artificielle.\n\nVous pourrez ainsi défier les **Marvel** dans votre réalité \"parallèle\", juste le temps d'un lab.",
+    "description": "**Envie de jouer d'égal à égal avec Superman ou d'autres super-héros ?**\n\nVenez découvrir l'essentiel des **prérequis et techniques de développement** de projets en réalité mixte (Holographique) sous Hololens.\n\nNous utiliserons ``Unity 3D``, ``Visual Studio 2017``, du ``C#`` et quelques services du cloud si besoin d'intelligence artificielle.\n\nVous pourrez ainsi défier les **Marvel** dans votre réalité \"parallèle\", juste le temps d'un lab.\n\n**Prérequis**\n\n- Matériel :\n - PC avec Windows 10 avec Hyper-V (Pro, Entreprise ou Education), 64bits, 4 coeurs, 8Go RAM, GPU compatible DirectX 11\n\n- Logiciels :\n - Unity 3D version Unity 2017.1.0f3 + Universal Windows Platform development\n - Visual Studio 2015 Update 3 ou 2017\n - Hololens emulator\n\nLa procédure d'installation et de paramétrage complète du poste de développement est disponible ici (ne tenir compte que de la partie concernant Hololens) : https://developer.microsoft.com/en-us/windows/mixed-reality/install_the_tools",
     "type": "codelab",
     "track": {
       "title": "Les machines"
