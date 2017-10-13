@@ -271,7 +271,7 @@
   "1733": {
     "id": 1733,
     "title": "Développez votre première application Vue.js",
-    "description": "La popularité de Vue.js a connu une croissance impressionnante ces derniers mois. La librairie est définitivement ancrée dans les tendances 2017 du développement JavaScript. Vue.js séduit de nombreux développeurs à travers sa facilité d’utilisation et sa rapidité de prise en main.\n\nNous vous proposons de découvrir cette librairie à travers un code lab interactif !",
+    "description": "La popularité de Vue.js a connu une croissance impressionnante ces derniers mois. La librairie est définitivement ancrée dans les tendances 2017 du développement JavaScript. Vue.js séduit de nombreux développeurs à travers sa facilité d’utilisation et sa rapidité de prise en main.\n\nNous vous proposons de découvrir cette librairie à travers un code lab interactif !\n\nPrérequis:\nAvoir une version récente de Node.js et Npm.\nVisual Studio Code et le plugin Vetur sont un plus !",
     "type": "codelab",
     "track": {
       "title": "Les machines"
