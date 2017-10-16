@@ -1029,7 +1029,7 @@
     "id": 2386,
     "name": "Peggy Auffray",
     "company": "U GIE IRIS",
-    "companyLogo": "/images/logos/systemeu.png",
+    "companyLogo": "/images/logos/systemeu.jpg",
     "country": "France",
     "photoUrl": "/images/speakers/Peggy_AUFFRAY.jpg",
     "shortBio": "Peggy Auffray est directrice de projets Innovation à U GIE IRIS",
@@ -1478,15 +1478,26 @@
   },
   "2634": {
     "id": 2634,
-    "name": "Rémi Roche",
-    "company": "ROCHER",
+    "name": "Julien Tanguy",
+    "company": "Valwin",
+    "companyLogo": "/images/logos/valwin.png",
     "country": "France",
-    "photoUrl": "/images/speakers/Remi_Roche.jpg",
-    "shortBio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies",
-    "bio": "Diplômé de l’ECE, HEC Paris et NYU Stern, Rémi est passionné de trading des crypto monnaies. Il accompagne les entreprises soucieuses de réussir leur transformation digitale (big data, blockchain). Co-auteur du livre \"Mind Mapping Pour être efficace au travail et dans les études\", il contribue également au développement de l'association Yes Group France.",
-    "tags": ["Blockchain", "Discovery"],
+    "photoUrl": "/images/speakers/julien_tanguy.jpg",
+    "shortBio": "Hobbyist haskeller & functional enthusiast",
+    "bio": "Hobbyist haskeller & functional enthusiast.",
+    "tags": ["Cloud", "Macaroon"],
     "badges": [],
-    "socials": []
+    "socials": [{
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/jutanguy"
+      },
+      {
+        "icon": "github",
+        "name": "Github",
+        "link": "https://github.com/jtanguy"
+      }
+    ]
   },
   "2647": {
     "id": 2647,
@@ -1964,7 +1975,7 @@
     "id": 5006,
     "name": "Pierre Legendre",
     "company": "U GIE IRIS",
-    "companyLogo": "/images/logos/systemeu.png",
+    "companyLogo": "/images/logos/systemeu.jpg",
     "country": "France",
     "photoUrl": "/images/speakers/Pierre_LEGENDRE.jpg",
     "shortBio": "Pierre est chef de projet expérimenté chez U GIE IRIS, spécialiste du e-commerce alimentaire",
