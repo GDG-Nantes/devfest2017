@@ -90,9 +90,9 @@
   </style>
 
   <script>
-    navigator.serviceWorker.getRegistrations().then(function(registrations) {
-      for(let registration of registrations) {
-        registration.unregister()
+    if(navigator && navigator.serviceWorker) navigator.serviceWorker.getRegistrations().then(function(registrations) {
+      for(var index in registrations) {
+        registrations[index].unregister()
       }
     })
 

@@ -66,6 +66,18 @@
         }
       }
 
+      @media (max-width: 600px) {
+        .indoor-map {
+          max-width: 100%;
+          width: 100%;
+          height: auto !important;
+        }
+        .indoor-map-container {
+          max-width: 500px;
+          max-height: 500px;
+        }
+      }
+
       @media (min-width: 1600px) {
         .container {
           max-width: 960px;
@@ -75,21 +87,19 @@
 
     <div class="container">
       <div class="details">
-        <template is="dom-if" if="{{app.isDesktopSize}}">
-          <div class="details-item" cascaded>
-            <iron-icon class="details-icon" icon="explore"></iron-icon>
-            <div class="details-info">
-              <h4 class="details-title">[[localize(app.data.indoorMapTitle)]]</h4>
-            </div>
+        <div class="details-item" cascaded>
+          <iron-icon class="details-icon" icon="explore"></iron-icon>
+          <div class="details-info">
+            <h4 class="details-title">[[localize(app.data.indoorMapTitle)]]</h4>
           </div>
+        </div>
 
-          <div class="details-item" cascaded>
-            <iron-image
-              class="fallback-image"
-              src="/images/indoor_map.png">
-            </iron-image>
-          </div>
-        </template>
+        <div class="details-item indoor-map-container" cascaded>
+          <iron-image
+            class="fallback-image indoor-map"
+            src="/images/indoor_map.png">
+          </iron-image>
+        </div>
 
         <div class="details-item" cascaded>
           <iron-icon class="details-icon" icon="location"></iron-icon>
