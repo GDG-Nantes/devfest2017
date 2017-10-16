@@ -622,8 +622,8 @@
   },
   "1874": {
     "id": 1874,
-    "title": "Stateless authorization and delegation with Macaroons",
-    "description": "Session cookies, Oauth, OpenID, Json Web Tokens, SESSION_ID in query params: we have many ways to perform authentication and authorization. Authentication, albeit complex, is often regarded as known. In this session, we'll explore the authorization side of things, and how a simple Macaroon can do without having to implement the dreaded OAuth.",
+    "title": "Macarons: des cookies en mieux !",
+    "description": "En ces temps de microservices, l'authentification/autorisation est souvent un point douloureux et centralisé dans l'infrastructure. La chute du service d'auth représente en général l'arrêt de tous les autres microservices. Nous verrons dans ce talk un mécanisme de tokens d'auth décentralisé qui permet aux intermédiaires d'affaiblir les droits de ces tokens sans avoir besoin d'accéder au service d'auth central.",
     "type": "quicky",
     "track": {
       "title": "Belem"
