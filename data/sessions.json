@@ -622,8 +622,8 @@
   },
   "1874": {
     "id": 1874,
-    "title": "Trader bitcoin et les autres crypto monnaies",
-    "description": "Les crypto monnaies sont un phénomène de société encore peu connu. Cependant, les récentes levées de fond de plusieurs centaines de millions d'euros démontrent l'intérêt grandissant du public. Nombreux sont ceux qui essaient de trader ces nouveaux actifs. \nMais, la masse d'information à traiter est importante. Et les centaines de crypto monnaies disponibles sur plusieurs places boursières rendent difficile la possibilité de saisir le maximum d'opportunités. Je vous propose au cours de cette présentation de comprendre comment faciliter votre trading à l'aide de la collecte d'information sur le web et l'algotrading...",
+    "title": "Stateless authorization and delegation with Macaroons",
+    "description": "Session cookies, Oauth, OpenID, Json Web Tokens, SESSION_ID in query params: we have many ways to perform authentication and authorization. Authentication, albeit complex, is often regarded as known. In this session, we'll explore the authorization side of things, and how a simple Macaroon can do without having to implement the dreaded OAuth.",
     "type": "quicky",
     "track": {
       "title": "Belem"
