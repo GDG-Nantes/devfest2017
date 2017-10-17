@@ -1554,7 +1554,7 @@
     "country": "USA",
     "photoUrl": "/images/speakers/Romain_Guy.jpg",
     "shortBio": "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit.",
-    "bio": "In this session you will discover why your application doesn't look the same across multiple devices and why your designer's mock looks different on your computer. After learning what color really is, you will understand how to setup your design environment and how to use new APIs in Android O to manage colors properly and take advantage of wide color gamut displays.",
+    "bio": "Android Graphics team manager at Google. I previously worked for several years as the manager and tech lead of the Android Framework team. I mostly focused on graphics and the UI toolkit.",
     "tags": ["Android", "Mobile"],
     "badges": [],
     "socials": [{
