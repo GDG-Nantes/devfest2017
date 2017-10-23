@@ -269,12 +269,12 @@
   ],
   "tweetsSource": "https://tweeter-devfestnantes.herokuapp.com/favoritesjson.php?c=10&cache_interval=8000",
   "gallery": {
-    "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157676475088136",
+    "albumUrl": "https://www.flickr.com/photos/129650261@N07/sets/72157688271908524",
     "photos": {
-      "big": "/images/backgrounds/2016_1.jpg",
+      "big": "/images/backgrounds/2017_1.jpg",
       "small": [
-        "/images/backgrounds/2016_2.jpg",
-        "/images/backgrounds/2016_3.jpg"
+        "/images/backgrounds/2017_2.jpg",
+        "/images/backgrounds/2017_3.jpg"
       ]
     }
   },
