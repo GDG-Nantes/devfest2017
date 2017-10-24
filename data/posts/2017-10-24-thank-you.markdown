@@ -1,0 +1,21 @@
+## Thank you
+
+Tout d'abord nous tenons à vous remercier pour votre participation au DevFest Nantes 2017.
+Nous espérons que vous avez passé un bon moment, rencontré plein de monde et profité d'un maximum de sessions.
+
+Afin d'identifier les points forts et les points à améliorer, pourriez-vous prendre quelques minutes pour remplir le formulaire suivant : 
+<center><h1><b>
+	<a href="https://goo.gl/forms/NfPtzXPhVaUVVwKX2" target="_blank">Formulaire de satisfaction</a>
+</b></h1></center>
+
+Cela nous permettra de faire du DevFest Nantes un événement encore plus intéressant et pertinent en 2018.
+
+Sachez aussi que toutes les photos du DevFest Nantes seront disponibles dans la semaine sur <a href="https://www.flickr.com/photos/129650261@N07/albums" target="_blank">flickr</a> et les vidéos sur notre <a href="https://www.youtube.com/user/francegdg" target="_blank">chaîne Youtube</a>.
+
+<center><h1><b>
+	Save the date : DevFest 2018<br>
+	les 18 & 19 Octobre<br>
+	à La Cité des Congrès de Nantes
+</b></h1></center>
+
+Tenez-vous au courant de l'ouverture du call for paper et des places en suivant notre compte officiel twitter : <a href="https://twitter.com/devfestnantes" target="_blank">DevFest Nantes 2018</a>.
