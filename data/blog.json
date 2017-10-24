@@ -120,8 +120,17 @@
     "title": "Guide du Dev-Hero : Chapitre 6",
     "posted": "2017-10-12",
     "primaryColor": "#5A7785",
-    "secondaryColor": "#5A7785",
+    "secondaryColor": "#455A64",
     "image": "/images/posts/venue.jpg",
     "brief": "Ca y est le DevFest arrive à grand pas, il est maintenant temps pour vous de vous organiser !"
+  },
+  {
+    "id": "thank-you",
+    "title": "Thanks to all Dev-Heroes",
+    "posted": "2017-10-24",
+    "primaryColor": "#5A7785",
+    "secondaryColor": "#5A7785",
+    "image": "/images/posts/thank-you.jpg",
+    "brief": "Et oui le DevFest est terminé, merci à toutes et à tous pour votre participation et rendez-vous les 18 & 19 Octobre 2018 !"
   }
 ]
