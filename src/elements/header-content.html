@@ -4,6 +4,8 @@
 
 <link rel="import" href="../../bower_components/paper-tabs/paper-tabs.html">
 
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
 <link rel="import" href="../../bower_components/neon-animation/neon-animated-pages.html">
 
 <link rel="import" href="../styles/shared-styles.html">
@@ -92,7 +94,7 @@
       }
 
       .action-buttons paper-button {
-        @apply(--layout-vertical);
+        @apply(--layout-horizontal);
         @apply(--layout-center-justified);
       }
 
@@ -101,16 +103,9 @@
         color: #fff;
       }
 
-      .open-video {
-        @apply(--layout-horizontal);
-        @apply(--layout-center);
-        margin-top: 20px;
-        cursor: pointer;
-        font-size: 16px;
-      }
-
-      .open-video iron-icon {
-        margin-right: 5px;
+      iron-icon {
+        color: #fff;
+        margin-right: 6px;
       }
 
       @media (min-width: 601px) {
@@ -139,16 +134,18 @@
                           alt="DevFest Nantes 2017"></iron-image>
               <h3 class="dates">{{localize('dates')}}</h3>
               <h2 class="motto">{{localize('motto')}}</h2>
-              <div class="open-video" on-tap="_openVideo">
-                <iron-icon icon="play"></iron-icon>
-                {{localize('play-icon')}}
-              </div>
               <div class="action-buttons">
-                <a href="https://www.chooseyourboss.com/users/sign_up?event=devfest-nantes-2017" target="_blank" rel="noopener noreferrer">
-                  <paper-button class="primary">[[localize('go-to-jobboard')]]</paper-button>
+                <a href="TODO" target="_blank" rel="noopener noreferrer">
+                  <paper-button class="primary">
+                    <iron-icon icon="video"></iron-icon>
+                    [[localize('videos')]]
+                  </paper-button>
                 </a>
                 <a href="https://www.flickr.com/photos/129650261@N07/sets/72157688271908524" target="_blank" rel="noopener noreferrer">
-                  <paper-button class="primary">[[localize('album-photo')]]</paper-button>
+                  <paper-button class="primary">
+                    <iron-icon icon="photo"></iron-icon>
+                    [[localize('album-photo')]]
+                  </paper-button>
                 </a>
               </div>
             </div>
@@ -218,12 +215,6 @@
             notify: true,
             value: 0
           }
-        },
-
-        _openVideo: function () {
-          HOVERBOARD.Elements.Template.openVideo(this.app.data.pages.home.headerSettings.video.title,
-            this.app.data.pages.home.headerSettings.video.youtubeId, true);
-          HOVERBOARD.Analytics.trackEvent('video', 'watch', this.app.data.pages.home.headerSettings.video.title);
         },
 
         _scrollToTickets: function () {
