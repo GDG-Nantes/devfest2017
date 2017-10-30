@@ -103,6 +103,7 @@
     "title": "Mixed Reality for Social Good",
     "description": "Exciting times for mixed reality enthusiasts. With many AR and VR platforms now available, we're witnessing the birth of a new medium. \n\nIn many ways, this boom is similar to the personal computer revolution of the 70s and 80s. People are wondering: \"Besides games, what are these gadgets good for, anyway?\"\n\nIn this session, we'll see how people are using mixed reality for social good. Then, we'll learn about the Tango and Daydream platforms from Google. We'll use these and other platforms to build our own mixed reality experience.",
     "type": "talk",
+    "presentation": "https://drive.google.com/open?id=0B7fEiQkvHybLOUlra3ppNWFBbXM",
     "track": {
       "title": "Titan"
     },
@@ -306,6 +307,7 @@
     "title": "Et si on jouait un peu... Une petite partie des Aventuriers du Rails ?",
     "description": "Tous le monde connait les jeux de plateau tel que <b>Les aventuriers du Rail</b>, <b>Contagion</b> ou bien <b>Small World</b>. Mais saviez vous qu'il existe une version numérique de ces mêmes jeux jouable en réseau ? \n\nCes jeux, appelés <i>Board Games</i> sont un type bien particulier d'application disponibles sur tous les stores et toutes les plateformes qui demande une conception bien particulière afin d'attirer une communauté et d'être rentable.\n\nNous allons voir les enjeux et les règles qui régissent l'univers impitoyable des <i>Board Games</i> et comment techniquement un jeu de ce type est dévéloppé.",
     "type": "talk",
+    "presentation": "https://speakerdeck.com/ddway2/les-aventuriers-du-rail-une-petite-partie",
     "track": {
       "title": "Bretagne"
     },
@@ -326,6 +328,7 @@
     "title": "Un ChatBot vocal pour Amazon Alexa en 20 min",
     "description": "Les Chatbots, assistants virtuels ou encore les robots conversationnels sont tous des faces d’une même pièce, si le nom change le principe reste le même ! Certains vous permettre de réserver un restaurant ou de trouver les meilleures offres de voyages, d’autres de commander un taxi à travers l’interface de votre application de messagerie et sans avoir besoin de quitter votre logiciel préféré ni d’ouvrir une nouvelle application.\n\nPas que ça, Amazon a lancé des enceintes connectées interactives capables de répondre aux commandes vocales grace à Amazone Alexa. \n\nDurant ce Hand-on de 20 minutes je ramène l'enceinte intelligente Amazon Echo et on vas développer ensemble un ChatBot vocal pour Amazon Alexa avec Node.js, ensuite on vas la déployer sur AWS Lambda et la rendre plus humain avec la nouvelle plateforme du traitement automatique du langage naturel (NLP) Amazon Lex.",
     "type": "quicky",
+    "presentation": "https://docs.google.com/presentation/d/17IY4kCySfYnlpViTmmEBpT6QxbBapu2uuELv55P6UuA/edit#slide=id.p",
     "track": {
       "title": "Belem"
     },
@@ -449,6 +452,7 @@
     "title": "Faites chauffer les neurones de votre smartphone avec du deep learning on-device",
     "description": "Nous entendons aujourd'hui parler de Deep Learning un peu partout : reconnaissance d'images, de sons, génération de texte, etc. Les annonces sur Android Neural Network API et TensorFlowLite, la release du framework CoreML d’Apple, toutes ces actions nous confirment la tendance d’aller plus loins sur l’on-device intelligence.\nMais, bien que les techniques et frameworks soient en train de se démocratiser, il reste difficile d'en voir des applications concrètes en entreprise, et encore moins sur des applications mobiles. Nous avons donc décidé de construire un Proof Of Concept pour relever les défis du domaine.\nA travers une application mobile à but éducatif utilisant du Deep Learning pour de la reconnaissance d’objets, nous aborderons les questions des impacts de ce type de modèle sur les smartphones, d'architecture pour l'entraînement et le déploiement de modèles sur le service Cloud, ainsi que la construction de l’application mobile avec les dernières nouveautés annoncées.",
     "type": "talk",
+    "presentation": "https://speakerdeck.com/jinqian/faites-chauffer-les-neurones-de-votre-smartphone-avec-du-deep-learning-on-device",
     "track": {
       "title": "Graslin"
     },
@@ -558,6 +562,7 @@
     "title": "The Deep Learning Codelab",
     "description": "La recommandation, la reconnaissance vocale, la recherche d'image.  Le machine learning : l'apprentissage automatique dans la langue de Molière (écrivain décidément moderne).  Voilà ce qu'est l'avenir.\n\nEt pour le dev quotidien, tout est perdu ?  Pas du tout.  Les outils du ML se multiplient.\n\nVenez passer deux heures apprendre ce que c'est le machine learning et, surtout, le deep learning, cet outil encore plus macéré dans la science fiction.  Après une (très brève) introduction au ML, nous allons commencer directement par le Hello World du deep learning : la reconnaissance de chiffres écrits à la mains.  Un classifieur à l'état de l'art il y a une décennie s'écrit maintenant avec une trentaine de ligne de code.\n\nÀ partir de cette expérience forte, nous allons nous lancer dans la reconnaissance d'images.  Apprenez chercher dans vos propres photos sans passer par Google.\n\nOutils utilisés dans le codelab (mais pas besoin de les maîtriser avant) : python, scikit-learn, TensorFlow, Keras.\n\nLe codelab est pour débutant en ML.  Ce serait peut-être bien que tu ne sois pas également débutant en dev.",
     "type": "codelab",
+    "presentation": "https://github.com/m09/deeplearning-codelab",
     "track": {
       "title": "Les machines"
     },
@@ -578,6 +583,7 @@
     "title": "Donner du sens à vos pages web avec Schema.org",
     "description": "Nous connaissons tous le web sémantique.\nEt si on allait encore plus loin ? Et si on offrait un niveau de compréhension supérieure à nos contenus ?\nNous allons voir ensemble les enjeux d'utiliser les micro-datas, l'importance pour les moteurs de recherches de pouvoir parser du contenu catégorisé et ainsi alimenter des outils comme le Knowledge Graph de Google.\nJe vous montrerai comment mettre en place simplement du contenu ayant du sens en s'appuyant sur Schema.org.",
     "type": "quicky",
+    "presentation": "https://speakerdeck.com/agarreau/donner-du-sens-a-vos-pages-web-avec-schema-dot-org",
     "track": {
       "title": "Bretagne"
     },
@@ -662,6 +668,7 @@
     "title": "Macarons: des cookies en mieux !",
     "description": "En ces temps de microservices, l'authentification/autorisation est souvent un point douloureux et centralisé dans l'infrastructure. La chute du service d'auth représente en général l'arrêt de tous les autres microservices. Nous verrons dans ce talk un mécanisme de tokens d'auth décentralisé qui permet aux intermédiaires d'affaiblir les droits de ces tokens sans avoir besoin d'accéder au service d'auth central.",
     "type": "quicky",
+    "presentation": "https://jtanguy.github.io/devfest2017/",
     "track": {
       "title": "Belem"
     },
@@ -722,6 +729,7 @@
     "title": "AIY with Google : Would you like to be my assistant ?",
     "description": "Currently, everybody wants to get AI and digital assistant into everything : so why not you ?\n\nA recent joined initiative from Google and the Raspberry community led to the arrival of the AIY Project,\nbringing the awesome power of Google Assistant to the tip of your maker's fingers ... but that's not all.\n\nDuring this session, we'll jam with Google's APIs & AIY Project, some Raspberry parts and of course some Python code in order to build up a pretty cool assistant.\n\nSo join \"P.A.R.K.E.R.\" and me, for a quick yet fun journey into the AIY dimension.",
     "type": "quicky",
+    "presentation": "https://t.co/rmi4OHSfxO",
     "track": {
       "title": "Graslin"
     },
@@ -742,6 +750,7 @@
     "title": "How not to fuckup with building SDK and make clients happy",
     "description": "Are you working on the client library? Or design a public API for the module that is going to be used by other team or department?\n\nIn this session, Vitality will share his experience and key learnings from building a mobile SDKs for last 4 years:\n - what is the cost of too complex API and how to simplify it;\n - what aspects of the library are important for clients;\n - how documentation should look like to avoid stupid and repetitive support questions;\n - how to make library update process smooth.\n\nThe session will be interesting for Android and iOS developers who want to learn what makes client library great. What are the best practices and common pitfalls in public API design? What is important, only programming API you expose or also ecosystem around?",
     "type": "talk",
+    "presentation": "https://drive.google.com/open?id=0B3UBk7uINu2jeUpaX0k5U2c2UE0",
     "track": {
       "title": "Belem"
     },
@@ -888,6 +897,7 @@
     "title": "Créer une application Vue avec Apollo GraphQL",
     "description": "Live coding d'une petite application Vue.js avec un serveur GraphQL déjà prêt et Apollo GraphQL (+ vue-apollo et vue-supply).",
     "type": "talk",
+    "presentation": "http://slides.com/akryum/deck-5",
     "track": {
       "title": "Titan"
     },
@@ -929,6 +939,7 @@
     "title": "mobx-state-tree, ne vous mettez plus dans tous vos états !",
     "description": "Vous en avez marre de devoir créer 300 fonctions pour mettre à jour une simple variable dans votre store Redux ?\nImaginez un monde où le store pourrait simplement se mettre à jour comme s’il s’agissait d’une variable mutable MAIS avec les avantages d’un store immutable, et rejouable… haa le paradis des développeurs React :)\n\nEt bien c’est possible ! (Vous nous avez vu venir ?!)\n\nSuivez nous dans cette présentation de mobx-state-tree, une bibliothèque créée par Michel Weststrate, le créateur de MobX.",
     "type": "talk",
+    "presentation": "https://github.com/Dedetat/pimp-my-powerpuff",
     "track": {
       "title": "Graslin"
     },
@@ -1012,6 +1023,7 @@
     "title": "Plateforme economy: augmenter l'offre et la demande grâce à l'UX",
     "description": "Depuis 2014, une startup sur 3 créée en France est une place de marché. Tourisme, alimentation, services... le développement de nouveaux modes de consommation touche chaque secteur, l'un après l'autre. Stripe, en tant que partenaire de paiements des startups les plus innovantes du monde (Deliveroo, Kickstarter, Drivy, Heetch, Instacart...), observe de près les stratégies et avantages compétitifs développés par les leaders de chaque secteur. Et si la partie \"Demande\" (produit, design, marketing) est une part évidente de leur succès, l'\"Offre\" et l'expérience des  marchands (vendeurs, livreurs, restaurants, porteurs de projet,...) sur la plateforme est sans aucun doute ce qui fait toute la différence entre un bon et un excellent produit. Lors de ce workshop, nous présenterons des conseils et des exemples concrets pour améliorer l'expérience utilisateur sur une plateforme, pour les consommateurs, comme pour le marchants. Nous aborderons dans un premier temps les tactiques adoptées lors des premières années de la place de marché (e.g., du lancement au moment où une masse critique est atteinte) où des initiatives non-scalables pour constituer rapidement une offre de qualité sont adoptées. Nous présenterions ensuite les stratégies mises en place lors du développement (post-masse critique) pour étendre son leadership, maintenir un équilibre offre/demande et s'étendre à l'étranger.",
     "type": "talk",
+    "presentation": "https://drive.google.com/file/u/0/d/0B68IQSXVd1G2N2xoTDRLYS1VNDg/view?usp=drive_web",
     "track": {
       "title": "Bretagne"
     },
@@ -1217,6 +1229,7 @@
     "title": "Android Architecture Components, une nouvelle façon de faire des applis Android",
     "description": "Tous les développeurs Android se sont retrouvés confrontés aux mêmes problèmes : complexité du cycle de vie des Fragments et des Activités ; couplage fort entre l'UI, le modèle et le contrôleur qui rend le code difficilement maintenable et testable ; ou encore verbosité et développement non-objet des bases de données natives Android.\nNombre de solutions tierces ont été mises au point par la communauté pour palier à ces problèmes et aujourd'hui, des bibliothèques comme Dagger, Realm ou EventBus sont largement utilisées dans les applications professionnelles.\nAndroid Architecture Components, développé directement par les équipes Android, prend en compte tous les soucis inhérents à l'architecture de base d'Android et propose une solution élégante et extrêmement bien intégrée pour les résoudre.\nBasée sur 4 grands composants interopérables : Lifecycle, LiveData, ViewModel et Room, cette architecture permet de découpler les briques de code afin de créer du code maintenable, extensible et testable. Les Activités ne sont finalement plus que chargées de modifier l'UI, alors que le modèle de données est maintenu en mémoire et facilement partageable entre les éléments graphiques. Enfin, la persistence devient aisée grâce à l'ORM Room qui surcouche le connecteur SQLite natif.\nNous vous proposons de passer en revue ces éléments, de montrer comment il est facile de les intégrer dans les applis, et de prouver en quoi ils permettent de produire des applis plus performantes.",
     "type": "talk",
+    "presentation": "https://docs.google.com/presentation/d/1LOLibjjxhQHSzFrvqv9Yp3WoaHyvetJELD9Uyahr5Z8/edit?usp=sharing",
     "track": {
       "title": "Graslin"
     },
@@ -1237,6 +1250,7 @@
     "title": "La place du numérique dans l'hôpital de demain",
     "description": "Parce que même les super-héros ont parfois besoin d'être soignés, le CHU de Nantes est en train de concevoir son hôpital du futur.\nMais qu'est ce que ça veut dire ? Une intelligence artificielle qui ferait passer Dr House pour un stagiaire ? Des robots qui veillent sur les patients ? Des smartphones pour diagnostiquer les problèmes ? Comment garder le coté humain dans un hôpital numérique ?\nVoici un extrait des questions auxquelles les équipes du CHU doivent répondre.\nNous vous proposons un aperçu de ce qui vous attend dans 10 ans sur l'Ile de Nantes",
     "type": "talk",
+    "presentation": "https://drive.google.com/file/d/0B8zHEvwkYqkSVWFOS1RRazFoUEU/view?usp=sharing",
     "track": {
       "title": "Belem"
     },
