@@ -1,56 +1,56 @@
 [
   {
-    "youtubeId": "rBCCfnzisTI",
-    "title": "Le Web de demaintenant",
-    "speakers": "Jean-François Garreau & François Beaufort",
-    "thumbnail": "/images/sessions/jfgarreau.jpg"
+    "youtubeId": "x6NhMtSCwLM",
+    "title": "Keynote d'ouverture / Opening keynote",
+    "speakers": "Pier Schneider",
+    "thumbnail": "/images/sessions/pier_schneider.jpg"
   },
   {
-    "youtubeId": "wElXPEpZY60",
-    "title": "Keynote de fermeture : Qui veut gagner ma carrière ?",
-    "speakers": "Thomas Gx & Etienne Issartial",
-    "thumbnail": "/images/sessions/tguenouxeissartial.jpg"
+    "youtubeId": "96iIQuhTzsc",
+    "title": "An Android Retrospective",
+    "speakers": "Romain Guy & Chet Haase",
+    "thumbnail": "/images/sessions/romain_guy_chet_haase.jpg"
   },
   {
-    "youtubeId": "rfzRbSEwnR8",
-    "title": "Ivre, il décida de commercialiser des apps tout seul",
-    "speakers": "Pierre Benayoun",
-    "thumbnail": "/images/sessions/pbenayoun.jpg"
+    "youtubeId": "NoBbTAFQCxQ",
+    "title": "Start Using CSS Grid Layout Today",
+    "speakers": "Rachel Andrew",
+    "thumbnail": "/images/sessions/rachel_andrew.jpg"
   },
   {
-    "youtubeId": "1ZUqb9mkS30",
-    "title": "Jenkins & continuous delivery pipeline",
-    "speakers": "Jean-Philippe Briend",
-    "thumbnail": "/images/sessions/jpbriend.jpg"
+    "youtubeId": "m6i6YU9G3mo",
+    "title": "Docker for developers and ops: what's new and what's next",
+    "speakers": "Patrick Chanezon",
+    "thumbnail": "/images/sessions/patrick_chanezon.jpg"
   },
   {
-    "youtubeId": "4q78S36ehCs",
-    "title": "Introduction à la programmation réactive",
-    "speakers": "Thomas Belin",
-    "thumbnail": "/images/sessions/tbelin.jpg"
+    "youtubeId": "_YfBNNe9IAo",
+    "title": "Code and Deploy Angular to the Cloud",
+    "speakers": "Simona Cotin & Asim Hussain",
+    "thumbnail": "/images/sessions/simona_cotin_asim_hussain.jpg"
   },
   {
-    "youtubeId": "a_va_QxR4HY",
-    "title": "Flexbox : après l'ivresse, place à la gueule de bois !",
-    "speakers": "Raphaël Goetter",
-    "thumbnail": "/images/sessions/rgoetter.jpg"
+    "youtubeId": "ZVqsCKsQo9g",
+    "title": "Introduction to Android Instant Apps",
+    "speakers": "Cyril Mottier",
+    "thumbnail": "/images/sessions/cyril_mottier.jpg"
   },
   {
-    "youtubeId": "HJuOC2WFNDs",
-    "title": "GraphQL vs Falcor",
-    "speakers": "Hugo Wood & Antoine Cellier",
-    "thumbnail": "/images/sessions/hwoodacellier.jpg"
+    "youtubeId": "T6YJlaY0Dpw",
+    "title": "Documentation as Code (expliqué à mon père)",
+    "speakers": "Hubert Sablonnière",
+    "thumbnail": "/images/sessions/hubert_sablonniere.jpg"
   },
   {
-    "youtubeId": "zdG0NQv8uV8",
-    "title": "Chérie, j'ai imprimé Lego'sses !",
-    "speakers": "Vincent Piard & Stéphane Cohan",
-    "thumbnail": "/images/sessions/scohan.jpg"
+    "youtubeId": "O25xbCq_LFU",
+    "title": "The great SOA migration",
+    "speakers": "Charles-Axel Dein",
+    "thumbnail": "/images/sessions/charles-axel_dein.jpg"
   },
   {
-    "youtubeId": "fEs-Z0YiqZs",
-    "title": "Tech talks: Uploadez vos idées vers d'autres êtres humains",
-    "speakers": "Pierre-Yves Ricau",
-    "thumbnail": "/images/sessions/pyricau.jpg"
+    "youtubeId": "uKEbKSM68dA",
+    "title": "Mixed Reality for Social Good",
+    "speakers": "Etienne Caron-Petit-Pas",
+    "thumbnail": "/images/sessions/etienne_caron-petit-pas.jpg"
   }
 ]

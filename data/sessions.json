@@ -25,7 +25,8 @@
     "complexity": "Beginner",
     "speakers": [
       5005
-    ]
+    ],
+    "videoId": "x6NhMtSCwLM"
   },
   "2": {
     "id": 2,
@@ -74,7 +75,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2241
-    ]
+    ],
+    "videoId": "lXZpJLixPVc"
   },
   "1541": {
     "id": 1541,
@@ -113,13 +115,15 @@
     "complexity": "Intermediate",
     "speakers": [
       2248
-    ]
+    ],
+    "videoId": "uKEbKSM68dA"
   },
   "1596": {
     "id": 1596,
     "title": "Lâchez votre JAVA et venez prendre un peu l’R ! ;)",
     "description": "R est une langage de programmation (un vrai de vrai, avec des boucles, des if/then/else, des tests unitaires et tout le tintouin), open source et gratuit, qui est principalement utilisé pour des problématiques en statistiques / data science / machine learning. L’objectif de ce quickie est de vous présenter un aperçu des forces et atouts de R. Je parie que je sais ce que vous allez fR ce week-end ! ;)",
     "type": "quicky",
+    "presentation": "https://drive.google.com/open?id=0B23jCavZxK3lTHd4NjFOWFpSeTA",
     "track": {
       "title": "Bretagne"
     },
@@ -132,7 +136,8 @@
     "complexity": "Beginner",
     "speakers": [
       1727
-    ]
+    ],
+    "videoId": "1ZhU4U063j0"
   },
   "1629": {
     "id": 1629,
@@ -152,7 +157,8 @@
     "speakers": [
       699,
       1222
-    ]
+    ],
+    "videoId": "U9tcXPosVgg"
   },
   "1636": {
     "id": 1636,
@@ -171,13 +177,15 @@
     "complexity": "Beginner",
     "speakers": [
       1173
-    ]
+    ],
+    "videoId": "KAgLl4yegDw"
   },
   "1641": {
     "id": 1641,
     "title": "Des bibliothèques graphiques originales au service de la dataviz sur le web",
     "description": "Pour développer une visualisation de données, il faut généralement un algorithme (plus ou moins compliqué) d'un côté, et de l'autre *un moteur de rendu*. Et si [d3.js](https://d3js.org) résout aujourd'hui très bien la question des algorithmes, il est très souvent simplement branché sur du SVG.\n\nPourtant, l'écosystème du rendu graphique sur le web est très riche, entre des standards robustes (SVG, Canvas, WebGL...) et des bibliothèques JavaScript très diverses, telles que [Pixi.js](http://www.pixijs.com/) ou encore [three.js](https://threejs.org/).\n\nL'objectif de ma présentation sera de mettre en valeur la mixité de ces solutions, à travers différents exemples de visualisations originales et variées.",
     "type": "talk",
+    "presentation": "http://slides.com/jacomyal/nantes-devfest-2017#/",
     "track": {
       "title": "Bretagne"
     },
@@ -190,7 +198,8 @@
     "complexity": "Intermediate",
     "speakers": [
       1807
-    ]
+    ],
+    "videoId": "mp8mcTZqSgw"
   },
   "1655": {
     "id": 1655,
@@ -209,7 +218,8 @@
     "complexity": "Beginner",
     "speakers": [
       852
-    ]
+    ],
+    "videoId": "fGqDQVj-alQ"
   },
   "1689": {
     "id": 1689,
@@ -228,13 +238,15 @@
     "complexity": "Beginner",
     "speakers": [
       2487
-    ]
+    ],
+    "videoId": "szd9hg9issI"
   },
   "1700": {
     "id": 1700,
     "title": "50 nuances de grilles",
     "description": "Bientôt incontournable, le positionnement Grid Layout va redonner ses lettres de noblesses à CSS et à nos intégrations de pages web.\n\nAu cours de cet atelier pratique (pensez à vos ordis), nous allons ensemble explorer les possibilités offertes par ce module prometteur :\n\n- Construction de grille : simple + gouttière\n- Construction de template 1 : placement explicite\n- Construction de template 2 : placement par zones\n- Construction de template 3 : avec blocks full-width + mobile-first\n- Galerie d'image : span + repeat + auto-fit + dense\n- Construction de Grille avec variables CSS ou avec un préprocesseur (Sass)\n\nPré-requis : ne pas être une quiche complète en CSS.",
     "type": "codelab",
+    "presentation": "https://speakerdeck.com/goetter/50-nuances-de-grilles",
     "track": {
       "title": "Les machines"
     },
@@ -266,7 +278,8 @@
     "complexity": "Beginner",
     "speakers": [
       227
-    ]
+    ],
+    "videoId": "1PKQ7rUK5dY"
   },
   "1733": {
     "id": 1733,
@@ -305,7 +318,8 @@
     "complexity": "Beginner",
     "speakers": [
       2519
-    ]
+    ],
+    "videoId": "BU3rY8FkEx0"
   },
   "1763": {
     "id": 1763,
@@ -324,7 +338,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2351
-    ]
+    ],
+    "videoId": "eeWprwjliZM"
   },
   "1814": {
     "id": 1814,
@@ -344,7 +359,8 @@
     "speakers": [
       546,
       547
-    ]
+    ],
+    "videoId": "g-9lvT3EzK0"
   },
   "1815": {
     "id": 1815,
@@ -363,13 +379,15 @@
     "complexity": "Expert",
     "speakers": [
       545
-    ]
+    ],
+    "videoId": "TjvBRe0blic"
   },
   "1818": {
     "id": 1818,
     "title": "Web Components: It's all rainbows and unicorns! Is it?",
     "description": "Web components are a tale of four w3c specifications. They are a hot topic now. We’ve all seen big headlines, for instance, “The Web Components revolution”, “Web Components are a game changer”, “A Tectonic Shift for Web Development”, … and so many others. They are certainly exciting and promising, nevertheless, there are some factors holding them back such as performance issues and lack of browser support. Some features seems to be more hassle than they’re worth. In this talk you’ll examine web components from a pragmatic stand point. So if you want to start using ES6 web components in production, come to learn what features can you use today. Actually, despite the still short browser support, some of web components features seems to be the best choice to start with . The assessment you’ll learn is the reflection of my personal research and work on my spare time and also feedbacks from my co-workers.",
     "type": "talk",
+    "presentation": "http://slides.com/sara_harkousse/web-components-talk-devfestnantes-2017#",
     "track": {
       "title": "Graslin"
     },
@@ -382,7 +400,8 @@
     "complexity": "Intermediate",
     "speakers": [
       1439
-    ]
+    ],
+    "videoId": "0nJnWRUBC6U"
   },
   "1824": {
     "id": 1824,
@@ -401,13 +420,15 @@
     "complexity": "Beginner",
     "speakers": [
       2572
-    ]
+    ],
+    "videoId": "7CQ7PDELDMI"
   },
   "1826": {
     "id": 1826,
     "title": "Code review : ce truc qui ne sert à rien",
     "description": "Vous venez de terminer de coder une nouvelle fonctionnalité pour votre projet. Elle est parfaite, tout est clair, vous l'avez testée dans tous les sens. Normal, le code, ça vous connaît.\n\nEt là, un type se ramène et commence à vous faire de petites remarques. Il vous parle de cohérence, de refactoring, de patterns à appliquer. Il vous fait même remarquer que ligne 42, vous avez oublié un espace avant le point virgule. Et puis il se barre, en vous donnant une petite tape sur l'épaule, et en vous souhaitant bon courage. Vous pleurez.\n\nSi c'est l'image que vous avez de la code review, alors arrêtez tout, et venez. Les code reviews nous aident à garder la cohérence technique d'un produit, sa maintenabilité, sa stabilité, et surtout nous permettent d'apprendre des autres, continuellement. Evidemment, il y a des règles à respecter pour que ça fonctionne. Mais le résultat est là.\n\nUne perte de temps ? Un truc inutile ? On en reparle.",
     "type": "quicky",
+    "presentation": "https://speakerdeck.com/scharrier/code-review-devfest-nantes",
     "track": {
       "title": "Titan"
     },
@@ -420,7 +441,8 @@
     "complexity": "Beginner",
     "speakers": [
       2559
-    ]
+    ],
+    "videoId": "6aQK6GoTbxM"
   },
   "1833": {
     "id": 1833,
@@ -441,13 +463,15 @@
       1856,
       1233,
       1721
-    ]
+    ],
+    "videoId": "8WOs-_zmG7M"
   },
   "1834": {
     "id": 1834,
     "title": "Introduction to Android Instant Apps",
     "description": "Android Instant Apps are the new kid in the large town of Android-city. The promise behind it is quite simple and groundbreaking at the same time: running native Android apps instantly on your device, without installation.\n\nIn this session we will first introduce this evolution in app sharing and discovery mostly from a user perspective. Secondly, we will discover how, as a developer, you can build an Android Instant Apps and deliver this new experience frictionless to all of your users.",
     "type": "talk",
+    "presentation": "https://speakerdeck.com/cyrilmottier/introduction-to-android-instant-apps",
     "track": {
       "title": "Belem"
     },
@@ -460,13 +484,15 @@
     "complexity": "Intermediate",
     "speakers": [
       2591
-    ]
+    ],
+    "videoId": "ZVqsCKsQo9g"
   },
   "1837": {
     "id": 1837,
     "title": "Ok Google, is there any presentation about ChatBots?",
     "description": "Ever wanted to build a chatbot? What if you could use a voice assistant to manage your agenda for the conference? Know if there are any presentations on Machine Learning, or Docker, or your favorite programming language? Find out more about a speaker...etc.\n\nIn this session, we will look at how to build our own voice assistant, using Google Cloud's natural speech and voice recognition APIs with API.AI services, and Google Cloud Functions to implement Necessary business logic.\n\nGrab some popcorn and enjoy!",
     "type": "talk",
+    "presentation": "http://slides.com/wassimchegham/ok-google-i-m-feeling-lucky-assistant-chat-bot#/",
     "track": {
       "title": "Belem"
     },
@@ -480,13 +506,15 @@
     "speakers": [
       1222,
       1028
-    ]
+    ],
+    "videoId": "oyOEh6GsD48"
   },
   "1846": {
     "id": 1846,
     "title": "Pipeline de déploiement continu dans Kubernetes",
     "description": "La mise en place d'un pipeline de déploiement continu est à la base du succès de toute plateforme. Dans cette session, vous découvrirez comment des outils open source comme Kubernetes, Deis Workflow, Helm, Draft ou encore Jenkins vous permettront de simplifier la prise en main de Kubernetes par vos équipes de développement mais aussi la mise en place d'un pipeline CI/CD robuste pour vos applications.",
     "type": "talk",
+    "presentation": "https://gist.github.com/pascals-msft/6b2af5f56dacbc01ffd14fd3ddd96025",
     "track": {
       "title": "Bretagne"
     },
@@ -499,13 +527,15 @@
     "complexity": "Intermediate",
     "speakers": [
       551
-    ]
+    ],
+    "videoId": "RzbGHluGBs0"
   },
   "1847": {
     "id": 1847,
     "title": "Retours sur l’aventure Capitaine Train",
     "description": "L’aventure Capitaine Train débute en 2010. L’objectif est simple et clair : offrir une alternative crédible à la vente de billet de train en Europe. Aujourd’hui, Capitaine Train, rachetée en 2016 et renommée entre temps « Trainline », vend plusieurs millions de billets chaque année.\n \nConstruire l’application Android a requis évidemment beaucoup de travail et de rigueur. Durant cette présentation nous détaillerons chacun des aspects qui ont permis à l’app Android Capitaine Train d’apporter régulièrement de nouvelles fonctionnalités, de respecter nos critères de qualité tout en répondant aux attentes des utilisateurs. Nous aborderons notamment l’organisation interne de l’équipe, le recrutement, les processus de développement et de mise en production, l’approche produit, le design, etc.",
     "type": "talk",
+    "presentation": "https://speakerdeck.com/cyrilmottier/retours-sur-laventure-capitaine-train",
     "track": {
       "title": "Belem"
     },
@@ -520,7 +550,8 @@
       2591,
       2607,
       1120
-    ]
+    ],
+    "videoId": "rl3jvfEdzqM"
   },
   "1852": {
     "id": 1852,
@@ -559,13 +590,15 @@
     "complexity": "Beginner",
     "speakers": [
       2625
-    ]
+    ],
+    "videoId": "SVrgarg3KNs"
   },
   "1859": {
     "id": 1859,
     "title": "Start Using CSS Grid Layout Today",
     "description": "2017 is the year of the Grid, with the long awaited CSS Grid Layout landing in browsers. In this talk I’ll demonstrate with practical examples what grid layout is, the basics of how to use it and how to start using it right now - without leaving older browsers out in the cold.",
     "type": "talk",
+    "presentation": "https://rachelandrew.co.uk/speaking/event/gdg-nantes?utm_content=buffer1c96a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
     "track": {
       "title": "Titan"
     },
@@ -578,7 +611,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2624
-    ]
+    ],
+    "videoId": "NoBbTAFQCxQ"
   },
   "1864": {
     "id": 1864,
@@ -598,13 +632,15 @@
     "speakers": [
       2557,
       5003
-    ]
+    ],
+    "videoId": "_YfBNNe9IAo"
   },
   "1871": {
     "id": 1871,
     "title": "Linuxkit : le linux façon ikea",
     "description": "Cela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\n \nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\n \nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !",
     "type": "talk",
+    "presentation": "https://drive.google.com/file/d/0B7pDl4rH0OLqVHZBMDIxTWFkOUE/view",
     "track": {
       "title": "Bretagne"
     },
@@ -618,7 +654,8 @@
     "speakers": [
       2631,
       571
-    ]
+    ],
+    "videoId": "CWTJdve0g6U"
   },
   "1874": {
     "id": 1874,
@@ -637,7 +674,8 @@
     "complexity": "Beginner",
     "speakers": [
       2634
-    ]
+    ],
+    "videoId": "KjppXKcMm9E"
   },
   "1892": {
     "id": 1892,
@@ -656,7 +694,8 @@
     "complexity": "Beginner",
     "speakers": [
       2608
-    ]
+    ],
+    "videoId": "T6YJlaY0Dpw"
   },
   "1901": {
     "id": 1901,
@@ -675,7 +714,8 @@
     "complexity": "Beginner",
     "speakers": [
       2578
-    ]
+    ],
+    "videoId": "6LNbqwXMHmk"
   },
   "1902": {
     "id": 1902,
@@ -694,7 +734,8 @@
     "complexity": "Beginner",
     "speakers": [
       2330
-    ]
+    ],
+    "videoId": "2t1U_T7wHVY"
   },
   "1905": {
     "id": 1905,
@@ -713,7 +754,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2226
-    ]
+    ],
+    "videoId": "ShhdOxQ2yTk"
   },
   "1910": {
     "id": 1910,
@@ -732,13 +774,15 @@
     "complexity": "Intermediate",
     "speakers": [
       101
-    ]
+    ],
+    "videoId": "Y1Pvs6PoOE8"
   },
   "1913": {
     "id": 1913,
     "title": "Docker for developers and ops: what's new and what's next",
     "description": "Docker moves very fast, with an edge channel released every month and a stable release every 3 months. This talk is right after DockerCon EU. Patrick will talk about what's new in Docker 17.09, which should have shipped in September, a recap of DockerCon EU announcements, and an update on the OCI standards and the Moby project, which is the upstream project from which Docker is built.",
     "type": "talk",
+    "presentation": "https://www.slideshare.net/chanezon/the-tao-of-docker-devfest-nantes-2017",
     "track": {
       "title": "Titan"
     },
@@ -751,7 +795,8 @@
     "complexity": "Intermediate",
     "speakers": [
       102
-    ]
+    ],
+    "videoId": "m6i6YU9G3mo"
   },
   "1920": {
     "id": 1920,
@@ -771,7 +816,8 @@
     "speakers": [
       328,
       1802
-    ]
+    ],
+    "videoId": "XFdKs0M_IJY"
   },
   "1926": {
     "id": 1926,
@@ -791,7 +837,8 @@
     "speakers": [
       2670,
       103
-    ]
+    ],
+    "videoId": "96iIQuhTzsc"
   },
   "1937": {
     "id": 1937,
@@ -833,7 +880,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2579
-    ]
+    ],
+    "videoId": "F6fI28yFtNM"
   },
   "1957": {
     "id": 1957,
@@ -852,7 +900,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2681
-    ]
+    ],
+    "videoId": "L7O3jVynA7I"
   },
   "1958": {
     "id": 1958,
@@ -872,7 +921,8 @@
     "speakers": [
       2386,
       5006
-    ]
+    ],
+    "videoId": "jcjQR3UnXqY"
   },
   "1962": {
     "id": 1962,
@@ -892,7 +942,8 @@
     "speakers": [
       780,
       1842
-    ]
+    ],
+    "videoId": "dmVFTX4Wyyo"
   },
   "1970": {
     "id": 1970,
@@ -919,6 +970,7 @@
     "title": "Npm, Yarn Et si la vérité était ailleurs ?",
     "description": "En matière de gestionnaire de package Javascript, tout le monde connait NPM ou YARN (au moins de nom :)). Désormais, PNPM, un nouveau challenger vient bousculer leur petit confort. PNPM apporte tellement de bonnes surprises qu'il les pousse à se réveiller et s'en inspirer. Il s'offre même le luxe d'être plus rapide qu'eux ! Et si le futur de NPM ou YARN passait par PNPM? Nous parlerons de cet outil, mais aussi de l'écosystème foisonnant des gestionnaires de paquet.",
     "type": "quicky",
+    "presentation": "https://speakerdeck.com/vincent_piard/npm-yarn-et-si-la-verite-etait-ailleurs",
     "track": {
       "title": "Graslin"
     },
@@ -931,13 +983,15 @@
     "complexity": "Beginner",
     "speakers": [
       1497
-    ]
+    ],
+    "videoId": "0hq38OWt0EM"
   },
   "2017": {
     "id": 2017,
     "title": "Ethdroid, le nouveau super pouvoir du mobile !",
     "description": "Ethdroid 2.0 est un nouveau super-héro dont le pouvoir est de connecter votre *device* Android préféré au monde décentralisé.\n\nJe vous propose de venir découvrir cette librairie Android qui va, à coups sûrs, faciliter le développement de vos **ÐApps Ethereum**.\n\nNous verrons ensemble qu'il devient ultra simple de connecter une application Android à une blockchain publique et encore plus d'interagir avec les nombreux ***smart-contracts*** déjà déployés.\n\nPréparez-vous à une arrivée de la **transparence** dans vos apps mobiles ! \n\n*Prenez un peu d'avance sur [ethmobile.io/ethdroid](http://ethmobile.io/ethdroid)*",
     "type": "quicky",
+    "presentation": "https://drive.google.com/file/d/0B5_EEKYIofw1VVBCck9RNGxJU0E/view",
     "track": {
       "title": "Belem"
     },
@@ -950,7 +1004,8 @@
     "complexity": "Beginner",
     "speakers": [
       1557
-    ]
+    ],
+    "videoId": "mIgjLQ8WKMA"
   },
   "2021": {
     "id": 2021,
@@ -969,7 +1024,8 @@
     "complexity": "Beginner",
     "speakers": [
       2719
-    ]
+    ],
+    "videoId": "KEFxoRAeceY"
   },
   "2028": {
     "id": 2028,
@@ -988,7 +1044,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2389
-    ]
+    ],
+    "videoId": "RxKBOG9jUHw"
   },
   "2034": {
     "id": 2034,
@@ -1007,13 +1064,15 @@
     "complexity": "Intermediate",
     "speakers": [
       1996
-    ]
+    ],
+    "videoId": "simbP70k6iQ"
   },
   "2038": {
     "id": 2038,
     "title": "Designing User Interfaces with Android Studio and ConstraintLayout",
     "description": "This talk will present new and current design tools in Android Studio, allowing you to easily test and create User Interfaces. We will also cover various use cases of ConstraintLayout, an unbundled, flexible and efficient layout manager, and show you how to take advantage of both this library and the design tools to quickly create modern UI and animations for your mobile application.",
     "type": "talk",
+    "presentation": "https://speakerdeck.com/camaelon/design-tools-and-constraintlayout",
     "track": {
       "title": "Belem"
     },
@@ -1026,7 +1085,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2648
-    ]
+    ],
+    "videoId": "gbEYJ9TQ6yw"
   },
   "2040": {
     "id": 2040,
@@ -1045,7 +1105,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2671
-    ]
+    ],
+    "videoId": "hNuyZj81jv8"
   },
   "2043": {
     "id": 2043,
@@ -1064,13 +1125,15 @@
     "complexity": "Beginner",
     "speakers": [
       282
-    ]
+    ],
+    "videoId": "urXVZ4NrtiQ"
   },
   "2048": {
     "id": 2048,
     "title": "On the path to WebAR",
     "description": "WebAR is coming! And some will argue it's already here. Developing augmented reality on the web can sound very complex. We have developed a way to make it easy for anyone to do AR - and we want to share it with you! In this talk, we will take you through what WebAR is, what are its possibilities, and its challenges. We will also look at other efforts that exist, and share some demos made with AR.js, our open-source solution to do efficient augmented reality on the web.",
     "type": "talk",
+    "presentation": "https://docs.google.com/presentation/d/1ZpmInKrUxSERw11QWh25R3J2Xt5Nb7nQ2DJvuJ6ngNM/edit#slide=id.p",
     "track": {
       "title": "Belem"
     },
@@ -1084,7 +1147,8 @@
     "speakers": [
       2721,
       2749
-    ]
+    ],
+    "videoId": "G5gtktwn-2U"
   },
   "2051": {
     "id": 2051,
@@ -1104,7 +1168,8 @@
     "speakers": [
       2587,
       2765
-    ]
+    ],
+    "videoId": "L4-xVwzF_1I"
   },
   "2056": {
     "id": 2056,
@@ -1130,6 +1195,7 @@
     "title": "Libérée! Délivrée! ou Comment devenir développeuse open source ?",
     "description": "On parle de diversité, un peu partout dans les communautés open source maintenant mais pour la plupart cela se résume à avoir un code of conduct. C’est loin d’être suffisant! Et si on regardait ce que l’on peut faire pour s’ouvrir aux gens de tous horizons ? Dans les entreprises ? Au sein des projets open source ? Et si vous veniez comprendre comment j’en suis arrivée à devenir développeuse de logiciels libres ? Ce talk est un retour d’expérience sur quand, pourquoi et comment je suis tombée dans l’open source. Et finalement pourquoi j’ai décidé de continuer dans cette voie.",
     "type": "quicky",
+    "presentation": "https://www.slideshare.net/melbats/devfest-2017-libre-dlivre-ou-comment-devenir-dveloppeuse-open-source",
     "track": {
       "title": "Graslin"
     },
@@ -1143,7 +1209,8 @@
     "speakers": [
       2742,
       5004
-    ]
+    ],
+    "videoId": "kLIYcIGuFjo"
   },
   "2064": {
     "id": 2064,
@@ -1162,7 +1229,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2495
-    ]
+    ],
+    "videoId": "90N7xMPqKlU"
   },
   "2074": {
     "id": 2074,
@@ -1182,13 +1250,15 @@
     "speakers": [
       2757,
       2741
-    ]
+    ],
+    "videoId": "ZsiTEU5BntU"
   },
   "2080": {
     "id": 2080,
     "title": "L'UX a sauvé mon DevOps",
     "description": "Elle s’appelle UX, lui s’appelle Devops.  \nIls sont amoureux mais sont au coeur de disputes entre deux familles rivales tels les Capulet et les Montaigu.  \nElle partage beaucoup de points communs avec lui :\n   - Ils ne voient jamais un projet dans son intégralité.\n   - Les deux sont des concepts émergeants des années 2010 au sein de l’IT.\n   - Ils sont tous les deux au centre des équipes et servent de liant entre les développeurs.\nMais malgré tout, tout les sépare !  \n  \nCependant, les choses ont changé et les meurs ont évolué.  \n  \nUn jour, alors que notre Devops tentait en vain de convaincre sa hiérarchie, de désespoir, il se tourna vers UX et pria pour son assistance.  Ce qu’il vit alors l’enchanta et il compris … Ses faiblesses étaient ses forces et il pouvait lui apporter autant.  \nSon idéation était semblable à son automatisation.  \nQuand il lui parlait de Scale, elle comprenait même si ce n’était pas la même chose (analytics scale) et leurs objectifs étaient beaucoup trop semblables pour que ce soit une coincidence …  \n  \nVenez voir l’histoire d’amour la plus improbable des ces 10 dernières années !",
     "type": "talk",
+    "presentation": "https://docs.google.com/presentation/d/11eP571-icUEGV8r94deS5BYt-Z3n9maW4sinOiiIx64/present?slide=id.g35f391192_00",
     "track": {
       "title": "Graslin"
     },
@@ -1202,7 +1272,8 @@
     "speakers": [
       191,
       2759
-    ]
+    ],
+    "videoId": "Axy_VTzg2XY"
   },
   "2088": {
     "id": 2088,
@@ -1221,7 +1292,8 @@
     "complexity": "Intermediate",
     "speakers": [
       2764
-    ]
+    ],
+    "videoId": "4UyEU6_TqXY"
   },
   "2094": {
     "id": 2094,
@@ -1240,13 +1312,15 @@
     "complexity": "Intermediate",
     "speakers": [
       2547
-    ]
+    ],
+    "videoId": "O25xbCq_LFU"
   },
   "2099": {
     "id": 2099,
     "title": "La blockchain du crétacé à l'an 3000",
     "description": "Venez découvrir la blockchain, son histoire et son actualité dans une conférence un peu décalée, visant à vulgariser cette technologie qui fait souvent un peu peur.\n\nVous apprendrez tout sur la genèse de la blockchain, quel impact ça a eu sur les dinosaures,  comment ça fonctionne, à quoi ça sert maintenant et qu'est-ce qu'on en fera en l'an 3000.\n\nVous en sortirez galvanisé et prêt à investir vos économies de toute une vie pour tenter de devenir riche en boursicotant sur les crypto-monnaies.\n\nSi vous ne devez voir qu’une conf dans votre vie…bon choisissez p’tet autre chose, mais elle reste bien quand même !",
     "type": "talk",
+    "presentation": "https://drive.google.com/drive/folders/0B9EeYg9dbgaGX1Z0d3lEdGxpQ0U",
     "track": {
       "title": "Titan"
     },
@@ -1259,7 +1333,8 @@
     "complexity": "Beginner",
     "speakers": [
       568
-    ]
+    ],
+    "videoId": "4QnCQFSGfu4"
   },
   "2107": {
     "id": 2107,
@@ -1279,6 +1354,7 @@
     "speakers": [
       2760,
       911
-    ]
+    ],
+    "videoId": "WxFnEXRGwZI"
   }
 }

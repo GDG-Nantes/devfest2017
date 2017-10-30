@@ -12,11 +12,6 @@
         "backgroundImage": "/images/backgrounds/hero1.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "DevFest Nantes 2016",
-          "youtubeId": "WucMDHXj-xQ",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
       }
@@ -343,9 +338,9 @@
     }
   ],
   "indoorMapTitle": "indoor-map-title",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiVZTEIxKLCsVWWGZBpPHwQy",
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLuZ_sYdawLiXzoAZVGFoxToXp6onOzY3_",
   "callToAction": {
     "videoTitle": "action-title",
-    "videoId": "WucMDHXj-xQ"
+    "videoId": "yLjfNCMARCw"
   }
 }
