@@ -135,11 +135,11 @@
   },
   {
     "id": "presse",
-    "title": "Ils en ont parlé ...",
+    "title": "Ils en ont parlé...",
     "posted": "2017-11-14",
     "primaryColor": "#5A7785",
     "secondaryColor": "#455A64",
     "image": "/images/posts/presse.jpg",
-    "brief": "Ils en ont parlé sur leurs sites ..."
+    "brief": "Ils en ont parlé sur leurs sites..."
   }
 ]
