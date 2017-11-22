@@ -1,18 +1,18 @@
 <table style="width: 100%; border-spacing: 10px;">
 	<tr style="height: 150px;"><td>
-			<a href="http://www.servicesmobiles.fr/devfest-nantes-be-a-coder-be-a-hero-37817" target="_blank">
-		  		<img src="/images/posts/servicesmobiles.png" width="200px" />
+			<a href="http://www.europe1.fr/emissions/ca-se-passe-chez-vous/ca-se-passe-chez-vous-19102017-3468221" target="_blank">
+  				<img src="/images/posts/europe1.png" width="200px" />
 			</a>
 		</td>
 		<td>
-			<a href="https://www.asi.fr/actualites/news-communiques/asi-sponsor-devfest-nantes-2017" target="_blank">
-		  		<img src="/images/logos/asi.png" width="200px" />
+			<a href="https://www.francebleu.fr/emissions/l-invite-e-de-7h50/loire-ocean/l-invite-de-7h50-jean-francois-garreau-un-des-organisateurs-du-devfest-de-nantes" target="_blank">
+  				<img src="/images/posts/france-bleu.jpg" width="200px" />
 			</a>
 	</td></tr>
 
 	<tr style="height: 150px;"><td>
-			<a href="https://www.fr.sogeti.com/accedez-a-linformation/evenements/devfest2017" target="_blank">
-  				<img src="/images/logos/sogeti.png" width="200px" />
+			<a href="http://www.lejournaldesentreprises.com/editions/44/services/web-et-numerique/le-devfest-de-nantes-est-le-plus-gros-festival-de-developpeurs-du-monde-18-10-2017-334697.php" target="_blank">
+  				<img src="/images/posts/lejournaldesentreprises.jpg" width="200px" />
 			</a>
 		</td>
 		<td>
@@ -27,36 +27,47 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://www.saagie.com/fr/blog/saagie-et-la-rgpd-a-nantes-pour-le-devfest" target="_blank">
-  				<img src="/images/logos/saagie.svg" width="180px" />
+			<a href="http://www.servicesmobiles.fr/devfest-nantes-be-a-coder-be-a-hero-37817" target="_blank">
+		  		<img src="/images/posts/servicesmobiles.png" width="200px" />
 			</a>
 	</td></tr>
 
 	<tr style="height: 150px;"><td>
-			<a href="http://blog.palo-it.com/2017/09/29/palo-sera-sponsor-du-devfest-nantes-2017" target="_blank">
-  				<img src="/images/logos/palo-it.png" width="200px" />
+			<a href="https://blog.empreintedigitale.fr/2017/11/09/retour-devfest-nantes-2017" target="_blank">
+	  			<img src="/images/posts/blog-empreintedigitale.png" width="200px" />
 			</a>
 		</td>
 		<td>
-			<a href="http://www.europe1.fr/emissions/ca-se-passe-chez-vous/ca-se-passe-chez-vous-19102017-3468221" target="_blank">
-  				<img src="/images/posts/europe1.png" width="200px" />
-			</a>
-	</td></tr>
-
-	<tr style="height: 150px;"><td>
-			<a href="http://www.lejournaldesentreprises.com/editions/44/services/web-et-numerique/le-devfest-de-nantes-est-le-plus-gros-festival-de-developpeurs-du-monde-18-10-2017-334697.php" target="_blank">
-  				<img src="/images/posts/lejournaldesentreprises.jpg" width="200px" />
-			</a>
-		</td>
-		<td>
-			<a href="https://www.francebleu.fr/emissions/l-invite-e-de-7h50/loire-ocean/l-invite-de-7h50-jean-francois-garreau-un-des-organisateurs-du-devfest-de-nantes" target="_blank">
-  				<img src="/images/posts/france-bleu.jpg" width="200px" />
-			</a>
-	</td></tr>
-
-	<tr style="height: 150px;"><td>
 			<a href="http://www.blog-nouvelles-technologies.fr/119702/histoire-android" target="_blank">
   				<img src="/images/posts/blog-nouvelles-technologies.jpg" width="200px" />
+			</a>
+	</td></tr>
+
+	<tr style="height: 150px;"><td>
+			<a href="https://blog.zenika.com/2017/11/03/retour-sur-le-devfest-a-nantes-2017/" target="_blank">
+  				<img src="/images/logos/zenika.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="http://www.epitech.eu/blogs/DevFest-Google-Developers-Group-Epitech-Nantes-2017-Epitech-Experience.html" target="_blank">
+  				<img src="/images/logos/epitech.png" width="200px" />
+			</a>
+	</td></tr>
+
+	<tr style="height: 150px;"><td>
+			<a href="https://www.fr.sogeti.com/accedez-a-linformation/evenements/devfest2017" target="_blank">
+  				<img src="/images/logos/sogeti.png" width="200px" />
+			</a>
+		</td>
+		<td>
+			<a href="https://www.asi.fr/actualites/news-communiques/asi-sponsor-devfest-nantes-2017" target="_blank">
+		  		<img src="/images/logos/asi.png" width="200px" />
+			</a>
+	</td></tr>
+
+	<tr style="height: 150px;"><td>
+			<a href="https://www.saagie.com/fr/blog/saagie-et-la-rgpd-a-nantes-pour-le-devfest" target="_blank">
+  				<img src="/images/logos/saagie.svg" width="180px" />
 			</a>
 		</td>
 		<td>
@@ -77,13 +88,13 @@
 	</td></tr>
 
 	<tr style="height: 150px;"><td>
-			<a href="https://blog.empreintedigitale.fr/2017/11/09/retour-devfest-nantes-2017" target="_blank">
-	  			<img src="/images/posts/blog-empreintedigitale.png" width="200px" />
+			<a href="https://techlife.talentsoft.com/une-journ%C3%A9e-dans-ma-future-vie-de-super-h%C3%A9ro%C3%AFne-57090ffbf3b6" target="_blank">
+	  			<img src="/images/posts/talentsoft.png" width="200px" />
 			</a>
 		</td>
 		<td>
-			<a href="http://www.epitech.eu/blogs/DevFest-Google-Developers-Group-Epitech-Nantes-2017-Epitech-Experience.html" target="_blank">
-  				<img src="/images/logos/epitech.png" width="200px" />
+			<a href="http://blog.palo-it.com/2017/09/29/palo-sera-sponsor-du-devfest-nantes-2017" target="_blank">
+  				<img src="/images/logos/palo-it.png" width="200px" />
 			</a>
 	</td></tr>
 </table>
