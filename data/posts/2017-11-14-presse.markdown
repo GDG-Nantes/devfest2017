@@ -86,4 +86,9 @@
   				<img src="/images/logos/epitech.png" width="200px" />
 			</a>
 	</td></tr>
+	<tr style="height: 150px;"><td colspan="2">
+			<a href="https://techlife.talentsoft.com/une-journ%C3%A9e-dans-ma-future-vie-de-super-h%C3%A9ro%C3%AFne-57090ffbf3b6" target="_blank">
+	  			<img src="/images/posts/talentsoft.png" width="200px" />
+			</a>
+	</td></tr>
 </table>
